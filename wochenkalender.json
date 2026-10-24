@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "updated": "2026-10-24T16:45:00+02:00",
+  "week_start": "2026-10-26",
+  "week_end": "2026-10-30",
+  "rates": [
+    {
+      "id": "ecb",
+      "name": "EZB",
+      "label": "Einlagensatz",
+      "value": "2,50 %",
+      "since": "2026-09-16",
+      "next_meeting": "2026-10-29",
+      "source": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
+    },
+    {
+      "id": "fed",
+      "name": "Fed",
+      "label": "Zielspanne",
+      "value": "3,75 – 4,00 %",
+      "since": "2026-09-16",
+      "next_meeting": "2026-10-28",
+      "source": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
+    },
+    {
+      "id": "boj",
+      "name": "Bank of Japan",
+      "label": "Leitzins",
+      "value": "1,25 %",
+      "since": "2026-09-18",
+      "next_meeting": "2026-10-30",
+      "source": "https://www.nippon.com/en/news/yjj2026091800484/"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-10-26",
+      "time": "10:00",
+      "type": "konjunktur",
+      "region": "DE",
+      "title": "ifo-Geschäftsklima Oktober",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+    },
+    {
+      "date": "2026-10-28",
+      "time": "19:00",
+      "type": "notenbank",
+      "region": "US",
+      "title": "Fed-Zinsentscheid",
+      "source": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "13:30",
+      "type": "konjunktur",
+      "region": "US",
+      "title": "BIP 3. Quartal (1. Schätzung)",
+      "source": "https://www.bea.gov/news/schedule/full"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "13:30",
+      "type": "inflation",
+      "region": "US",
+      "title": "PCE-Inflation September",
+      "source": "https://www.bea.gov/news/schedule/full"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:15",
+      "type": "notenbank",
+      "region": "EU",
+      "title": "EZB-Zinsentscheid",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "",
+      "type": "notenbank",
+      "region": "JP",
+      "title": "Bank-of-Japan-Zinsentscheid",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "09:55",
+      "type": "arbeitsmarkt",
+      "region": "DE",
+      "title": "Arbeitsmarktdaten Oktober",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "10:00",
+      "type": "konjunktur",
+      "region": "DE",
+      "title": "BIP 3. Quartal (1. Schätzung)",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "11:00",
+      "type": "konjunktur",
+      "region": "EU",
+      "title": "BIP 3. Quartal (1. Schätzung)",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+    },
+    {
+      "date": "2026-10-30",
+      "time": "14:00",
+      "type": "inflation",
+      "region": "DE",
+      "title": "Inflation Oktober (vorläufig)",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+    }
+  ],
+  "earnings": [
+    { "date": "2026-10-27", "company": "Porsche AG" },
+    { "date": "2026-10-27", "company": "Beiersdorf" },
+    { "date": "2026-10-27", "company": "Novartis" },
+    { "date": "2026-10-27", "company": "Coca-Cola" },
+    { "date": "2026-10-27", "company": "Boeing" },
+    { "date": "2026-10-27", "company": "Visa" },
+    { "date": "2026-10-28", "company": "BASF" },
+    { "date": "2026-10-28", "company": "Deutsche Bank" },
+    { "date": "2026-10-28", "company": "Mercedes-Benz" },
+    { "date": "2026-10-28", "company": "UBS" },
+    { "date": "2026-10-28", "company": "Alphabet" },
+    { "date": "2026-10-28", "company": "Microsoft" },
+    { "date": "2026-10-29", "company": "Volkswagen" },
+    { "date": "2026-10-29", "company": "Adidas" },
+    { "date": "2026-10-29", "company": "MTU Aero Engines" },
+    { "date": "2026-10-29", "company": "Shell" },
+    { "date": "2026-10-29", "company": "Eli Lilly" },
+    { "date": "2026-10-29", "company": "Mastercard" },
+    { "date": "2026-10-29", "company": "Amazon" },
+    { "date": "2026-10-29", "company": "Intel" },
+    { "date": "2026-10-29", "company": "Coinbase" },
+    { "date": "2026-10-30", "company": "Puma" },
+    { "date": "2026-10-30", "company": "AstraZeneca" },
+    { "date": "2026-10-30", "company": "ExxonMobil" },
+    { "date": "2026-10-30", "company": "Chevron" }
+  ]
+}
