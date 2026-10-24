@@ -1,0 +1,1394 @@
+{
+ "version": 1,
+ "updated": "2026-10-24T17:30:00+02:00",
+ "stand": "2026-10-19",
+ "anbieter": [
+  "tr",
+  "tp",
+  "sb",
+  "cd",
+  "cb",
+  "fz",
+  "sbr",
+  "tg"
+ ],
+ "rows": [
+  {
+   "section": "Auf einen Blick"
+  },
+  {
+   "label": "Schwerpunkt",
+   "cells": [
+    [
+     {
+      "t": "text",
+      "v": "App-Broker mit Girokonto, Sparplänen ab 1 € und Guthabenzins"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Viele Handelsplätze, Orders über gettex ab 500 € ohne Gebühr"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Rund 30 Handelsplätze, Zinskonto, Altersvorsorgedepot ab 2027"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Vollbank (Commerzbank) mit Girokonto und Auslandsbörsen"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Vollbank mit Trading-Werkzeugen und kostenlosen ETF-Sparplänen"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Günstiger Handel über gettex, lange Handelszeiten, echte Kryptos"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Broker der Sparkassen mit 41 Börsen und kostenlosen Sparplänen"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "0 € Order direkt an der Tradegate Exchange"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Aktuelle Neukundenaktion",
+   "hint": "befristet, Bedingungen beim Anbieter",
+   "highlight": true,
+   "cells": [
+    [
+     {
+      "t": "nooffer",
+      "v": "Keine allgemeine Neukundenprämie"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "60 € in ETF-Anteilen"
+     },
+     {
+      "t": "sub",
+      "v": "3 Trades à mind. 100 € in 45 Tagen · Depotwert mind. 1.000 €"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "Altersvorsorgedepot vormerken:\n3 Jahre ETF-Kosten (TER) erstattet"
+     },
+     {
+      "t": "sub",
+      "v": "Standarddepot · bis 25.000 € · Start 2027"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "Bis zu 150 € Prämie\n+ 36 Monate 3,90 € je Trade"
+     },
+     {
+      "t": "sub",
+      "v": "Eröffnung bis 01.11.2026"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "12 Monate 0,95 € je Order\n+ Apple-Aktie"
+     },
+     {
+      "t": "sub",
+      "v": "Order über Tradegate · Apple-Aktie nur über die UpTrade-Aktionsseite (Antrag bis 30.12.2026)"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "5 € Gutschrift je Trade\n12 Monate, max. 240 €"
+     },
+     {
+      "t": "sub",
+      "v": "Registrierung 14.–31.10.2026 über Aktionslink · Sparpläne zählen nicht"
+     }
+    ],
+    [
+     {
+      "t": "nooffer",
+      "v": "Keine allgemeine Neukundenprämie"
+     },
+     {
+      "t": "sub",
+      "v": "Krypto-ETP-Sparpläne (WisdomTree, 21Shares) bis 31.12.2026 ohne Orderentgelt"
+     }
+    ],
+    [
+     {
+      "t": "nooffer",
+      "v": "Keine aktuelle Aktion"
+     }
+    ]
+   ]
+  },
+  {
+   "section": "Kosten"
+  },
+  {
+   "label": "Depotführung",
+   "cells": [
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     },
+     {
+      "t": "sub",
+      "v": "für Depots ab Juli 2026"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     },
+     {
+      "t": "sub",
+      "v": "ohne Bedingungen seit Juni 2026"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Orderkosten regulär",
+   "hint": "günstigster Standardweg, ohne Aktion",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "1 €"
+     },
+     {
+      "t": "sub",
+      "v": "Bestpreis-Ausführung · 2 € bei eigener Börsenwahl"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0 € ab 500 €"
+     },
+     {
+      "t": "sub",
+      "v": "gettex/Baader · darunter 0,95 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0 € ab 500 €"
+     },
+     {
+      "t": "sub",
+      "v": "gettex · darunter 1 € · andere dt. Börsen 4 € zzgl. Fremdspesen"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "4,90 € + 0,25 %"
+     },
+     {
+      "t": "sub",
+      "v": "mind. 9,90 €, max. 59,90 € · zzgl. Börsenplatzentgelt"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "4,95 € + 0,25 %"
+     },
+     {
+      "t": "sub",
+      "v": "mind. 9,95 €, max. 69 € · zzgl. Börsenplatzentgelt (Tradegate 0,95 €)"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0 € ab 500 €"
+     },
+     {
+      "t": "sub",
+      "v": "gettex · darunter 1 € Mindermengenzuschlag"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0,95 €"
+     },
+     {
+      "t": "sub",
+      "v": "Sofortorder inkl. Handelsplatzentgelt · freie Börsenwahl 0,95 € + 0,25 % (max. 54,99 €) zzgl. Entgelte"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0 €"
+     },
+     {
+      "t": "sub",
+      "v": "Tradegate Exchange · Mindestorder Aktien 500 €, ETPs 100 €"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Beispiel: Aktienkauf für 1.000 €",
+   "hint": "Gebühren laut Preisverzeichnis, ohne Spread",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "1,00 €"
+     },
+     {
+      "t": "sub",
+      "v": "Bestpreis"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0,00 €"
+     },
+     {
+      "t": "sub",
+      "v": "gettex"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0,00 €"
+     },
+     {
+      "t": "sub",
+      "v": "gettex"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "12,40 €"
+     },
+     {
+      "t": "sub",
+      "v": "9,90 € + mind. 2,50 € Börsenplatzentgelt · Neukunden: 3,90 € zzgl. Entgelt"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "10,90 €"
+     },
+     {
+      "t": "sub",
+      "v": "9,95 € + 0,95 € Tradegate · Neukunden: 0,95 €"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0,00 €"
+     },
+     {
+      "t": "sub",
+      "v": "gettex"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0,95 €"
+     },
+     {
+      "t": "sub",
+      "v": "Sofortorder"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0,00 €"
+     },
+     {
+      "t": "sub",
+      "v": "Tradegate Exchange"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Handel an Auslandsbörsen",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "2 €"
+     },
+     {
+      "t": "sub",
+      "v": "eigene Börsenwahl, u. a. Euronext und Nasdaq"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "möglich"
+     },
+     {
+      "t": "sub",
+      "v": "Kosten je Börse laut Preisverzeichnis"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "möglich"
+     },
+     {
+      "t": "sub",
+      "v": "Kosten je Börse laut Preisverzeichnis · Währungskonten"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "7,90 € + 0,25 %"
+     },
+     {
+      "t": "sub",
+      "v": "mind. 12,90 €, max. 62,90 € · Börsen in 14 Ländern"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "USA: 19,95 € + 0,25 %"
+     },
+     {
+      "t": "sub",
+      "v": "mind. 24,95 €, max. 69 € · andere Länder teurer"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "nicht möglich"
+     },
+     {
+      "t": "sub",
+      "v": "nur gettex"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "29 Auslandsbörsen"
+     },
+     {
+      "t": "sub",
+      "v": "Kosten je Börse laut Preisverzeichnis · Fremdwährungskonten"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "nicht möglich"
+     },
+     {
+      "t": "sub",
+      "v": "nur Tradegate Exchange"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "ETF-Sparplan",
+   "hint": "Kosten je Ausführung · Mindestrate",
+   "cells": [
+    [
+     {
+      "t": "best",
+      "v": "0 € · ab 1 €"
+     },
+     {
+      "t": "sub",
+      "v": "auch Aktien und Krypto"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0 € · ab 1 €"
+     },
+     {
+      "t": "sub",
+      "v": "bei Premium-Partnern (u. a. iShares, Vanguard, Xtrackers, Amundi) · sonst 0,50 €"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 € · ab 1 €"
+     },
+     {
+      "t": "sub",
+      "v": "auch Aktien und Fonds"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1,5 % · ab 1 €"
+     },
+     {
+      "t": "sub",
+      "v": "z. B. 1,50 € bei 100 € Rate"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 € · ab 10 €"
+     },
+     {
+      "t": "sub",
+      "v": "Aktiensparpläne 1,5 % (Neukunden 12 Monate 0 €)"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 € · ab 1 €"
+     },
+     {
+      "t": "sub",
+      "v": "auch Aktien und Krypto"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 € · ab 5 €"
+     },
+     {
+      "t": "sub",
+      "v": "auch Aktien und Zertifikate"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 € · ab 25 €"
+     },
+     {
+      "t": "sub",
+      "v": "ETPs und ausgewählte Aktien"
+     }
+    ]
+   ]
+  },
+  {
+   "section": "Guthaben und Sicherheit"
+  },
+  {
+   "label": "Zinsen auf Guthaben",
+   "hint": "variabel · Aktionszinsen gekennzeichnet",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "2,50 % p.a."
+     },
+     {
+      "t": "sub",
+      "v": "dauerhaft, auf nicht investiertes Guthaben"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "2,25 % p.a."
+     },
+     {
+      "t": "sub",
+      "v": "Zinskonto · Mindesteinlage 5.000 € · bis 1 Mio. €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "2,25 % p.a."
+     },
+     {
+      "t": "sub",
+      "v": "Zinskonto bis 100.000 € · darüber 2,00 %"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "3,00 % p.a."
+     },
+     {
+      "t": "sub",
+      "v": "Aktion: Tagesgeld PLUS, Neukunden 6 Monate, bis 500.000 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "3,80 % p.a."
+     },
+     {
+      "t": "sub",
+      "v": "Aktion: Tagesgeld, Neukunden 5 Monate · danach 1,00 %"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "kein Guthabenzins"
+     },
+     {
+      "t": "sub",
+      "v": "Geldmarkt-ETFs handelbar"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1,50 % p.a."
+     },
+     {
+      "t": "sub",
+      "v": "KontoPlus bis 500.000 €"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "kein Guthabenzins"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Depotbank und Einlagensicherung",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "Trade Republic Bank"
+     },
+     {
+      "t": "sub",
+      "v": "eigene Banklizenz · gesetzlich bis 100.000 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Baader Bank"
+     },
+     {
+      "t": "sub",
+      "v": "gesetzlich bis 100.000 € + Einlagensicherungsfonds"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Baader Bank"
+     },
+     {
+      "t": "sub",
+      "v": "gesetzlich bis 100.000 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Commerzbank AG"
+     },
+     {
+      "t": "sub",
+      "v": "gesetzlich bis 100.000 € + Einlagensicherungsfonds"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "BNP Paribas"
+     },
+     {
+      "t": "sub",
+      "v": "Niederlassung Deutschland · französische Einlagensicherung bis 100.000 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Baader Bank"
+     },
+     {
+      "t": "sub",
+      "v": "gesetzlich bis 100.000 € + Einlagensicherungsfonds"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "S Broker AG & Co. KG"
+     },
+     {
+      "t": "sub",
+      "v": "Sicherungssystem der Sparkassen-Finanzgruppe"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Tradegate AG"
+     },
+     {
+      "t": "sub",
+      "v": "eigene Banklizenz · gesetzlich bis 100.000 €"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Steuer und Depotübertrag",
+   "cells": [
+    [
+     {
+      "t": "check",
+      "v": "✓ steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Depotübertrag möglich"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Depotübertrag möglich"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Depotübertrag möglich"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Depotübertrag möglich"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Depotübertrag möglich"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Depotübertrag möglich"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Depotübertrag kostenlos"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Depotübertrag möglich"
+     }
+    ]
+   ]
+  },
+  {
+   "section": "Angebot und Handel"
+  },
+  {
+   "label": "Handelbare Produkte",
+   "cells": [
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs",
+       "Anleihen",
+       "Derivate",
+       "Krypto (echte Coins)",
+       "Private Markets"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs",
+       "Fonds",
+       "Anleihen",
+       "Derivate",
+       "Krypto"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs",
+       "Fonds",
+       "Anleihen",
+       "Derivate",
+       "Krypto"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs",
+       "Fonds",
+       "Anleihen",
+       "Derivate",
+       "Krypto-Zertifikate",
+       "CFDs"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs",
+       "Fonds",
+       "Anleihen",
+       "Derivate"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs",
+       "Fonds",
+       "Derivate",
+       "Krypto (59 echte Coins)"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs",
+       "Fonds",
+       "Anleihen",
+       "Zertifikate",
+       "Krypto-ETPs"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs/ETPs",
+       "Mini-Futures"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Handelsplätze",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "rund 30 Börsen"
+     },
+     {
+      "t": "sub",
+      "v": "Bestpreis automatisch oder Börse selbst wählen"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "40+ Handelsplätze"
+     },
+     {
+      "t": "sub",
+      "v": "Deutschland und international"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "rund 30 Handelsplätze"
+     },
+     {
+      "t": "sub",
+      "v": "national und international"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Deutsche Börsen + LiveTrading"
+     },
+     {
+      "t": "sub",
+      "v": "Auslandsbörsen in 14 Ländern"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Deutsche Börsen + Direkthandel"
+     },
+     {
+      "t": "sub",
+      "v": "internationale Börsen"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "nur gettex"
+     },
+     {
+      "t": "sub",
+      "v": "Mo–Fr 7:30–23 Uhr, Sa 14–19 Uhr · Krypto rund um die Uhr"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "41 Börsen"
+     },
+     {
+      "t": "sub",
+      "v": "12 Inland · 29 Ausland · 14 Direkthandelspartner"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "nur Tradegate Exchange"
+     },
+     {
+      "t": "sub",
+      "v": "direkter Börsenzugang"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Weitere Depotarten",
+   "cells": [
+    [
+     {
+      "t": "text",
+      "v": "Kinderdepot\nAltersvorsorgedepot (ab 2027)"
+     },
+     {
+      "t": "sub",
+      "v": "kein Gemeinschaftsdepot"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Kinderdepot\nGemeinschaftsdepot"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Unterdepots\nAltersvorsorgedepot (ab 2027)"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Junior-Depot\nGemeinschaftsdepot"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Junior-Depot\nGemeinschaftsdepot"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Kinderdepot\nAltersvorsorgedepot (ab 2027)"
+     },
+     {
+      "t": "sub",
+      "v": "nur Einzeldepots für Erwachsene"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Kinderdepot\nGemeinschaftsdepot"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Investment- und Trading-Depot"
+     },
+     {
+      "t": "sub",
+      "v": "beide kostenlos"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Zugang und Service",
+   "cells": [
+    [
+     {
+      "t": "text",
+      "v": "App & Web"
+     },
+     {
+      "t": "sub",
+      "v": "kein Telefonservice"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Web"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Web"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Web"
+     },
+     {
+      "t": "sub",
+      "v": "Telefonservice"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Web"
+     },
+     {
+      "t": "sub",
+      "v": "Telefon · auch telefonische Order (gegen Aufpreis)"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Web"
+     },
+     {
+      "t": "sub",
+      "v": "E-Mail und Kontaktformular"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Handelsportal"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Web"
+     },
+     {
+      "t": "sub",
+      "v": "Support per E-Mail"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Besonderheiten",
+   "cells": [
+    [
+     {
+      "t": "text",
+      "v": "Girokonto mit Karte und Saveback\nAltersvorsorgedepot: 0 € Depot und Sparplan, Fondskosten ausgewählter ETFs erstattet"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Zinskonto · Wertpapierkredit\nGratis-Sparpläne nur bei Partnern"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Wertpapierkredit\nWährungskonten · Krypto-Wallet"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Girokonto · Rabatt für Vieltrader\nKrypto nur als Zertifikat"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Trading-Werkzeuge\nTermingeschäfte (Eurex)"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Bruchstückhandel\nDepotkredit · lange Handelszeiten"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Fremdwährungskonten\nRabatt für Vieltrader"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Profi-Ordertypen (OCO, Trailing Stop)\nkeine Anleihen"
+     }
+    ]
+   ]
+  }
+ ],
+ "finder": {
+  "broker": {
+   "tr": {
+    "name": "Trade Republic",
+    "kosten1000": 1,
+    "sparplanMin": 1,
+    "sparplan": 3,
+    "sparplanText": "ETF-Sparpläne für 0 € ab 1 € Rate",
+    "klein": 3,
+    "kleinText": "Kleine Orders für 1 € pauschal",
+    "gross": 2,
+    "grossText": "Jede Order 1 € pauschal, egal wie groß",
+    "ausland": 1,
+    "auslandText": "Rund 30 Börsen wählbar für 2 € je Order",
+    "telefon": 0,
+    "zins": 2,
+    "zinsText": "2,50 % p.a. auf nicht investiertes Guthaben",
+    "minus": "Kein Telefonservice"
+   },
+   "tp": {
+    "name": "Traders Place",
+    "kosten1000": 0,
+    "sparplanMin": 1,
+    "sparplan": 2,
+    "sparplanText": "0 € Sparplan bei Premium-Partner-ETFs (u. a. iShares, Vanguard), sonst 0,50 €",
+    "klein": 3,
+    "kleinText": "Orders unter 500 € für 0,95 €",
+    "gross": 3,
+    "grossText": "0 € Order ab 500 € über gettex",
+    "ausland": 1,
+    "auslandText": "40+ Handelsplätze, auch international",
+    "telefon": 0,
+    "zins": 1,
+    "zinsText": "Zinskonto mit 2,25 % p.a. (ab 5.000 € Einlage)",
+    "minus": "0-€-Sparplan nur bei Partner-ETFs"
+   },
+   "sb": {
+    "name": "SMARTBROKER+",
+    "kosten1000": 0,
+    "sparplanMin": 1,
+    "sparplan": 3,
+    "sparplanText": "ETF-Sparpläne für 0 €",
+    "klein": 3,
+    "kleinText": "Orders unter 500 € für 1 €",
+    "gross": 3,
+    "grossText": "0 € Order ab 500 € über gettex",
+    "ausland": 1,
+    "auslandText": "Rund 30 Handelsplätze, auch international, Währungskonten",
+    "telefon": 0,
+    "zins": 2,
+    "zinsText": "Zinskonto mit 2,25 % p.a. bis 100.000 €",
+    "minus": "Andere deutsche Börsen ab 4 € zzgl. Fremdspesen"
+   },
+   "cd": {
+    "name": "comdirect",
+    "kosten1000": 12.4,
+    "sparplanMin": 1,
+    "sparplan": 0,
+    "sparplanText": "",
+    "klein": 0,
+    "kleinText": "",
+    "gross": 0,
+    "grossText": "",
+    "ausland": 1,
+    "auslandText": "Auslandsbörsen in 14 Ländern",
+    "telefon": 3,
+    "telefonText": "Vollbank (Commerzbank) mit Telefonservice und Girokonto",
+    "zins": 1,
+    "zinsText": "Tagesgeld-Aktion für Neukunden (befristet)",
+    "minus": "Regulär teurer: Order ab 9,90 €, Sparplan 1,5 %"
+   },
+   "cb": {
+    "name": "Consorsbank",
+    "kosten1000": 10.9,
+    "sparplanMin": 10,
+    "sparplan": 3,
+    "sparplanText": "ETF-Sparpläne für 0 € ab 10 € Rate",
+    "klein": 0,
+    "kleinText": "",
+    "gross": 0,
+    "grossText": "",
+    "ausland": 0,
+    "auslandText": "Auslandsbörsen möglich, aber teuer (USA ab 24,95 €)",
+    "telefon": 3,
+    "telefonText": "Vollbank mit Telefonservice und Trading-Werkzeugen",
+    "zins": 1,
+    "zinsText": "Tagesgeld-Aktion für Neukunden (befristet)",
+    "minus": "Einzelorders regulär ab 9,95 € zzgl. Börsenentgelt"
+   },
+   "fz": {
+    "name": "finanzen.net ZERO",
+    "kosten1000": 0,
+    "sparplanMin": 1,
+    "sparplan": 3,
+    "sparplanText": "Sparpläne für 0 € ab 1 € Rate",
+    "klein": 3,
+    "kleinText": "Orders unter 500 € für 1 €",
+    "gross": 3,
+    "grossText": "0 € Order ab 500 € über gettex",
+    "ausland": -1,
+    "telefon": 0,
+    "zins": 0,
+    "minus": "Nur gettex, kein Guthabenzins"
+   },
+   "sbr": {
+    "name": "S Broker",
+    "kosten1000": 0.95,
+    "sparplanMin": 5,
+    "sparplan": 3,
+    "sparplanText": "Sparpläne für 0 € ab 5 € Rate",
+    "klein": 3,
+    "kleinText": "Sofortorder für 0,95 € pauschal",
+    "gross": 2,
+    "grossText": "Sofortorder für 0,95 € pauschal",
+    "ausland": 2,
+    "auslandText": "29 Auslandsbörsen und Fremdwährungskonten",
+    "telefon": 3,
+    "telefonText": "Broker der Sparkassen mit Telefonservice",
+    "zins": 1,
+    "zinsText": "KontoPlus mit 1,50 % p.a.",
+    "minus": "Freie Börsenwahl kostet 0,95 € + 0,25 %"
+   },
+   "tg": {
+    "name": "tradegate.direct",
+    "kosten1000": 0,
+    "sparplanMin": 25,
+    "sparplan": 2,
+    "sparplanText": "Sparpläne für 0 € ab 25 € Rate",
+    "klein": -1,
+    "gross": 3,
+    "grossText": "0 € Order an der Tradegate Exchange",
+    "ausland": -1,
+    "telefon": 0,
+    "zins": 0,
+    "minus": "Mindestorder 500 € bei Aktien, nur ein Handelsplatz, kein Guthabenzins"
+   }
+  },
+  "profile": [
+   {
+    "titel": "ETF-Sparplan für Einsteiger",
+    "warum": "0 € je Ausführung und kleine Mindestraten",
+    "ids": [
+     "tr",
+     "fz",
+     "sb"
+    ],
+    "details": {
+     "tr": "0 € ab 1 €",
+     "fz": "0 € ab 1 €",
+     "sb": "0 € Sparplan"
+    }
+   },
+   {
+    "titel": "Einzelkäufe ab 500 €",
+    "warum": "0 € Orderkosten laut Preisverzeichnis",
+    "ids": [
+     "tp",
+     "fz",
+     "tg"
+    ],
+    "details": {
+     "tp": "0 € über gettex",
+     "fz": "0 € über gettex",
+     "tg": "0 € an der Tradegate Exchange"
+    }
+   },
+   {
+    "titel": "Viele Börsen und Auslandshandel",
+    "warum": "Große Auswahl an Handelsplätzen im In- und Ausland",
+    "ids": [
+     "sbr",
+     "tp",
+     "sb"
+    ],
+    "details": {
+     "sbr": "41 Börsen, Fremdwährungskonten",
+     "tp": "40+ Handelsplätze",
+     "sb": "rund 30 Handelsplätze"
+    }
+   },
+   {
+    "titel": "Vollbank mit Service",
+    "warum": "Telefonservice und Bank im Hintergrund",
+    "ids": [
+     "cd",
+     "cb",
+     "sbr"
+    ],
+    "details": {
+     "cd": "Commerzbank, Girokonto",
+     "cb": "BNP Paribas, Trading-Werkzeuge",
+     "sbr": "Sparkassen-Finanzgruppe"
+    }
+   }
+  ]
+ }
+}

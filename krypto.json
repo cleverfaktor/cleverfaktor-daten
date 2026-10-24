@@ -1,0 +1,1590 @@
+{
+ "version": 1,
+ "updated": "2026-10-24T17:30:00+02:00",
+ "stand": "2026-10-19",
+ "boersen": [
+  "okx",
+  "bitvavo",
+  "bison",
+  "cryptocom",
+  "kraken",
+  "traderepublic",
+  "coinbase",
+  "21bitcoin"
+ ],
+ "rows": [
+  {
+   "label": "Gebühr pro Kauf",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "0,35 %"
+     },
+     {
+      "t": "sub",
+      "v": "im Exchange-Modus"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0,25 %"
+     },
+     {
+      "t": "sub",
+      "v": "auch beim einfachen Direktkauf"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1,25 %"
+     },
+     {
+      "t": "sub",
+      "v": "Spread bei Bitcoin und Ethereum, weitere Coins 1,75 %"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0,78 %"
+     },
+     {
+      "t": "sub",
+      "v": "in der App, zzgl. Spread"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1 %"
+     },
+     {
+      "t": "sub",
+      "v": "in der App, zzgl. Spread; Kraken Pro ab 0,40 %"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1 €"
+     },
+     {
+      "t": "sub",
+      "v": "pro Kauf, zzgl. Spread"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1,49 %"
+     },
+     {
+      "t": "sub",
+      "v": "ab 200 € Kaufsumme, zzgl. Spread; Advanced 1,2 %"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1,29 %"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Kosten pro 500 € Kauf¹",
+   "highlight": true,
+   "cells": [
+    [
+     {
+      "t": "offer",
+      "v": "1,80 €"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "1,30 €"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "6,30 €"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "12,40 €"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "12,47 €"
+     },
+     {
+      "t": "sub",
+      "v": "Kraken Pro: 2,05 €"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "4,90 €"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "12,45 €"
+     },
+     {
+      "t": "sub",
+      "v": "Coinbase Advanced: 6,15 €"
+     }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "10,45 €"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Kosten transparent ausgewiesen",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "Bedingt"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓ Ja"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Bedingt"
+     },
+     {
+      "t": "sub",
+      "v": "Kosten im Kaufpreis enthalten"
+     }
+    ],
+    [
+     {
+      "t": "no",
+      "v": "Nein"
+     }
+    ],
+    [
+     {
+      "t": "no",
+      "v": "Nein"
+     },
+     {
+      "t": "sub",
+      "v": "Kraken Pro: Ja"
+     }
+    ],
+    [
+     {
+      "t": "no",
+      "v": "Nein"
+     }
+    ],
+    [
+     {
+      "t": "no",
+      "v": "Nein"
+     },
+     {
+      "t": "sub",
+      "v": "Advanced: bedingt"
+     }
+    ],
+    [
+     {
+      "t": "no",
+      "v": "Nein"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Kryptowährungen",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "300+"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "400+"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "70"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "400+"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "600+"
+     },
+     {
+      "t": "sub",
+      "v": "Kraken Pro: 400+"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "50+"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "260+"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1"
+     },
+     {
+      "t": "sub",
+      "v": "nur Bitcoin"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Regulierung",
+   "cells": [
+    [
+     {
+      "t": "yes",
+      "v": "✓ MiCA-Lizenz"
+     },
+     {
+      "t": "sub",
+      "v": "Malta (MFSA)"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓ MiCA-Lizenz"
+     },
+     {
+      "t": "sub",
+      "v": "Niederlande (AFM)"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓ MiCA-Lizenz"
+     },
+     {
+      "t": "sub",
+      "v": "Deutschland (BaFin)"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓ MiCA-Lizenz"
+     },
+     {
+      "t": "sub",
+      "v": "Malta (MFSA)"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓ MiCA-Lizenz"
+     },
+     {
+      "t": "sub",
+      "v": "Irland (Central Bank of Ireland)"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓ MiCA-Lizenz"
+     },
+     {
+      "t": "sub",
+      "v": "Deutschland (BaFin)"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓ MiCA-Lizenz"
+     },
+     {
+      "t": "sub",
+      "v": "Luxemburg (CSSF)"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓ MiCA-Lizenz"
+     },
+     {
+      "t": "sub",
+      "v": "Österreich (FMA)"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Unternehmen & Sitz",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "OKcoin Europe Ltd"
+     },
+     {
+      "t": "sub",
+      "v": "Malta, gegründet 2017"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Bitvavo B.V."
+     },
+     {
+      "t": "sub",
+      "v": "Niederlande, gegründet 2018"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "EUWAX AG"
+     },
+     {
+      "t": "sub",
+      "v": "Deutschland, Gruppe Börse Stuttgart, gegründet 2019"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Foris DAX Asia Pte. Ltd."
+     },
+     {
+      "t": "sub",
+      "v": "Singapur, gegründet 2016"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Payward, Inc."
+     },
+     {
+      "t": "sub",
+      "v": "USA, gegründet 2011"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Trade Republic Bank GmbH"
+     },
+     {
+      "t": "sub",
+      "v": "Deutschland, gegründet 2015"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Coinbase Global, Inc."
+     },
+     {
+      "t": "sub",
+      "v": "USA, gegründet 2012, börsennotiert"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "FIOR Digital GmbH"
+     },
+     {
+      "t": "sub",
+      "v": "Österreich, gegründet 2021"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Auszahlung auf eigene Wallet²",
+   "cells": [
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Bitcoin: ca. 1,10 €"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Bitcoin: ca. 1,25 €"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓ kostenlos"
+     },
+     {
+      "t": "sub",
+      "v": "Netzwerkgebühren übernimmt BISON"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Bitcoin: ca. 29,25 €"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Bitcoin: ca. 1,10 €"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Bitcoin: ca. 0,15 €"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Bitcoin: ca. 0,37 €, dynamische Gebühr"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Bitcoin: ca. 0,73 €, automatischer Transfer möglich"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Staking³",
+   "cells": [
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Rewards-Programm"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Ethereum und Solana, 27 % der Rewards gehen an BISON"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "u. a. Ethereum und Solana"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     }
+    ],
+    [
+     {
+      "t": "no",
+      "v": "– nicht angeboten"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Sparplan",
+   "cells": [
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "nur in der App, kauft aus vorhandenem Euro-Guthaben"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "ab 1 €"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     }
+    ],
+    [
+     {
+      "t": "yes",
+      "v": "✓"
+     },
+     {
+      "t": "sub",
+      "v": "Daueraufträge werden bei Eingang sofort in Bitcoin investiert"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Mindestbetrag",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "1 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "5 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "3 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1 €"
+     },
+     {
+      "t": "sub",
+      "v": "Kraken Pro: 5 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1 €"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "15 €"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Bezahlmethoden⁴",
+   "cells": [
+    [
+     {
+      "t": "chips",
+      "items": [
+       "SEPA-Echtzeit",
+       "Kreditkarte",
+       "PayPal"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "SEPA-Echtzeit",
+       "Kreditkarte",
+       "PayPal"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "SEPA-Echtzeit",
+       "Kreditkarte"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "SEPA-Echtzeit",
+       "Kreditkarte"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "SEPA-Echtzeit",
+       "Kreditkarte",
+       "PayPal"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "SEPA-Echtzeit",
+       "Kreditkarte"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "SEPA-Echtzeit",
+       "Kreditkarte",
+       "PayPal"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "SEPA-Echtzeit"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Sicherheit",
+   "cells": [
+    [
+     {
+      "t": "chips",
+      "items": [
+       "2FA per App",
+       "Anti-Phishing-Code",
+       "Adress-Whitelist"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "2FA per App",
+       "Anti-Phishing-Code"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "2FA über Smartphone"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "2FA per App",
+       "Anti-Phishing-Code"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "2FA per App",
+       "getrennte 2FA für Login und Auszahlung",
+       "Account Lock"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "2FA per App"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "2FA per App"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "2FA per App"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Vorteile",
+   "cells": [
+    [
+     {
+      "t": "pros",
+      "items": [
+       "Niedrige Handelsgebühren",
+       "Große Auswahl an Coins und Handelspaaren",
+       "Web3-Wallet in der App"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "pros",
+      "items": [
+       "Alle Gebühren vorab in Euro sichtbar",
+       "Niedrige Kosten auch beim einfachen Kauf",
+       "Kostenloser Steuerbericht"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "pros",
+      "items": [
+       "Krypto-Auszahlung komplett kostenlos",
+       "Verwahrung in Deutschland, Börse-Stuttgart-Gruppe",
+       "Aktien und ETFs in derselben App, kostenloser Steuerreport"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "pros",
+      "items": [
+       "Große Auswahl an Coins",
+       "Eigene Visa-Karte mit Krypto-Cashback"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "pros",
+      "items": [
+       "Kraken Pro mit niedrigen Gebühren",
+       "Viele Sicherheitsfunktionen",
+       "Eine der ältesten Kryptobörsen"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "pros",
+      "items": [
+       "Aktien, ETFs und Krypto in einer App",
+       "Günstige Bitcoin-Auszahlung",
+       "Kostenloser Steuerreport"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "pros",
+      "items": [
+       "Börsennotiertes Unternehmen",
+       "Einfache App für den Einstieg",
+       "Günstige Bitcoin-Auszahlung"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "pros",
+      "items": [
+       "Fokus auf Bitcoin, sehr einfache App",
+       "Automatische Übertragung auf eigene Wallet"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Nachteile",
+   "cells": [
+    [
+     {
+      "t": "cons",
+      "items": [
+       "Oberfläche eher für Erfahrene",
+       "Regulatorische Konflikte in der Vergangenheit, u. a. Strafzahlung in den USA"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "cons",
+      "items": [
+       "Sparplan nur in der App",
+       "Staking nicht von MiCA abgedeckt"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "cons",
+      "items": [
+       "Höhere Kosten pro Kauf als bei Börsen mit Orderbuch",
+       "Kleinere Coin-Auswahl"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "cons",
+      "items": [
+       "Gesamtkosten beim Kauf höher als angezeigt",
+       "Sehr teure Bitcoin-Auszahlung"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "cons",
+      "items": [
+       "Kauf in der App deutlich teurer als in Kraken Pro",
+       "Gesamtkosten in der App höher als angezeigt"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "cons",
+      "items": [
+       "Kosten nicht transparent ausgewiesen",
+       "Kleinere Coin-Auswahl"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "cons",
+      "items": [
+       "Gebührenmodell intransparent",
+       "Auch Coinbase Advanced vergleichsweise teuer"
+      ]
+     }
+    ],
+    [
+     {
+      "t": "cons",
+      "items": [
+       "Nur Bitcoin",
+       "Gesamtkosten beim Kauf höher als angezeigt"
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Passt eher zu",
+   "cells": [
+    [
+     {
+      "t": "main",
+      "v": "Aktiven Anlegern"
+     },
+     {
+      "t": "sub",
+      "v": "mit Interesse an vielen Coins und Web3"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Kostenbewussten Einsteigern"
+     },
+     {
+      "t": "sub",
+      "v": "niedrige Gebühren ohne Trading-Oberfläche"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Sicherheitsorientierten Einsteigern"
+     },
+     {
+      "t": "sub",
+      "v": "Anbieter aus Deutschland, kostenlose Auszahlung"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Nutzern der Krypto-Karte"
+     },
+     {
+      "t": "sub",
+      "v": "für reine Käufe gibt es günstigere Anbieter"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Erfahrenen Anlegern"
+     },
+     {
+      "t": "sub",
+      "v": "die Kraken Pro statt der App nutzen"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Anlegern, die alles in einer App wollen"
+     },
+     {
+      "t": "sub",
+      "v": "Aktien, ETFs und Krypto zusammen"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Einsteigern mit Fokus auf Bekanntheit"
+     },
+     {
+      "t": "sub",
+      "v": "Kosten im Vergleich hoch"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Bitcoin-Sparern"
+     },
+     {
+      "t": "sub",
+      "v": "mit eigener Hardware-Wallet"
+     }
+    ]
+   ]
+  }
+ ],
+ "hinweis": "Die Angaben beziehen sich auf den oben genannten Datenstand und stammen von den Gebührenseiten der Anbieter, den Registern der Aufsichtsbehörden sowie aus Praxistests von Vergleichsportalen. Gebühren, Spreads, Coin-Auswahl und Funktionen können sich jederzeit ändern. Maßgeblich sind die aktuellen Angaben des jeweiligen Anbieters. Kryptowährungen unterliegen starken Kursschwankungen, ein Totalverlust ist möglich.",
+ "footnotes": [
+  {
+   "mark": "¹",
+   "title": "Kosten pro 500 €",
+   "text": "Gesamtkosten für einen Kauf von Bitcoin im Wert von 500 € per SEPA-Einzahlung, einschließlich Gebühr und Spread, laut Praxistest des Kryptobörsen-Vergleichs von Finanzfluss (Stand 10/2026). Der Spread schwankt je nach Marktlage, die Werte sind daher Richtwerte. OKX hat zum 25.09.2026 die Gebühren für reine Spot-Konten im EWR gesenkt (Regular: 0,10 % Maker, 0,20 % Taker); die tatsächlichen Kosten können dort niedriger ausfallen. Bei Kraken Pro gilt der Wert für Limit-Orders (Maker); Marktorders kosten im untersten Tier 0,80 %."
+  },
+  {
+   "mark": "²",
+   "title": "Auszahlung",
+   "text": "Kosten für eine Bitcoin-Auszahlung als Richtwert. Netzwerkgebühren ändern sich laufend und unterscheiden sich je nach Kryptowährung und Netzwerk."
+  },
+  {
+   "mark": "³",
+   "title": "Staking",
+   "text": "Staking-Angebote sind in der Regel nicht durch die MiCA-Regulierung abgedeckt. Anbieter behalten einen Teil der Rewards ein, außerdem können Sperrfristen und Verlustrisiken bestehen."
+  },
+  {
+   "mark": "⁴",
+   "title": "Bezahlmethoden",
+   "text": "SEPA-Überweisungen sind meist kostenlos. Für Kreditkarte, PayPal oder Apple Pay und Google Pay verlangen viele Anbieter zusätzliche Gebühren, bei Bitvavo z. B. 1 %, bei BISON 2,49 %."
+  }
+ ],
+ "finder": {
+  "ex": {
+   "okx": {
+    "name": "OKX",
+    "kosten500": 1.8,
+    "kostenText": "ca. 1,80 € pro 500 € Kauf",
+    "pay": [
+     "sepa",
+     "card",
+     "paypal"
+    ],
+    "minus": "Oberfläche eher für Erfahrene, regulatorische Konflikte in der Vergangenheit"
+   },
+   "bitvavo": {
+    "name": "Bitvavo",
+    "kosten500": 1.3,
+    "kostenText": "ca. 1,30 € pro 500 € Kauf",
+    "pay": [
+     "sepa",
+     "card",
+     "paypal"
+    ],
+    "minus": "Sparplan nur in der App, Staking nicht von MiCA abgedeckt"
+   },
+   "bison": {
+    "name": "BISON",
+    "kosten500": 6.3,
+    "kostenText": "ca. 6,30 € pro 500 € Kauf",
+    "pay": [
+     "sepa",
+     "card"
+    ],
+    "minus": "Höhere Kosten pro Kauf als bei Börsen mit Orderbuch, kleinere Coin-Auswahl"
+   },
+   "cryptocom": {
+    "name": "Crypto.com",
+    "kosten500": 12.4,
+    "kostenText": "ca. 12,40 € pro 500 € Kauf",
+    "pay": [
+     "sepa",
+     "card"
+    ],
+    "minus": "Gesamtkosten beim Kauf höher als angezeigt, Bitcoin-Auszahlung ca. 29,25 €"
+   },
+   "kraken": {
+    "name": "Kraken",
+    "kosten500": 12.47,
+    "kostenText": "ca. 12,47 € pro 500 € Kauf in der App",
+    "kosten500Pro": 2.05,
+    "kostenTextPro": "ca. 2,05 € pro 500 € Kauf in Kraken Pro",
+    "pay": [
+     "sepa",
+     "card",
+     "paypal"
+    ],
+    "minus": "Kauf in der einfachen App deutlich teurer als in Kraken Pro"
+   },
+   "traderepublic": {
+    "name": "Trade Republic",
+    "kosten500": 4.9,
+    "kostenText": "ca. 4,90 € pro 500 € Kauf",
+    "pay": [
+     "sepa",
+     "card"
+    ],
+    "minus": "Kosten nicht transparent ausgewiesen, kleinere Coin-Auswahl (50+)"
+   },
+   "coinbase": {
+    "name": "Coinbase",
+    "kosten500": 12.45,
+    "kostenText": "ca. 12,45 € pro 500 € Kauf in der App",
+    "pay": [
+     "sepa",
+     "card",
+     "paypal"
+    ],
+    "minus": "Gebührenmodell intransparent, auch Coinbase Advanced vergleichsweise teuer"
+   },
+   "21bitcoin": {
+    "name": "21bitcoin",
+    "kosten500": 10.45,
+    "kostenText": "ca. 10,45 € pro 500 € Kauf",
+    "pay": [
+     "sepa"
+    ],
+    "minus": "Nur Bitcoin, Gesamtkosten beim Kauf höher als angezeigt"
+   }
+  },
+  "punkte": {
+   "exp": {
+    "beginner": {
+     "traderepublic": [
+      2,
+      "Einfache App, auch für Einsteiger geeignet"
+     ],
+     "bitvavo": [
+      2,
+      "Einfache App, Gebühren werden vorab in Euro angezeigt"
+     ],
+     "bison": [
+      3,
+      "Sehr einfache App, gut für den Einstieg"
+     ],
+     "21bitcoin": [
+      2,
+      "Schlanke App, die sich auf das Wesentliche beschränkt"
+     ],
+     "coinbase": [
+      1,
+      ""
+     ],
+     "cryptocom": [
+      1,
+      ""
+     ],
+     "okx": [
+      -1,
+      ""
+     ]
+    },
+    "some": {
+     "traderepublic": [
+      1,
+      ""
+     ],
+     "bitvavo": [
+      2,
+      "Einfacher Kauf und Pro-Modus auf einer Plattform"
+     ],
+     "okx": [
+      2,
+      "Große Auswahl, wenn du mehr ausprobieren möchtest"
+     ],
+     "kraken": [
+      1,
+      ""
+     ],
+     "bison": [
+      1,
+      ""
+     ],
+     "21bitcoin": [
+      1,
+      ""
+     ]
+    },
+    "pro": {
+     "okx": [
+      3,
+      "Viele Handelspaare und Ordertypen"
+     ],
+     "kraken": [
+      3,
+      "Kraken Pro mit Orderbuch und vielen Sicherheitsfunktionen"
+     ],
+     "bitvavo": [
+      1,
+      ""
+     ],
+     "bison": [
+      -1,
+      ""
+     ]
+    }
+   },
+   "coins": {
+    "btc": {
+     "21bitcoin": [
+      4,
+      "Spezialisiert auf Bitcoin"
+     ],
+     "bison": [
+      1,
+      ""
+     ],
+     "bitvavo": [
+      1,
+      ""
+     ],
+     "traderepublic": [
+      1,
+      ""
+     ]
+    },
+    "major": {
+     "traderepublic": [
+      1,
+      ""
+     ],
+     "bitvavo": [
+      2,
+      "Alle großen Coins zu niedrigen Gebühren"
+     ],
+     "bison": [
+      2,
+      "70 ausgewählte Coins, darunter alle großen"
+     ],
+     "kraken": [
+      1,
+      ""
+     ],
+     "okx": [
+      1,
+      ""
+     ],
+     "coinbase": [
+      1,
+      ""
+     ],
+     "cryptocom": [
+      1,
+      ""
+     ]
+    },
+    "alts": {
+     "bitvavo": [
+      3,
+      "Über 400 Kryptowährungen"
+     ],
+     "kraken": [
+      3,
+      "Über 400 Kryptowährungen in Kraken Pro"
+     ],
+     "okx": [
+      3,
+      "Über 300 Kryptowährungen und viele Handelspaare"
+     ],
+     "cryptocom": [
+      2,
+      "Über 400 Kryptowährungen"
+     ],
+     "coinbase": [
+      1,
+      ""
+     ],
+     "bison": [
+      -1,
+      ""
+     ],
+     "traderepublic": [
+      -2,
+      ""
+     ]
+    }
+   },
+   "mode": {
+    "plan": {
+     "21bitcoin": [
+      2,
+      "Sparplan: Daueraufträge werden bei Eingang sofort in Bitcoin investiert"
+     ],
+     "bison": [
+      2,
+      "Einfacher Sparplan direkt in der App"
+     ],
+     "bitvavo": [
+      2,
+      "Sparplan zu den normalen niedrigen Gebühren"
+     ],
+     "traderepublic": [
+      2,
+      "Krypto-Sparplan ab 1 €"
+     ]
+    },
+    "once": {
+     "bitvavo": [
+      2,
+      "Auch beim einfachen Direktkauf niedrige Gebühren"
+     ],
+     "okx": [
+      1,
+      ""
+     ],
+     "kraken": [
+      1,
+      ""
+     ],
+     "traderepublic": [
+      1,
+      ""
+     ]
+    },
+    "trade": {
+     "okx": [
+      4,
+      "Niedrige Handelsgebühren für häufige Trades"
+     ],
+     "kraken": [
+      3,
+      "Niedrige Gebühren in Kraken Pro"
+     ],
+     "bitvavo": [
+      2,
+      "Gebühren sinken bei höherem Handelsvolumen"
+     ],
+     "bison": [
+      -2,
+      ""
+     ],
+     "traderepublic": [
+      -2,
+      ""
+     ],
+     "21bitcoin": [
+      -3,
+      ""
+     ],
+     "cryptocom": [
+      -1,
+      ""
+     ],
+     "coinbase": [
+      -1,
+      ""
+     ]
+    }
+   },
+   "pay": {
+    "sepa": {},
+    "card": {},
+    "paypal": {}
+   },
+   "stocks": {
+    "ja": {
+     "bison": [
+      8,
+      "Auch Aktien und ETFs in derselben App"
+     ],
+     "traderepublic": [
+      8,
+      "Aktien, ETFs und Krypto in einer App"
+     ]
+    },
+    "nein": {}
+   },
+   "prio": {
+    "cost": {
+     "bitvavo": [
+      4,
+      "Der günstigste Anbieter im Vergleich"
+     ],
+     "okx": [
+      3,
+      "Niedrige Kosten pro Kauf"
+     ],
+     "kraken": [
+      3,
+      "Niedrige Kosten, wenn du Kraken Pro nutzt"
+     ],
+     "traderepublic": [
+      1,
+      ""
+     ],
+     "bison": [
+      -1,
+      ""
+     ],
+     "cryptocom": [
+      -2,
+      ""
+     ],
+     "coinbase": [
+      -2,
+      ""
+     ],
+     "21bitcoin": [
+      -1,
+      ""
+     ]
+    },
+    "eu": {
+     "bison": [
+      6,
+      "Anbieter aus Deutschland (Gruppe Börse Stuttgart), MiCA-Lizenz der BaFin"
+     ],
+     "21bitcoin": [
+      3,
+      "Anbieter aus Österreich mit MiCA-Lizenz der FMA"
+     ],
+     "bitvavo": [
+      1,
+      "Anbieter aus den Niederlanden mit MiCA-Lizenz der AFM"
+     ],
+     "traderepublic": [
+      5,
+      "Anbieter aus Deutschland mit MiCA-Lizenz der BaFin"
+     ],
+     "okx": [
+      -3,
+      ""
+     ]
+    },
+    "wallet": {
+     "bison": [
+      5,
+      "Krypto-Auszahlung komplett kostenlos"
+     ],
+     "21bitcoin": [
+      5,
+      "Automatische Übertragung auf die eigene Wallet möglich"
+     ],
+     "traderepublic": [
+      2,
+      "Günstige Bitcoin-Auszahlung (ca. 0,15 €)"
+     ],
+     "coinbase": [
+      1,
+      ""
+     ],
+     "bitvavo": [
+      1,
+      ""
+     ],
+     "okx": [
+      1,
+      ""
+     ],
+     "kraken": [
+      1,
+      ""
+     ],
+     "cryptocom": [
+      -3,
+      ""
+     ]
+    },
+    "card": {
+     "cryptocom": [
+      9,
+      "Eigene Visa-Karte mit Krypto-Cashback"
+     ]
+    }
+   }
+  },
+  "einzahlung_hinweis": {
+   "card": "Bitvavo 1 %, BISON 2,49 %",
+   "sonst": "Bitvavo 1 %"
+  }
+ }
+}
