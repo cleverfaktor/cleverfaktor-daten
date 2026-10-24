@@ -17,3 +17,20 @@ https://cleverfaktor.de/marktueberblick/ abgerufen.
 
 Nur bestätigte Termine aus offiziellen oder etablierten Quellen. Im Zweifel weglassen.
 Keine Anlageberatung.
+
+## dividenden.json
+
+Daten des Dividendenkalenders (https://cleverfaktor.de/dividendenkalender/).
+Monatlich am 20. automatisch geprüft. Schema je Aktie unverändert wie im
+früheren PHP-Datenblock (id, name, isin, waehrung, land, qst, rhythmus,
+zahlungen, schaetzung_monate, schaetzung_betrag, optional schaetzung_nach_monat,
+zusatz_monate, zusatz_betrag, aenderung, quelle, abgerufen).
+Die `id` einer Aktie nie ändern (Besucher verlieren sonst ihren Eintrag).
+
+## amex.json
+
+Inhalte des Amex-Kreditkarten-Vergleichs. Monatlich am 5. automatisch geprüft.
+Immer genau 4 Zellen je Zeile in fester Reihenfolge: American Express Card,
+Blue Card, Gold Card aus Metall, Platinum Card. Zelltypen: offer, main, yes,
+no, chips, yeslist. Affiliate-Links, Bilder und Affiliate-Hinweis stehen fest
+im Code auf der Website und gehören nicht in diese Datei.

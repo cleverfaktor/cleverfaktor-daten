@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "updated": "2026-10-24T17:00:00+02:00",
+  "stand": "2026-10-19",
+  "rows": [
+    {
+      "id": "startangebot",
+      "label": "Aktuelles Startangebot¹",
+      "highlight": true,
+      "cells": [
+        { "type": "offer", "text": "40 € Startguthaben", "sub": "ab 2.000 € Umsatz in den ersten 6 Monaten" },
+        { "type": "offer", "text": "25 € Startguthaben", "sub": "ab 1.200 € Umsatz in den ersten 6 Monaten" },
+        { "type": "offer", "text": "Bis zu 200 € Startguthaben", "sub": "80 € ab 3.000 € Umsatz, weitere 120 € ab zusätzlich 2.000 € (insgesamt 5.000 €) in den ersten 6 Monaten" },
+        { "type": "offer", "text": "Bis zu 340 € Startguthaben", "sub": "160 € ab 6.000 € Umsatz, weitere 180 € ab zusätzlich 4.000 € (insgesamt 10.000 €) in den ersten 6 Monaten" }
+      ]
+    },
+    {
+      "id": "kartenentgelt",
+      "label": "Kartenentgelt",
+      "cells": [
+        { "type": "main", "text": "5 € / Monat", "sub": "im Folgejahr kein Entgelt bei über 9.000 € Jahresumsatz (Prüfung alle 12 Monate)" },
+        { "type": "main", "text": "0 €", "sub": "dauerhaft kein Jahresentgelt; Entgelte laut AGB je nach Nutzung möglich" },
+        { "type": "main", "text": "20 € / Monat", "sub": "240 € pro Jahr" },
+        { "type": "main", "text": "60 € / Monat", "sub": "720 € pro Jahr" }
+      ]
+    },
+    {
+      "id": "membership-rewards",
+      "label": "Membership Rewards",
+      "cells": [
+        { "type": "main", "text": "Inklusive", "sub": "1 Punkt je 1 € Umsatz" },
+        { "type": "main", "text": "Optional", "sub": "30 € pro Jahr, 1 Punkt je 1 € Umsatz, 5.000 Punkte zum Start" },
+        { "type": "main", "text": "Inklusive", "sub": "1 Punkt je 1 € Umsatz" },
+        { "type": "main", "text": "Inklusive", "sub": "1 Punkt je 1 € Umsatz" }
+      ]
+    },
+    {
+      "id": "zusatzkarten",
+      "label": "Zusatzkarten",
+      "cells": [
+        { "type": "yes", "text": "1 Zusatzkarte", "sub": "inklusive" },
+        { "type": "yes", "text": "1 Zusatzkarte", "sub": "inklusive" },
+        { "type": "yes", "text": "1 Zusatzkarte", "sub": "inklusive (aus Kunststoff)" },
+        { "type": "yes", "text": "bis zu 5 Zusatzkarten", "sub": "inklusive, davon 1 Platinum Zusatzkarte" }
+      ]
+    },
+    {
+      "id": "versicherungen",
+      "label": "Versicherungen²",
+      "cells": [
+        { "type": "chips", "chips": ["Reisekomfort (Flug-/Gepäckverspätung)", "Verkehrsmittel-Unfall", "Shop Garant", "90 Tage Rückgaberecht"] },
+        { "type": "chips", "chips": ["Verkehrsmittel-Unfall"], "sub": "kein Reiseversicherungspaket" },
+        { "type": "chips", "chips": ["Auslandskranken", "Reiserücktritt", "Reisekomfort", "Kfz-Schutzbrief (Europa)", "Verkehrsmittel-Unfall", "Schlüsselverlust", "Shop Garant"] },
+        { "type": "chips", "chips": ["Auslandskranken", "Reiserücktritt", "Reiseunfall", "Reisegepäck", "Mietwagen", "Privathaftpflicht im Ausland", "Kfz-Schutzbrief (Europa)", "Shop Garant"] }
+      ]
+    },
+    {
+      "id": "guthaben",
+      "label": "Jährliche Guthaben³",
+      "cells": [
+        { "type": "no", "text": "keine Jahresguthaben" },
+        { "type": "no", "text": "keine Jahresguthaben" },
+        { "type": "main", "text": "bis zu 450 €", "sub": "240 € SIXT+ Auto Abo, 100 € LODENFREY, 60 € FREENOW, 50 € SIXT rent" },
+        { "type": "main", "text": "bis zu 770 €", "sub": "200 € Online-Reiseguthaben, 200 € SIXT ride, 150 € Restaurants, 120 € Lounge on the Go, 100 € LODENFREY" }
+      ]
+    },
+    {
+      "id": "lounges",
+      "label": "Lounges & Reisevorteile",
+      "cells": [
+        { "type": "main", "text": "Priority Pass zum Vorteilspreis", "sub": "kein kostenloser Lounge-Zugang" },
+        { "type": "main", "text": "Priority Pass zum Vorteilspreis", "sub": "kein kostenloser Lounge-Zugang" },
+        { "type": "main", "text": "Priority Pass zum Vorteilspreis", "sub": "GHA DISCOVERY Gold Status" },
+        { "type": "main", "text": "über 1.550 Lounges weltweit", "sub": "American Express Global Lounge Collection, Priority Pass inklusive (auch für die Platinum Zusatzkarte)" }
+      ]
+    },
+    {
+      "id": "amex-offers",
+      "label": "Amex Offers",
+      "cells": [
+        { "type": "yes", "text": "", "sub": "Rabatte, Gutschriften und Extrapunkte bei Partnern" },
+        { "type": "yes", "text": "", "sub": "Rabatte, Gutschriften und Extrapunkte bei Partnern" },
+        { "type": "yes", "text": "", "sub": "Rabatte, Gutschriften und Extrapunkte bei Partnern" },
+        { "type": "yes", "text": "", "sub": "Rabatte, Gutschriften und Extrapunkte bei Partnern" }
+      ]
+    },
+    {
+      "id": "ausland",
+      "label": "Ausland & Bargeld⁴",
+      "cells": [
+        { "type": "main", "text": "2 % Fremdwährungsentgelt", "sub": "Bargeld: 4 %, mind. 5 €" },
+        { "type": "main", "text": "2 % Fremdwährungsentgelt", "sub": "Bargeld: 4 %, mind. 5 €" },
+        { "type": "main", "text": "2 % Fremdwährungsentgelt", "sub": "Bargeld: 4 %, mind. 5 €" },
+        { "type": "main", "text": "2 % Fremdwährungsentgelt", "sub": "Bargeld: 4 %, mind. 5 €" }
+      ]
+    },
+    {
+      "id": "app",
+      "label": "App & mobiles Bezahlen",
+      "cells": [
+        { "type": "yeslist", "items": ["Amex App", "Apple Pay / Google Pay"] },
+        { "type": "yeslist", "items": ["Amex App", "Apple Pay / Google Pay"] },
+        { "type": "yeslist", "items": ["Amex App", "Apple Pay / Google Pay"] },
+        { "type": "yeslist", "items": ["Amex App", "Apple Pay / Google Pay"] }
+      ]
+    },
+    {
+      "id": "passt-zu",
+      "label": "Passt eher zu",
+      "cells": [
+        { "type": "main", "text": "Punktesammler mit Alltagsumsatz", "sub": "ab 9.000 € Jahresumsatz im Folgejahr ohne Kartenentgelt" },
+        { "type": "main", "text": "Einstieg ohne Jahresentgelt", "sub": "Membership Rewards nur gegen Aufpreis" },
+        { "type": "main", "text": "Gelegenheitsreisende", "sub": "Reiseversicherungen und Mobilitätsguthaben" },
+        { "type": "main", "text": "Vielreisende", "sub": "Lounge-Zugang, umfangreichste Versicherungen und Guthaben" }
+      ]
+    }
+  ],
+  "hinweis": "Die Angaben beziehen sich auf den oben genannten Datenstand und stammen von den Produktseiten und dem Kartenvergleich von American Express Deutschland. Konditionen, Entgelte, Startguthaben, Guthaben, Versicherungsleistungen und Aktionen können sich jederzeit ändern. Maßgeblich sind die aktuellen Angaben und Bedingungen von American Express auf der Antragsseite. Alle vier Karten sind Charge-Karten: Der Kartenumsatz wird einmal im Monat vollständig vom Girokonto eingezogen.",
+  "footnotes": [
+    { "mark": "¹", "title": "Startangebot", "text": "Nur für Neukund:innen, die in den letzten 18 Monaten keine entsprechende deutsche American Express Karte als Hauptkarte hatten. Der Mindestumsatz muss in den ersten 6 Monaten nach Kartenerhalt erreicht werden; wer die Karte in den ersten 12 Monaten kündigt, verliert den Bonus. Je nach Antragsweg bietet American Express statt Startguthaben auch Membership-Rewards-Punkte an (Gold Card bis zu 50.000, Platinum Card bis zu 85.000 Punkte). Weitere Bedingungen gelten." },
+    { "mark": "²", "title": "Versicherungen", "text": "Kurzübersicht. Leistungsumfang, Höchstsummen, Selbstbehalte und Voraussetzungen (oft Bezahlung mit der Karte) stehen in den Versicherungsbedingungen von American Express." },
+    { "mark": "³", "title": "Jährliche Guthaben", "text": "Nur bei bestimmten Partnern einlösbar, meist in Teilbeträgen (monatlich oder halbjährlich), teils mit Aktivierung oder Mindesteinkaufswert, und nicht ansparbar. Lounge on the Go der Platinum Card: seit 01.10.2026 sechsmal bis zu 20 € Verzehrguthaben bei teilnehmenden Partnern an den Flughäfen Frankfurt und München. Der tatsächliche Nutzen hängt vom eigenen Verhalten ab." },
+    { "mark": "⁴", "title": "Ausland & Bargeld", "text": "Angaben laut Preisverzeichnis bzw. gängigen Vergleichsportalen; die Akzeptanz von American Express ist im Handel geringer als bei Visa und Mastercard." }
+  ]
+}
