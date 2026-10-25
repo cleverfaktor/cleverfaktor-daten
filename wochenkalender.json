@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-24T16:45:00+02:00",
+  "updated": "2026-10-25T07:10:00+01:00",
   "week_start": "2026-10-26",
   "week_end": "2026-10-30",
   "rates": [
@@ -20,7 +20,7 @@
       "value": "3,75 – 4,00 %",
       "since": "2026-09-16",
       "next_meeting": "2026-10-28",
-      "source": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
+      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
     },
     {
       "id": "boj",
@@ -121,12 +121,14 @@
     { "date": "2026-10-27", "company": "Coca-Cola" },
     { "date": "2026-10-27", "company": "Boeing" },
     { "date": "2026-10-27", "company": "Visa" },
+    { "date": "2026-10-27", "company": "PayPal" },
     { "date": "2026-10-28", "company": "BASF" },
     { "date": "2026-10-28", "company": "Deutsche Bank" },
     { "date": "2026-10-28", "company": "Mercedes-Benz" },
     { "date": "2026-10-28", "company": "UBS" },
     { "date": "2026-10-28", "company": "Alphabet" },
     { "date": "2026-10-28", "company": "Microsoft" },
+    { "date": "2026-10-28", "company": "Airbus" },
     { "date": "2026-10-29", "company": "Volkswagen" },
     { "date": "2026-10-29", "company": "Adidas" },
     { "date": "2026-10-29", "company": "MTU Aero Engines" },
