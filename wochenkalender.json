@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28T06:48:00+01:00",
+  "updated": "2026-10-29T06:55:00+01:00",
   "week_start": "2026-10-26",
   "week_end": "2026-10-30",
   "rates": [
@@ -19,8 +19,8 @@
       "label": "Zielspanne",
       "value": "3,75 – 4,00 %",
       "since": "2026-09-16",
-      "next_meeting": "2026-10-28",
-      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+      "next_meeting": "2026-12-09",
+      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
     },
     {
       "id": "boj",
