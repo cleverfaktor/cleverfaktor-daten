@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-24T17:30:00+02:00",
+ "updated": "2026-10-30T17:45:00+01:00",
  "stand": "2026-10-19",
  "anbieter": [
   "tr",
@@ -10,7 +10,8 @@
   "cb",
   "fz",
   "sbr",
-  "tg"
+  "tg",
+  "xtb"
  ],
  "rows": [
   {
@@ -65,6 +66,12 @@
      {
       "t": "text",
       "v": "0 € Order direkt an der Tradegate Exchange"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Aktien und ETFs ohne Ordergebühr bis 100.000 € Monatsvolumen, 16 Börsen weltweit"
      }
     ]
    ]
@@ -145,6 +152,16 @@
       "t": "nooffer",
       "v": "Keine aktuelle Aktion"
      }
+    ],
+    [
+     {
+      "t": "offer",
+      "v": "4,50 % Zinsen für 90 Tage"
+     },
+     {
+      "t": "sub",
+      "v": "Kontoeröffnung 14.10.–31.12.2026 · bis 20.000 € · mind. 1 Aktien- oder ETF-Order pro Monat"
+     }
     ]
    ]
   },
@@ -208,6 +225,16 @@
      {
       "t": "best",
       "v": "0 €"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     },
+     {
+      "t": "sub",
+      "v": "keine Inaktivitätsgebühr"
      }
     ]
    ]
@@ -295,6 +322,16 @@
       "t": "sub",
       "v": "Tradegate Exchange · Mindestorder Aktien 500 €, ETPs 100 €"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "0 €"
+     },
+     {
+      "t": "sub",
+      "v": "Aktien und ETFs bis 100.000 € Monatsvolumen · darüber 0,2 %, mind. 10 €"
+     }
     ]
    ]
   },
@@ -381,6 +418,16 @@
       "t": "sub",
       "v": "Tradegate Exchange"
      }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0,00 €"
+     },
+     {
+      "t": "sub",
+      "v": "innerhalb von 100.000 € Monatsvolumen"
+     }
     ]
    ]
   },
@@ -465,6 +512,16 @@
      {
       "t": "sub",
       "v": "nur Tradegate Exchange"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     },
+     {
+      "t": "sub",
+      "v": "gleiche Konditionen · 0,5 % bei Währungsumrechnung · Fremdwährungskonten"
      }
     ]
    ]
@@ -552,6 +609,16 @@
       "t": "sub",
       "v": "ETPs und ausgewählte Aktien"
      }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 € · ab 15 €"
+     },
+     {
+      "t": "sub",
+      "v": "Investmentpläne mit mehreren ETFs und Aktien, auch Bruchstücke"
+     }
     ]
    ]
   },
@@ -636,6 +703,16 @@
      {
       "t": "neutral",
       "v": "kein Guthabenzins"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1,10 % p.a."
+     },
+     {
+      "t": "sub",
+      "v": "Standardzins · Aktion: Neukunden 4,50 % für 90 Tage bis 20.000 €"
      }
     ]
    ]
@@ -722,6 +799,16 @@
       "t": "sub",
       "v": "eigene Banklizenz · gesetzlich bis 100.000 €"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "XTB S.A. (Polen)"
+     },
+     {
+      "t": "sub",
+      "v": "deutsche Zweigniederlassung, Aufsicht KNF und BaFin · Anlegerentschädigung Polen bis 20.100 € · Kundengeld auf Treuhandkonten"
+     }
     ]
    ]
   },
@@ -806,6 +893,16 @@
      {
       "t": "sub",
       "v": "Depotübertrag möglich"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "nicht steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Steuer selbst über die Steuererklärung (Anlage KAP) · XTB stellt eine Ertragsaufstellung"
      }
     ]
    ]
@@ -915,6 +1012,18 @@
        "Mini-Futures"
       ]
      }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs",
+       "Bruchstücke",
+       "US-Optionen",
+       "CFDs (hohes Risiko)"
+      ]
+     }
     ]
    ]
   },
@@ -1000,6 +1109,16 @@
       "t": "sub",
       "v": "direkter Börsenzugang"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "16 Handelsplätze"
+     },
+     {
+      "t": "sub",
+      "v": "börslich und außerbörslich, international"
+     }
     ]
    ]
   },
@@ -1064,6 +1183,16 @@
      {
       "t": "sub",
       "v": "beide kostenlos"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Einzeldepot"
+     },
+     {
+      "t": "sub",
+      "v": "Kinder- und Gemeinschaftsdepot nicht ausgewiesen"
      }
     ]
    ]
@@ -1138,6 +1267,16 @@
       "t": "sub",
       "v": "Support per E-Mail"
      }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Web (xStation)"
+     },
+     {
+      "t": "sub",
+      "v": "Telefon, Chat und E-Mail auf Deutsch"
+     }
     ]
    ]
   },
@@ -1190,6 +1329,12 @@
      {
       "t": "text",
       "v": "Profi-Ordertypen (OCO, Trailing Stop)\nkeine Anleihen"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Fremdwährungskonten (EUR, USD, CHF)\nkeine Anleihen, Fonds oder echten Kryptos"
      }
     ]
    ]
@@ -1330,6 +1475,24 @@
     "telefon": 0,
     "zins": 0,
     "minus": "Mindestorder 500 € bei Aktien, nur ein Handelsplatz, kein Guthabenzins"
+   },
+   "xtb": {
+    "name": "XTB",
+    "kosten1000": 0,
+    "sparplanMin": 15,
+    "sparplan": 2,
+    "sparplanText": "Investmentpläne für 0 € ab 15 € Rate",
+    "klein": 3,
+    "kleinText": "Auch kleine Orders für 0 € (bis 100.000 € Monatsvolumen)",
+    "gross": 3,
+    "grossText": "0 € Order bis 100.000 € Monatsvolumen",
+    "ausland": 2,
+    "auslandText": "16 Börsen weltweit ohne Ordergebühr, 0,5 % bei Währungsumrechnung",
+    "telefon": 1,
+    "telefonText": "Telefon-Support auf Deutsch (Broker, keine Bank mit Filialnetz)",
+    "zins": 1,
+    "zinsText": "1,10 % p.a. Standardzins (Neukunden 90 Tage 4,50 % bis 20.000 €)",
+    "minus": "Nicht steuereinfach: Steuer selbst über die Steuererklärung"
    }
   },
   "profile": [
