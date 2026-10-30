@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T18:10:00+01:00",
+ "updated": "2026-10-30T18:35:00+01:00",
  "stand": "2026-10-19",
  "anbieter": [
   "tr",
@@ -12,7 +12,8 @@
   "sbr",
   "tg",
   "xtb",
-  "jt"
+  "jt",
+  "et"
  ],
  "rows": [
   {
@@ -79,6 +80,12 @@
      {
       "t": "text",
       "v": "Aktien, ETFs und echte Kryptos in einer App, effektiv 1 € je Order"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Social Trading mit CopyTrader, Aktien, ETFs und echte Kryptos, Konto in US-Dollar"
      }
     ]
    ]
@@ -175,6 +182,12 @@
       "t": "nooffer",
       "v": "Keine aktuelle Aktion"
      }
+    ],
+    [
+     {
+      "t": "nooffer",
+      "v": "Keine bestätigte Neukundenaktion"
+     }
     ]
    ]
   },
@@ -254,6 +267,16 @@
      {
       "t": "best",
       "v": "0 €"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
+     },
+     {
+      "t": "sub",
+      "v": "Auszahlung vom USD-Konto 5 $"
      }
     ]
    ]
@@ -361,6 +384,16 @@
       "t": "sub",
       "v": "LS Exchange und Tradegate: 2,90 € Provision abzüglich Ausgleichszahlung des Handelsplatzes · Quotrix 2,90 € · kein Mindestvolumen"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1 $ je Aktienorder"
+     },
+     {
+      "t": "sub",
+      "v": "ETFs 0 € · einige Börsen 2 $ (u. a. Hongkong, Tokio) · zzgl. Währungsumtausch EUR→USD 0,75 %"
+     }
     ]
    ]
   },
@@ -467,6 +500,16 @@
       "t": "sub",
       "v": "LS Exchange oder Tradegate"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1 $"
+     },
+     {
+      "t": "sub",
+      "v": "zzgl. 0,75 % Umtausch, wenn in US-Dollar gekauft wird"
+     }
     ]
    ]
   },
@@ -571,6 +614,16 @@
      {
       "t": "sub",
       "v": "nur deutsche Handelsplätze (Aktien aus rund 52 Ländern)"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1 $"
+     },
+     {
+      "t": "sub",
+      "v": "u. a. NYSE, Nasdaq, LSE · 2 $ an einigen Börsen · zzgl. Währungsumtausch"
      }
     ]
    ]
@@ -678,6 +731,16 @@
       "t": "sub",
       "v": "rund 175 ETF-Sparpläne · keine Aktiensparpläne"
      }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 € · ab 25 $"
+     },
+     {
+      "t": "sub",
+      "v": "rund 700 ETFs und 6.000 Aktien sparplanfähig"
+     }
     ]
    ]
   },
@@ -778,6 +841,16 @@
      {
       "t": "neutral",
       "v": "kein Guthabenzins"
+     }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "3,00 % p.a."
+     },
+     {
+      "t": "sub",
+      "v": "nur auf USD-Guthaben, Aktivierung nötig · ab 50.000 $ 3,80 % · EUR-Guthaben ohne Zins"
      }
     ]
    ]
@@ -884,6 +957,16 @@
       "t": "sub",
       "v": "gesetzlich bis 100.000 € + Einlagensicherungsfonds · Kryptos bei Tangany verwahrt"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "eToro (Europe) Ltd. (Zypern)"
+     },
+     {
+      "t": "sub",
+      "v": "Aufsicht CySEC · Anlegerentschädigung bis 20.000 €"
+     }
     ]
    ]
   },
@@ -988,6 +1071,16 @@
      {
       "t": "sub",
       "v": "Freistellungsauftrag in der App"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "nicht steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Steuer selbst über die Steuererklärung (Anlage KAP) · kein Freistellungsauftrag"
      }
     ]
    ]
@@ -1120,6 +1213,18 @@
        "Krypto (echte Coins)"
       ]
      }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs",
+       "Krypto (echte Coins)",
+       "CopyTrader",
+       "CFDs (hohes Risiko)"
+      ]
+     }
     ]
    ]
   },
@@ -1225,6 +1330,16 @@
       "t": "sub",
       "v": "Derivate auch Börse Stuttgart · Krypto rund um die Uhr"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "17 Börsen weltweit"
+     },
+     {
+      "t": "sub",
+      "v": "u. a. NYSE, Nasdaq, LSE"
+     }
     ]
    ]
   },
@@ -1309,6 +1424,16 @@
      {
       "t": "sub",
       "v": "kein Gemeinschaftsdepot"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Einzelkonto"
+     },
+     {
+      "t": "sub",
+      "v": "Kinder- und Gemeinschaftsdepot nicht ausgewiesen"
      }
     ]
    ]
@@ -1403,6 +1528,16 @@
       "t": "sub",
       "v": "Support per E-Mail"
      }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Web"
+     },
+     {
+      "t": "sub",
+      "v": "Support per Chat und E-Mail, kein Telefonservice"
+     }
     ]
    ]
   },
@@ -1467,6 +1602,12 @@
      {
       "t": "text",
       "v": "Echte Kryptos mit Staking (u. a. ETH, SOL)\nZertifikate von Premium-Partnern ab 0 €"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "CopyTrader: Portfolios anderer Anleger kopieren\nKonto läuft in US-Dollar"
      }
     ]
    ]
@@ -1640,6 +1781,23 @@
     "telefon": 0,
     "zins": 0,
     "minus": "Kein Guthabenzins, keine Aktiensparpläne, kein Handel an Auslandsbörsen"
+   },
+   "et": {
+    "name": "eToro",
+    "kosten1000": 0.9,
+    "sparplanMin": 25,
+    "sparplan": 2,
+    "sparplanText": "Sparpläne für 0 € ab 25 $ (ETFs und Aktien)",
+    "klein": 2,
+    "kleinText": "Aktien 1 $ je Order, ETFs 0 €",
+    "gross": 2,
+    "grossText": "Aktien 1 $ je Order, ETFs 0 €, unabhängig von der Größe",
+    "ausland": 2,
+    "auslandText": "17 Börsen weltweit für 1 $ je Order, zzgl. Währungsumtausch",
+    "telefon": 0,
+    "zins": 1,
+    "zinsText": "3,00 % p.a. auf USD-Guthaben (Aktivierung nötig)",
+    "minus": "Nicht steuereinfach, Konto in US-Dollar (0,75 % Umtausch), 5 $ Auszahlungsgebühr"
    }
   },
   "profile": [
