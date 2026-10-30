@@ -61,11 +61,12 @@ damit Tabelle und Finder nie auseinanderlaufen). Monatlich am 10. automatisch ge
 Inhalte des Kryptobörsen-Vergleichs und des Kryptobörsen-Finders. Monatlich am 15.
 automatisch geprüft.
 
-- `rows`: Zeilen mit `label`, optional `highlight`, immer genau 8 Zellen: OKX, Bitvavo,
-  BISON, Crypto.com, Kraken, Trade Republic, Coinbase, 21bitcoin.
+- `rows`: Zeilen mit `label`, optional `highlight`, immer genau 9 Zellen: OKX, Bitvavo,
+  BISON, Crypto.com, Kraken, eToro, Trade Republic, Coinbase, 21bitcoin.
   Zelltypen: `main`, `sub`, `offer`, `yes`, `no`, `text`, `chips`, `pros`, `cons`.
 - `hinweis`, `footnotes` (¹–⁴): Texte unter der Tabelle.
-- `finder.ex`: je Börse `kosten500`, `kostenText` (Kraken zusätzlich `kosten500Pro`,
+- `finder.ex`: je Börse (IDs: `okx`, `bitvavo`, `bison`, `cryptocom`, `kraken`, `etoro`,
+  `traderepublic`, `coinbase`, `21bitcoin`) `kosten500`, `kostenText` (Kraken zusätzlich `kosten500Pro`,
   `kostenTextPro`), `pay` (`sepa`, `card`, `paypal`), `minus`.
 - `finder.punkte`: Bewertung je Antwort `[Punkte, Begründung]`.
 - `finder.einzahlung_hinweis`: Gebührenbeispiele für Karte (`card`) und PayPal (`sonst`).
