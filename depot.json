@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T17:45:00+01:00",
+ "updated": "2026-10-30T18:10:00+01:00",
  "stand": "2026-10-19",
  "anbieter": [
   "tr",
@@ -11,7 +11,8 @@
   "fz",
   "sbr",
   "tg",
-  "xtb"
+  "xtb",
+  "jt"
  ],
  "rows": [
   {
@@ -72,6 +73,12 @@
      {
       "t": "text",
       "v": "Aktien und ETFs ohne Ordergebühr bis 100.000 € Monatsvolumen, 16 Börsen weltweit"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Aktien, ETFs und echte Kryptos in einer App, effektiv 1 € je Order"
      }
     ]
    ]
@@ -162,6 +169,12 @@
       "t": "sub",
       "v": "Kontoeröffnung 14.10.–31.12.2026 · bis 20.000 € · mind. 1 Aktien- oder ETF-Order pro Monat"
      }
+    ],
+    [
+     {
+      "t": "nooffer",
+      "v": "Keine aktuelle Aktion"
+     }
     ]
    ]
   },
@@ -235,6 +248,12 @@
      {
       "t": "sub",
       "v": "keine Inaktivitätsgebühr"
+     }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 €"
      }
     ]
    ]
@@ -332,6 +351,16 @@
       "t": "sub",
       "v": "Aktien und ETFs bis 100.000 € Monatsvolumen · darüber 0,2 %, mind. 10 €"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "effektiv 1 €"
+     },
+     {
+      "t": "sub",
+      "v": "LS Exchange und Tradegate: 2,90 € Provision abzüglich Ausgleichszahlung des Handelsplatzes · Quotrix 2,90 € · kein Mindestvolumen"
+     }
     ]
    ]
   },
@@ -428,6 +457,16 @@
       "t": "sub",
       "v": "innerhalb von 100.000 € Monatsvolumen"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "1,00 €"
+     },
+     {
+      "t": "sub",
+      "v": "LS Exchange oder Tradegate"
+     }
     ]
    ]
   },
@@ -522,6 +561,16 @@
      {
       "t": "sub",
       "v": "gleiche Konditionen · 0,5 % bei Währungsumrechnung · Fremdwährungskonten"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "nicht möglich"
+     },
+     {
+      "t": "sub",
+      "v": "nur deutsche Handelsplätze (Aktien aus rund 52 Ländern)"
      }
     ]
    ]
@@ -619,6 +668,16 @@
       "t": "sub",
       "v": "Investmentpläne mit mehreren ETFs und Aktien, auch Bruchstücke"
      }
+    ],
+    [
+     {
+      "t": "best",
+      "v": "0 € · ab 25 €"
+     },
+     {
+      "t": "sub",
+      "v": "rund 175 ETF-Sparpläne · keine Aktiensparpläne"
+     }
     ]
    ]
   },
@@ -713,6 +772,12 @@
      {
       "t": "sub",
       "v": "Standardzins · Aktion: Neukunden 4,50 % für 90 Tage bis 20.000 €"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "kein Guthabenzins"
      }
     ]
    ]
@@ -809,6 +874,16 @@
       "t": "sub",
       "v": "deutsche Zweigniederlassung, Aufsicht KNF und BaFin · Anlegerentschädigung Polen bis 20.100 € · Kundengeld auf Treuhandkonten"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "Sutor Bank"
+     },
+     {
+      "t": "sub",
+      "v": "gesetzlich bis 100.000 € + Einlagensicherungsfonds · Kryptos bei Tangany verwahrt"
+     }
     ]
    ]
   },
@@ -903,6 +978,16 @@
      {
       "t": "sub",
       "v": "Steuer selbst über die Steuererklärung (Anlage KAP) · XTB stellt eine Ertragsaufstellung"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ steuereinfach"
+     },
+     {
+      "t": "sub",
+      "v": "Freistellungsauftrag in der App"
      }
     ]
    ]
@@ -1024,6 +1109,17 @@
        "CFDs (hohes Risiko)"
       ]
      }
+    ],
+    [
+     {
+      "t": "chips",
+      "items": [
+       "Aktien",
+       "ETFs/ETPs",
+       "Zertifikate",
+       "Krypto (echte Coins)"
+      ]
+     }
     ]
    ]
   },
@@ -1119,6 +1215,16 @@
       "t": "sub",
       "v": "börslich und außerbörslich, international"
      }
+    ],
+    [
+     {
+      "t": "main",
+      "v": "LS Exchange, Tradegate, Quotrix"
+     },
+     {
+      "t": "sub",
+      "v": "Derivate auch Börse Stuttgart · Krypto rund um die Uhr"
+     }
     ]
    ]
   },
@@ -1193,6 +1299,16 @@
      {
       "t": "sub",
       "v": "Kinder- und Gemeinschaftsdepot nicht ausgewiesen"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Junior-Depot"
+     },
+     {
+      "t": "sub",
+      "v": "kein Gemeinschaftsdepot"
      }
     ]
    ]
@@ -1277,6 +1393,16 @@
       "t": "sub",
       "v": "Telefon, Chat und E-Mail auf Deutsch"
      }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "App & Web"
+     },
+     {
+      "t": "sub",
+      "v": "Support per E-Mail"
+     }
     ]
    ]
   },
@@ -1335,6 +1461,12 @@
      {
       "t": "text",
       "v": "Fremdwährungskonten (EUR, USD, CHF)\nkeine Anleihen, Fonds oder echten Kryptos"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Echte Kryptos mit Staking (u. a. ETH, SOL)\nZertifikate von Premium-Partnern ab 0 €"
      }
     ]
    ]
@@ -1493,6 +1625,21 @@
     "zins": 1,
     "zinsText": "1,10 % p.a. Standardzins (Neukunden 90 Tage 4,50 % bis 20.000 €)",
     "minus": "Nicht steuereinfach: Steuer selbst über die Steuererklärung"
+   },
+   "jt": {
+    "name": "justTRADE",
+    "kosten1000": 1,
+    "sparplanMin": 25,
+    "sparplan": 2,
+    "sparplanText": "ETF-Sparpläne für 0 € ab 25 € Rate",
+    "klein": 3,
+    "kleinText": "Orders für effektiv 1 €, kein Mindestvolumen",
+    "gross": 2,
+    "grossText": "Effektiv 1 € je Order, egal wie groß",
+    "ausland": -1,
+    "telefon": 0,
+    "zins": 0,
+    "minus": "Kein Guthabenzins, keine Aktiensparpläne, kein Handel an Auslandsbörsen"
    }
   },
   "profile": [

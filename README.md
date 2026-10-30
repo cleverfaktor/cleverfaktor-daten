@@ -42,13 +42,13 @@ damit Tabelle und Finder nie auseinanderlaufen). Monatlich am 10. automatisch ge
 
 - `stand`: Datenstand als JJJJ-MM-TT (wird auf der Website als TT.MM.JJJJ angezeigt).
 - `rows`: Abschnitte (`{"section": "..."}`) und Zeilen (`label`, optional `hint`,
-  optional `highlight` für die Aktionszeile). Immer genau 9 Zellen in fester
+  optional `highlight` für die Aktionszeile). Immer genau 10 Zellen in fester
   Reihenfolge: Trade Republic, Traders Place, SMARTBROKER+, comdirect,
-  Consorsbank, finanzen.net ZERO, S Broker, tradegate.direct, XTB.
+  Consorsbank, finanzen.net ZERO, S Broker, tradegate.direct, XTB, justTRADE.
 - Zelle = Liste von Teilen `{"t": Typ, "v": Text}`; Zeilenumbruch mit `\n`.
   Typen: `main`, `best` (günstigster Wert, grün), `sub`, `offer`, `nooffer`,
   `check`, `neutral`, `text`, `chips` (mit `items`).
-- `finder.broker`: je Broker-ID (`tr`, `tp`, `sb`, `cd`, `cb`, `fz`, `sbr`, `tg`, `xtb`)
+- `finder.broker`: je Broker-ID (`tr`, `tp`, `sb`, `cd`, `cb`, `fz`, `sbr`, `tg`, `xtb`, `jt`)
   Kosten (`kosten1000`, `sparplanMin`), Punkte (−1 bis 3) und Begründungstexte, `minus`.
 - `finder.profile`: Empfehlungsprofile.
 - Muss zur Tabelle passen: `kosten1000` = Zeile „Beispiel: Aktienkauf für 1.000 €“,
