@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-29T06:55:00+01:00",
+  "updated": "2026-10-30T06:55:00+01:00",
   "week_start": "2026-10-26",
   "week_end": "2026-10-30",
   "rates": [
@@ -10,7 +10,7 @@
       "label": "Einlagensatz",
       "value": "2,50 %",
       "since": "2026-09-16",
-      "next_meeting": "2026-10-29",
+      "next_meeting": "2026-12-17",
       "source": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
     },
     {
@@ -28,8 +28,8 @@
       "label": "Leitzins",
       "value": "1,25 %",
       "since": "2026-09-18",
-      "next_meeting": "2026-10-30",
-      "source": "https://www.nippon.com/en/news/yjj2026091800484/"
+      "next_meeting": "2026-12-18",
+      "source": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html"
     }
   ],
   "events": [
