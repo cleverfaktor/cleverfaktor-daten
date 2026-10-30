@@ -49,7 +49,9 @@ damit Tabelle und Finder nie auseinanderlaufen). Monatlich am 10. automatisch ge
   Typen: `main`, `best` (günstigster Wert, grün), `sub`, `offer`, `nooffer`,
   `check`, `neutral`, `text`, `chips` (mit `items`).
 - `finder.broker`: je Broker-ID (`tr`, `tp`, `sb`, `cd`, `cb`, `fz`, `sbr`, `tg`, `xtb`, `jt`, `et`)
-  Kosten (`kosten1000`, `sparplanMin`), Punkte (−1 bis 3) und Begründungstexte, `minus`.
+  Kosten (`kosten1000`, `sparplanMin`), Punkte (−1 bis 3) und Begründungstexte, `minus`,
+  Merkmale für den Finder: `typ` (`neo` oder `bank`), `steuer` (steuereinfach), `giro` (Girokonto beim
+  selben Anbieter), `krypto` (echte Kryptos), `kinder` (Kinder-/Junior-Depot), `copy` (CopyTrading) – jeweils true/false.
 - `finder.profile`: Empfehlungsprofile.
 - Muss zur Tabelle passen: `kosten1000` = Zeile „Beispiel: Aktienkauf für 1.000 €“,
   `sparplanMin` und Sparplan-Texte = Zeile „ETF-Sparplan“, Zinstexte = „Zinsen auf Guthaben“.

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T18:35:00+01:00",
+ "updated": "2026-10-30T19:05:00+01:00",
  "stand": "2026-10-19",
  "anbieter": [
   "tr",
@@ -1630,7 +1630,13 @@
     "telefon": 0,
     "zins": 2,
     "zinsText": "2,50 % p.a. auf nicht investiertes Guthaben",
-    "minus": "Kein Telefonservice"
+    "minus": "Kein Telefonservice",
+    "typ": "neo",
+    "steuer": true,
+    "giro": true,
+    "krypto": true,
+    "kinder": true,
+    "copy": false
    },
    "tp": {
     "name": "Traders Place",
@@ -1647,7 +1653,13 @@
     "telefon": 0,
     "zins": 1,
     "zinsText": "Zinskonto mit 2,25 % p.a. (ab 5.000 € Einlage)",
-    "minus": "0-€-Sparplan nur bei Partner-ETFs"
+    "minus": "0-€-Sparplan nur bei Partner-ETFs",
+    "typ": "neo",
+    "steuer": true,
+    "giro": false,
+    "krypto": true,
+    "kinder": true,
+    "copy": false
    },
    "sb": {
     "name": "SMARTBROKER+",
@@ -1664,7 +1676,13 @@
     "telefon": 0,
     "zins": 2,
     "zinsText": "Zinskonto mit 2,25 % p.a. bis 100.000 €",
-    "minus": "Andere deutsche Börsen ab 4 € zzgl. Fremdspesen"
+    "minus": "Andere deutsche Börsen ab 4 € zzgl. Fremdspesen",
+    "typ": "neo",
+    "steuer": true,
+    "giro": false,
+    "krypto": true,
+    "kinder": false,
+    "copy": false
    },
    "cd": {
     "name": "comdirect",
@@ -1682,7 +1700,13 @@
     "telefonText": "Vollbank (Commerzbank) mit Telefonservice und Girokonto",
     "zins": 1,
     "zinsText": "Tagesgeld-Aktion für Neukunden (befristet)",
-    "minus": "Regulär teurer: Order ab 9,90 €, Sparplan 1,5 %"
+    "minus": "Regulär teurer: Order ab 9,90 €, Sparplan 1,5 %",
+    "typ": "bank",
+    "steuer": true,
+    "giro": true,
+    "krypto": false,
+    "kinder": true,
+    "copy": false
    },
    "cb": {
     "name": "Consorsbank",
@@ -1700,7 +1724,13 @@
     "telefonText": "Vollbank mit Telefonservice und Trading-Werkzeugen",
     "zins": 1,
     "zinsText": "Tagesgeld-Aktion für Neukunden (befristet)",
-    "minus": "Einzelorders regulär ab 9,95 € zzgl. Börsenentgelt"
+    "minus": "Einzelorders regulär ab 9,95 € zzgl. Börsenentgelt",
+    "typ": "bank",
+    "steuer": true,
+    "giro": true,
+    "krypto": false,
+    "kinder": true,
+    "copy": false
    },
    "fz": {
     "name": "finanzen.net ZERO",
@@ -1715,7 +1745,13 @@
     "ausland": -1,
     "telefon": 0,
     "zins": 0,
-    "minus": "Nur gettex, kein Guthabenzins"
+    "minus": "Nur gettex, kein Guthabenzins",
+    "typ": "neo",
+    "steuer": true,
+    "giro": false,
+    "krypto": true,
+    "kinder": true,
+    "copy": false
    },
    "sbr": {
     "name": "S Broker",
@@ -1733,7 +1769,13 @@
     "telefonText": "Broker der Sparkassen mit Telefonservice",
     "zins": 1,
     "zinsText": "KontoPlus mit 1,50 % p.a.",
-    "minus": "Freie Börsenwahl kostet 0,95 € + 0,25 %"
+    "minus": "Freie Börsenwahl kostet 0,95 € + 0,25 %",
+    "typ": "bank",
+    "steuer": true,
+    "giro": false,
+    "krypto": false,
+    "kinder": true,
+    "copy": false
    },
    "tg": {
     "name": "tradegate.direct",
@@ -1747,7 +1789,13 @@
     "ausland": -1,
     "telefon": 0,
     "zins": 0,
-    "minus": "Mindestorder 500 € bei Aktien, nur ein Handelsplatz, kein Guthabenzins"
+    "minus": "Mindestorder 500 € bei Aktien, nur ein Handelsplatz, kein Guthabenzins",
+    "typ": "neo",
+    "steuer": true,
+    "giro": false,
+    "krypto": false,
+    "kinder": false,
+    "copy": false
    },
    "xtb": {
     "name": "XTB",
@@ -1765,7 +1813,13 @@
     "telefonText": "Telefon-Support auf Deutsch (Broker, keine Bank mit Filialnetz)",
     "zins": 1,
     "zinsText": "1,10 % p.a. Standardzins (Neukunden 90 Tage 4,50 % bis 20.000 €)",
-    "minus": "Nicht steuereinfach: Steuer selbst über die Steuererklärung"
+    "minus": "Nicht steuereinfach: Steuer selbst über die Steuererklärung",
+    "typ": "neo",
+    "steuer": false,
+    "giro": false,
+    "krypto": false,
+    "kinder": false,
+    "copy": false
    },
    "jt": {
     "name": "justTRADE",
@@ -1780,7 +1834,13 @@
     "ausland": -1,
     "telefon": 0,
     "zins": 0,
-    "minus": "Kein Guthabenzins, keine Aktiensparpläne, kein Handel an Auslandsbörsen"
+    "minus": "Kein Guthabenzins, keine Aktiensparpläne, kein Handel an Auslandsbörsen",
+    "typ": "neo",
+    "steuer": true,
+    "giro": false,
+    "krypto": true,
+    "kinder": true,
+    "copy": false
    },
    "et": {
     "name": "eToro",
@@ -1797,7 +1857,13 @@
     "telefon": 0,
     "zins": 1,
     "zinsText": "3,00 % p.a. auf USD-Guthaben (Aktivierung nötig)",
-    "minus": "Nicht steuereinfach, Konto in US-Dollar (0,75 % Umtausch), 5 $ Auszahlungsgebühr"
+    "minus": "Nicht steuereinfach, Konto in US-Dollar (0,75 % Umtausch), 5 $ Auszahlungsgebühr",
+    "typ": "neo",
+    "steuer": false,
+    "giro": false,
+    "krypto": true,
+    "kinder": false,
+    "copy": true
    }
   },
   "profile": [
