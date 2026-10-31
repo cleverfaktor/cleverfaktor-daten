@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-10-30T06:55:00+01:00",
-  "week_start": "2026-10-26",
-  "week_end": "2026-10-30",
+  "updated": "2026-10-31T07:15:00+01:00",
+  "week_start": "2026-11-02",
+  "week_end": "2026-11-06",
   "rates": [
     {
       "id": "ecb",
@@ -34,113 +34,58 @@
   ],
   "events": [
     {
-      "date": "2026-10-26",
-      "time": "10:00",
-      "type": "konjunktur",
-      "region": "DE",
-      "title": "ifo-Geschäftsklima Oktober",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "19:00",
-      "type": "notenbank",
-      "region": "US",
-      "title": "Fed-Zinsentscheid",
-      "source": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "13:30",
+      "date": "2026-11-02",
+      "time": "16:00",
       "type": "konjunktur",
       "region": "US",
-      "title": "BIP 3. Quartal (1. Schätzung)",
-      "source": "https://www.bea.gov/news/schedule/full"
+      "title": "ISM-Index Industrie Oktober",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921742-wochenvorschau-2-bis-8-november-45-kw-015.htm"
     },
     {
-      "date": "2026-10-29",
-      "time": "13:30",
-      "type": "inflation",
-      "region": "US",
-      "title": "PCE-Inflation September",
-      "source": "https://www.bea.gov/news/schedule/full"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "14:15",
-      "type": "notenbank",
-      "region": "EU",
-      "title": "EZB-Zinsentscheid",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
-    },
-    {
-      "date": "2026-10-30",
+      "date": "2026-11-03",
       "time": "",
-      "type": "notenbank",
-      "region": "JP",
-      "title": "Bank-of-Japan-Zinsentscheid",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+      "type": "politik",
+      "region": "US",
+      "title": "US-Zwischenwahlen (Midterms)",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921742-wochenvorschau-2-bis-8-november-45-kw-015.htm"
     },
     {
-      "date": "2026-10-30",
-      "time": "09:55",
-      "type": "arbeitsmarkt",
-      "region": "DE",
-      "title": "Arbeitsmarktdaten Oktober",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
-    },
-    {
-      "date": "2026-10-30",
-      "time": "10:00",
-      "type": "konjunktur",
-      "region": "DE",
-      "title": "BIP 3. Quartal (1. Schätzung)",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
-    },
-    {
-      "date": "2026-10-30",
+      "date": "2026-11-04",
       "time": "11:00",
-      "type": "konjunktur",
+      "type": "inflation",
       "region": "EU",
-      "title": "BIP 3. Quartal (1. Schätzung)",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+      "title": "Inflation Eurozone Oktober (Schnellschätzung)",
+      "source": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-12-november-2026-16019971"
     },
     {
-      "date": "2026-10-30",
-      "time": "14:00",
-      "type": "inflation",
-      "region": "DE",
-      "title": "Inflation Oktober (vorläufig)",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921741-wochenvorschau-26-oktober-bis-1-november-44-kw-015.htm"
+      "date": "2026-11-05",
+      "time": "13:00",
+      "type": "notenbank",
+      "region": "UK",
+      "title": "Bank-of-England-Zinsentscheid",
+      "source": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-12-november-2026-16019971"
+    },
+    {
+      "date": "2026-11-06",
+      "time": "14:30",
+      "type": "arbeitsmarkt",
+      "region": "US",
+      "title": "US-Arbeitsmarktbericht Oktober",
+      "source": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
     }
   ],
   "earnings": [
-    { "date": "2026-10-27", "company": "Porsche AG" },
-    { "date": "2026-10-27", "company": "Beiersdorf" },
-    { "date": "2026-10-27", "company": "Novartis" },
-    { "date": "2026-10-27", "company": "Coca-Cola" },
-    { "date": "2026-10-27", "company": "Boeing" },
-    { "date": "2026-10-27", "company": "Visa" },
-    { "date": "2026-10-27", "company": "PayPal" },
-    { "date": "2026-10-28", "company": "BASF" },
-    { "date": "2026-10-28", "company": "Deutsche Bank" },
-    { "date": "2026-10-28", "company": "Mercedes-Benz" },
-    { "date": "2026-10-28", "company": "UBS" },
-    { "date": "2026-10-28", "company": "Alphabet" },
-    { "date": "2026-10-28", "company": "Microsoft" },
-    { "date": "2026-10-28", "company": "Airbus" },
-    { "date": "2026-10-29", "company": "Volkswagen" },
-    { "date": "2026-10-29", "company": "Adidas" },
-    { "date": "2026-10-29", "company": "MTU Aero Engines" },
-    { "date": "2026-10-29", "company": "Shell" },
-    { "date": "2026-10-29", "company": "Eli Lilly" },
-    { "date": "2026-10-29", "company": "Mastercard" },
-    { "date": "2026-10-29", "company": "Amazon" },
-    { "date": "2026-10-29", "company": "Intel" },
-    { "date": "2026-10-29", "company": "Coinbase" },
-    { "date": "2026-10-30", "company": "Puma" },
-    { "date": "2026-10-30", "company": "AstraZeneca" },
-    { "date": "2026-10-30", "company": "ExxonMobil" },
-    { "date": "2026-10-30", "company": "Chevron" }
+    { "date": "2026-11-02", "company": "Apple" },
+    { "date": "2026-11-02", "company": "Palantir" },
+    { "date": "2026-11-03", "company": "Zalando" },
+    { "date": "2026-11-03", "company": "Bayer" },
+    { "date": "2026-11-03", "company": "AMD" },
+    { "date": "2026-11-04", "company": "Novo Nordisk" },
+    { "date": "2026-11-04", "company": "BMW" },
+    { "date": "2026-11-04", "company": "McDonald's" },
+    { "date": "2026-11-05", "company": "Deutsche Telekom" },
+    { "date": "2026-11-05", "company": "Commerzbank" },
+    { "date": "2026-11-05", "company": "DHL Group" },
+    { "date": "2026-11-05", "company": "Rheinmetall" }
   ]
 }
