@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-30T19:05:00+01:00",
+ "updated": "2026-11-01T07:14:09+01:00",
  "stand": "2026-10-19",
  "anbieter": [
   "tr",
@@ -143,12 +143,8 @@
     ],
     [
      {
-      "t": "offer",
-      "v": "5 € Gutschrift je Trade\n12 Monate, max. 240 €"
-     },
-     {
-      "t": "sub",
-      "v": "Registrierung 14.–31.10.2026 über Aktionslink · Sparpläne zählen nicht"
+      "t": "nooffer",
+      "v": "Keine allgemeine Neukundenprämie"
      }
     ],
     [
