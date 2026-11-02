@@ -2812,6 +2812,27 @@
     {
       "id": "roche",
       "name": "Roche (Genussschein)",
+      "isin": "CH0012032048",
+      "waehrung": "CHF",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3
+      ],
+      "schaetzung_betrag": 10.8,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Genussschein und Inhaberaktie erhalten dieselbe Dividende; beide ISIN getrennt geführt, ISIN-Zuordnung der Quelle beim Genussschein nicht separat geprüft.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-03",
+        "text": "Dividende je Aktie zuletzt 10,8 CHF (Zahlung 03/2026) nach 9,7 CHF (Zahlung 03/2025)."
+      }
+    },
+    {
+      "id": "roche-inhaber",
+      "name": "Roche (Inhaberaktie)",
       "isin": "CH0012032113",
       "waehrung": "CHF",
       "land": "Schweiz",
@@ -2822,7 +2843,7 @@
         3
       ],
       "schaetzung_betrag": 10.8,
-      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Genussschein und Inhaberaktie erhalten dieselbe Dividende; beide ISIN getrennt geführt, ISIN-Zuordnung der Quelle beim Genussschein nicht separat geprüft.",
       "abgerufen": "2026-11-02",
       "aenderung": {
         "art": "erhoehung",
