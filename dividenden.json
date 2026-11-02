@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T18:52:06+01:00",
+  "updated": "2026-11-02T19:10:00+01:00",
   "stand": "2026-11-02",
   "aktien": [
     {
@@ -3002,7 +3002,7 @@
       "isin": "FR0000121014",
       "waehrung": "EUR",
       "land": "Frankreich",
-      "qst": 15,
+      "qst": 12.8,
       "rhythmus": "halbjährlich",
       "zahlungen": [
         {
@@ -3029,7 +3029,7 @@
       "isin": "FR0000120073",
       "waehrung": "EUR",
       "land": "Frankreich",
-      "qst": 15,
+      "qst": 12.8,
       "rhythmus": "jaehrlich",
       "zahlungen": [],
       "schaetzung_monate": [
@@ -3050,7 +3050,7 @@
       "isin": "FR0000120578",
       "waehrung": "EUR",
       "land": "Frankreich",
-      "qst": 15,
+      "qst": 12.8,
       "rhythmus": "jaehrlich",
       "zahlungen": [],
       "schaetzung_monate": [
@@ -3066,7 +3066,7 @@
       "isin": "FR0000121972",
       "waehrung": "EUR",
       "land": "Frankreich",
-      "qst": 15,
+      "qst": 12.8,
       "rhythmus": "jaehrlich",
       "zahlungen": [],
       "schaetzung_monate": [
@@ -3082,7 +3082,7 @@
       "isin": "FR0000120271",
       "waehrung": "EUR",
       "land": "Frankreich",
-      "qst": 15,
+      "qst": 12.8,
       "rhythmus": "quartalsweise",
       "zahlungen": [
         {
@@ -3107,7 +3107,7 @@
       "isin": "FR0000120628",
       "waehrung": "EUR",
       "land": "Frankreich",
-      "qst": 15,
+      "qst": 12.8,
       "rhythmus": "jaehrlich",
       "zahlungen": [],
       "schaetzung_monate": [
@@ -3123,7 +3123,7 @@
       "isin": "FR0000120644",
       "waehrung": "EUR",
       "land": "Frankreich",
-      "qst": 15,
+      "qst": 12.8,
       "rhythmus": "jaehrlich",
       "zahlungen": [],
       "schaetzung_monate": [
