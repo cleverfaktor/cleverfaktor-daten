@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T15:10:00+01:00",
+  "updated": "2026-11-02T18:50:00+01:00",
   "stand": "2026-11-02",
   "aktien": [
     {
@@ -1056,6 +1056,3839 @@
         "10": 0.4172
       },
       "quelle": "Ausschüttungen laut divvydiary.com und onvista.de (jeweils 15.01., 15.04., 15.07., 15.10.2026: 0,2515 €, 0,1870 €, 0,6748 €, 0,4172 €); Quelle nennt Ex-Tag und Zahltag am selben Tag, der tatsächliche Zahltag kann wenige Tage später liegen. Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom",
+      "isin": "US11135F1012",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.65,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 0,65 USD (Zahlung 09/2026) nach 0,59 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "cisco",
+      "name": "Cisco Systems",
+      "isin": "US17275R1023",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.42,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "isin": "US4592001014",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-10",
+          "betrag": 1.69,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.69,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "isin": "US7475251036",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-17",
+          "betrag": 0.92,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.92,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "texas-instruments",
+      "name": "Texas Instruments",
+      "isin": "US8825081040",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-10",
+          "betrag": 1.52,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.52,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "isin": "US92826C8394",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-01",
+          "betrag": 0.78,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.78,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-12",
+        "text": "Dividende je Aktie zuletzt 0,78 USD (Zahlung 12/2026) nach 0,67 USD (Zahlung 12/2025)."
+      }
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "isin": "US57636Q1040",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-09",
+          "betrag": 0.87,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.87,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-11",
+        "text": "Dividende je Aktie zuletzt 0,87 USD (Zahlung 11/2026) nach 0,76 USD (Zahlung 11/2025)."
+      }
+    },
+    {
+      "id": "morgan-stanley",
+      "name": "Morgan Stanley",
+      "isin": "US6174464486",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-13",
+          "betrag": 1.15,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.15,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-11",
+        "text": "Dividende je Aktie zuletzt 1,15 USD (Zahlung 11/2026) nach 1 USD (Zahlung 11/2025)."
+      }
+    },
+    {
+      "id": "goldman-sachs",
+      "name": "Goldman Sachs",
+      "isin": "US38141G1040",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 5.0,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 5 USD (Zahlung 09/2026) nach 4 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "blackrock",
+      "name": "BlackRock",
+      "isin": "US09290D1019",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 5.73,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "jpmorgan",
+      "name": "JPMorgan Chase",
+      "isin": "US46625H1005",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.65,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "adp",
+      "name": "Automatic Data Processing",
+      "isin": "US0530151036",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.7,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-10",
+        "text": "Dividende je Aktie zuletzt 1,7 USD (Zahlung 10/2026) nach 1,54 USD (Zahlung 10/2025)."
+      }
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "isin": "US68389X1054",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.5,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "bank-of-america",
+      "name": "Bank of America",
+      "isin": "US0605051046",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.32,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 0,32 USD (Zahlung 09/2026) nach 0,28 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "wells-fargo",
+      "name": "Wells Fargo",
+      "isin": "US9497461015",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.5,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 0,5 USD (Zahlung 09/2026) nach 0,45 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "travelers",
+      "name": "Travelers Companies",
+      "isin": "US89417E1091",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.25,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 1,25 USD (Zahlung 09/2026) nach 1,1 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "chubb",
+      "name": "Chubb",
+      "isin": "CH0044328745",
+      "waehrung": "USD",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.02,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "union-pacific",
+      "name": "Union Pacific",
+      "isin": "US9078181081",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.42,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "aflac",
+      "name": "Aflac",
+      "isin": "US0010551028",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.61,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ups",
+      "name": "UPS",
+      "isin": "US9113121068",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.64,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "rtx",
+      "name": "RTX",
+      "isin": "US75513E1010",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-10",
+          "betrag": 0.73,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.73,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "general-dynamics",
+      "name": "General Dynamics",
+      "isin": "US3695501086",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-13",
+          "betrag": 1.59,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.59,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "lockheed-martin",
+      "name": "Lockheed Martin",
+      "isin": "US5398301094",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-31",
+          "betrag": 3.6,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 3.6,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "eaton",
+      "name": "Eaton",
+      "isin": "IE00B8KQN827",
+      "waehrung": "USD",
+      "land": "Irland",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.1,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "home-depot",
+      "name": "Home Depot",
+      "isin": "US4370761029",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 2.33,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "emerson-electric",
+      "name": "Emerson Electric",
+      "isin": "US2910111044",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.555,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "procter-gamble",
+      "name": "Procter & Gamble",
+      "isin": "US7427181091",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-16",
+          "betrag": 1.0885,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.0885,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "lowes",
+      "name": "Lowe's",
+      "isin": "US5486611073",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-04",
+          "betrag": 1.25,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.25,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "clorox",
+      "name": "Clorox",
+      "isin": "US1890541097",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-13",
+          "betrag": 1.25,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.25,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "colgate-palmolive",
+      "name": "Colgate-Palmolive",
+      "isin": "US1941621039",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-13",
+          "betrag": 0.53,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.53,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "kimberly-clark",
+      "name": "Kimberly-Clark",
+      "isin": "US4943681035",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.28,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "kraft-heinz",
+      "name": "Kraft Heinz",
+      "isin": "US5007541064",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.4,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "mondelez",
+      "name": "Mondelez",
+      "isin": "US6092071058",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.52,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "johnson-johnson",
+      "name": "Johnson & Johnson",
+      "isin": "US4781601046",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-08",
+          "betrag": 1.34,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.34,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "abbvie",
+      "name": "AbbVie",
+      "isin": "US00287Y1091",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-16",
+          "betrag": 1.73,
+          "status": "bestaetigt"
+        },
+        {
+          "datum": "2027-02-16",
+          "betrag": 1.82,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.73,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "abbott",
+      "name": "Abbott Laboratories",
+      "isin": "US0028241000",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-16",
+          "betrag": 0.63,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.63,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "pfizer",
+      "name": "Pfizer",
+      "isin": "US7170811035",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-07",
+          "betrag": 0.43,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.43,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "amgen",
+      "name": "Amgen",
+      "isin": "US0311621009",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 2.52,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "eli-lilly",
+      "name": "Eli Lilly",
+      "isin": "US5324571083",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.73,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 1,73 USD (Zahlung 09/2026) nach 1,5 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "exxon-mobil",
+      "name": "Exxon Mobil",
+      "isin": "US30233Q1085",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-10",
+          "betrag": 1.07,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.07,
+      "isin_alt": [
+        "US30231G1022"
+      ],
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "medtronic",
+      "name": "Medtronic",
+      "isin": "IE00BTN1Y115",
+      "waehrung": "USD",
+      "land": "Irland",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.72,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "nextera-energy",
+      "name": "NextEra Energy",
+      "isin": "US65339F1012",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.6232,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 0,6232 USD (Zahlung 09/2026) nach 0,5665 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "conocophillips",
+      "name": "ConocoPhillips",
+      "isin": "US20825C1045",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.84,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "williams",
+      "name": "Williams Companies",
+      "isin": "US9694571004",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.525,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "prologis",
+      "name": "Prologis",
+      "isin": "US74340W1036",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.07,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "fedex",
+      "name": "FedEx",
+      "isin": "US31428X1063",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.22,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "american-tower",
+      "name": "American Tower",
+      "isin": "US03027X1000",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        2,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.79,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "blackstone",
+      "name": "Blackstone",
+      "isin": "US09260D1072",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-09",
+          "betrag": 1.12,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.12,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "waste-management",
+      "name": "Waste Management",
+      "isin": "US94106L1098",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.945,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 0,945 USD (Zahlung 09/2026) nach 0,825 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "marsh-mclennan",
+      "name": "Marsh & McLennan",
+      "isin": "US5717481023",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-13",
+          "betrag": 0.99,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.99,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "pnc",
+      "name": "PNC Financial",
+      "isin": "US6934751057",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 2.0,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-08",
+        "text": "Dividende je Aktie zuletzt 2 USD (Zahlung 08/2026) nach 1,7 USD (Zahlung 08/2025)."
+      }
+    },
+    {
+      "id": "3m",
+      "name": "3M",
+      "isin": "US88579Y1010",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.78,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "general-mills",
+      "name": "General Mills",
+      "isin": "US3703341046",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-02",
+          "betrag": 0.61,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.61,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "merck",
+      "name": "Merck & Co.",
+      "isin": "US58933Y1055",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.85,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "chevron",
+      "name": "Chevron",
+      "isin": "US1667641005",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-10",
+          "betrag": 1.78,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.78,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "public-storage",
+      "name": "Public Storage",
+      "isin": "US74460D1090",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        10,
+        12
+      ],
+      "schaetzung_betrag": 3.0,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "aon",
+      "name": "Aon",
+      "isin": "IE00BLP1HW54",
+      "waehrung": "USD",
+      "land": "Irland",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-13",
+          "betrag": 0.82,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.82,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-11",
+        "text": "Dividende je Aktie zuletzt 0,82 USD (Zahlung 11/2026) nach 0,745 USD (Zahlung 11/2025)."
+      }
+    },
+    {
+      "id": "sp-global",
+      "name": "S&P Global",
+      "isin": "US78409V1044",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-10",
+          "betrag": 0.97,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.97,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "honeywell",
+      "name": "Honeywell",
+      "isin": "US4385162056",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-04",
+          "betrag": 0.7,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.7,
+      "isin_alt": [
+        "US4385161066"
+      ],
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "deere",
+      "name": "Deere & Company",
+      "isin": "US2441991054",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-09",
+          "betrag": 1.62,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.62,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "target",
+      "name": "Target",
+      "isin": "US87612E1064",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-01",
+          "betrag": 1.16,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.16,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "southern",
+      "name": "Southern Company",
+      "isin": "US8425871071",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.76,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "duke-energy",
+      "name": "Duke Energy",
+      "isin": "US26441C2044",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.065,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: nur Q1 2026 belegt, übrige Termine Muster (16.6./16.9./16.12.).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "hannover-rueck",
+      "name": "Hannover Rück",
+      "isin": "DE0008402215",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 12.5,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-05",
+        "text": "Dividende je Aktie zuletzt 12,5 EUR (Zahlung 05/2026) nach 9 EUR (Zahlung 05/2025)."
+      }
+    },
+    {
+      "id": "siemens",
+      "name": "Siemens",
+      "isin": "DE0007236101",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        2
+      ],
+      "schaetzung_betrag": 5.35,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "sap",
+      "name": "SAP",
+      "isin": "DE0007164600",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 2.5,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "mercedes-benz",
+      "name": "Mercedes-Benz Group",
+      "isin": "DE0007100000",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4
+      ],
+      "schaetzung_betrag": 3.5,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "kuerzung",
+        "datum": "2026-04",
+        "text": "Dividende je Aktie zuletzt 3,5 EUR (Zahlung 04/2026) nach 4,3 EUR (Zahlung 05/2025)."
+      }
+    },
+    {
+      "id": "deutsche-boerse",
+      "name": "Deutsche Börse",
+      "isin": "DE0005810055",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 4.2,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "dhl-group",
+      "name": "DHL Group",
+      "isin": "DE0005552004",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 1.9,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "basf",
+      "name": "BASF",
+      "isin": "DE000BASF111",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 2.25,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "henkel",
+      "name": "Henkel (Vz.)",
+      "isin": "DE0006048432",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4
+      ],
+      "schaetzung_betrag": 2.07,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "volkswagen",
+      "name": "Volkswagen (Vz.)",
+      "isin": "DE0007664039",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        6
+      ],
+      "schaetzung_betrag": 5.26,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "kuerzung",
+        "datum": "2026-06",
+        "text": "Dividende je Aktie zuletzt 5,26 EUR (Zahlung 06/2026) nach 6,36 EUR (Zahlung 05/2025)."
+      }
+    },
+    {
+      "id": "heidelberg-materials",
+      "name": "Heidelberg Materials",
+      "isin": "DE0006047004",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 3.6,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "beiersdorf",
+      "name": "Beiersdorf",
+      "isin": "DE0005200000",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4
+      ],
+      "schaetzung_betrag": 1.0,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "vonovia",
+      "name": "Vonovia",
+      "isin": "DE000A1ML7J1",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 1.25,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "fresenius",
+      "name": "Fresenius",
+      "isin": "DE000FRE5EN2",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 1.05,
+      "isin_alt": [
+        "DE0005785604"
+      ],
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "rwe",
+      "name": "RWE",
+      "isin": "DE0007037129",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 1.2,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "mtu-aero-engines",
+      "name": "MTU Aero Engines",
+      "isin": "DE000A0D9PT0",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 3.6,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-05",
+        "text": "Dividende je Aktie zuletzt 3,6 EUR (Zahlung 05/2026) nach 2,2 EUR (Zahlung 05/2025)."
+      }
+    },
+    {
+      "id": "eon",
+      "name": "E.ON",
+      "isin": "DE000ENAG999",
+      "waehrung": "EUR",
+      "land": "Deutschland",
+      "qst": 0,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4
+      ],
+      "schaetzung_betrag": 0.57,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "nestle",
+      "name": "Nestlé",
+      "isin": "CH0038863350",
+      "waehrung": "CHF",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4
+      ],
+      "schaetzung_betrag": 3.1,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "novartis",
+      "name": "Novartis",
+      "isin": "CH0012005267",
+      "waehrung": "CHF",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3
+      ],
+      "schaetzung_betrag": 3.7,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "roche",
+      "name": "Roche (Genussschein)",
+      "isin": "CH0012032113",
+      "waehrung": "CHF",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3
+      ],
+      "schaetzung_betrag": 10.8,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-03",
+        "text": "Dividende je Aktie zuletzt 10,8 CHF (Zahlung 03/2026) nach 9,7 CHF (Zahlung 03/2025)."
+      }
+    },
+    {
+      "id": "zurich-insurance",
+      "name": "Zurich Insurance Group",
+      "isin": "CH0011075394",
+      "waehrung": "CHF",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4
+      ],
+      "schaetzung_betrag": 30.0,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "abb",
+      "name": "ABB",
+      "isin": "CH0012221716",
+      "waehrung": "CHF",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3
+      ],
+      "schaetzung_betrag": 0.94,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "swiss-re",
+      "name": "Swiss Re",
+      "isin": "CH0126881561",
+      "waehrung": "CHF",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4
+      ],
+      "schaetzung_betrag": 6.2071,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "givaudan",
+      "name": "Givaudan",
+      "isin": "CH0010645932",
+      "waehrung": "CHF",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3
+      ],
+      "schaetzung_betrag": 72.0,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "geberit",
+      "name": "Geberit",
+      "isin": "CH0030170408",
+      "waehrung": "CHF",
+      "land": "Schweiz",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4
+      ],
+      "schaetzung_betrag": 12.9,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "gsk",
+      "name": "GSK",
+      "isin": "GB00BN7SWP63",
+      "waehrung": "GBP",
+      "land": "Großbritannien",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.17,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "british-american-tobacco",
+      "name": "British American Tobacco",
+      "isin": "GB0002875804",
+      "waehrung": "GBP",
+      "land": "Großbritannien",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-06",
+          "betrag": 0.6126,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.6126,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "diageo",
+      "name": "Diageo",
+      "isin": "GB0002374006",
+      "waehrung": "GBP",
+      "land": "Großbritannien",
+      "qst": 0,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2026-12-03",
+          "betrag": 0.2231,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        6,
+        12
+      ],
+      "schaetzung_betrag": 0.2231,
+      "schaetzung_nach_monat": {
+        "12": 0.2231,
+        "6": 0.1494
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Beträge von Quelle in GBP umgerechnet (Zahlung in USD-Cent).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "national-grid",
+      "name": "National Grid",
+      "isin": "GB00BDR05C01",
+      "waehrung": "GBP",
+      "land": "Großbritannien",
+      "qst": 0,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        7
+      ],
+      "schaetzung_betrag": 0.3214,
+      "schaetzung_nach_monat": {
+        "1": 0.1635,
+        "7": 0.3214
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "bp",
+      "name": "BP",
+      "isin": "GB0007980591",
+      "waehrung": "GBP",
+      "land": "Großbritannien",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.0641,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Beträge von Quelle in GBP umgerechnet (Zahlung in USD).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "lvmh",
+      "name": "LVMH",
+      "isin": "FR0000121014",
+      "waehrung": "EUR",
+      "land": "Frankreich",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2026-12-03",
+          "betrag": 5.5,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        4,
+        12
+      ],
+      "schaetzung_betrag": 5.5,
+      "schaetzung_nach_monat": {
+        "4": 7.5,
+        "12": 5.5
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "air-liquide",
+      "name": "Air Liquide",
+      "isin": "FR0000120073",
+      "waehrung": "EUR",
+      "land": "Frankreich",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 3.3636,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-05",
+        "text": "Dividende je Aktie zuletzt 3,3636 EUR (Zahlung 05/2026) nach 3 EUR (Zahlung 05/2025)."
+      }
+    },
+    {
+      "id": "sanofi",
+      "name": "Sanofi",
+      "isin": "FR0000120578",
+      "waehrung": "EUR",
+      "land": "Frankreich",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 4.12,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "schneider-electric",
+      "name": "Schneider Electric",
+      "isin": "FR0000121972",
+      "waehrung": "EUR",
+      "land": "Frankreich",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 4.2,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "totalenergies",
+      "name": "TotalEnergies",
+      "isin": "FR0000120271",
+      "waehrung": "EUR",
+      "land": "Frankreich",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2027-01-05",
+          "betrag": 0.9,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.9,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Dez-Termin laut Quelle, ggf. noch nicht offiziell beschlossen.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "axa",
+      "name": "AXA",
+      "isin": "FR0000120628",
+      "waehrung": "EUR",
+      "land": "Frankreich",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 2.32,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "danone",
+      "name": "Danone",
+      "isin": "FR0000120644",
+      "waehrung": "EUR",
+      "land": "Frankreich",
+      "qst": 15,
+      "rhythmus": "jaehrlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5
+      ],
+      "schaetzung_betrag": 2.25,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ahold-delhaize",
+      "name": "Ahold Delhaize",
+      "isin": "NL0011794037",
+      "waehrung": "EUR",
+      "land": "Niederlande",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4,
+        8
+      ],
+      "schaetzung_betrag": 0.51,
+      "schaetzung_nach_monat": {
+        "4": 0.73,
+        "8": 0.51
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "iberdrola",
+      "name": "Iberdrola",
+      "isin": "ES0144580Y14",
+      "waehrung": "EUR",
+      "land": "Spanien",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        2,
+        7
+      ],
+      "schaetzung_betrag": 0.427,
+      "schaetzung_nach_monat": {
+        "7": 0.427,
+        "2": 0.253
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "enel",
+      "name": "Enel",
+      "isin": "IT0003128367",
+      "waehrung": "EUR",
+      "land": "Italien",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        7
+      ],
+      "schaetzung_betrag": 0.26,
+      "schaetzung_nach_monat": {
+        "1": 0.23,
+        "7": 0.26
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "santander",
+      "name": "Banco Santander",
+      "isin": "ES0113900J37",
+      "waehrung": "EUR",
+      "land": "Spanien",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2026-11-02",
+          "betrag": 0.127,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        5,
+        11
+      ],
+      "schaetzung_betrag": 0.127,
+      "schaetzung_nach_monat": {
+        "5": 0.125,
+        "11": 0.127
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-11",
+        "text": "Dividende je Aktie zuletzt 0,127 EUR (Zahlung 11/2026) nach 0,115 EUR (Zahlung 11/2025)."
+      }
+    },
+    {
+      "id": "intesa-sanpaolo",
+      "name": "Intesa Sanpaolo",
+      "isin": "IT0000072618",
+      "waehrung": "EUR",
+      "land": "Italien",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        5,
+        11
+      ],
+      "schaetzung_betrag": 0.19,
+      "schaetzung_nach_monat": {
+        "11": 0.186,
+        "5": 0.19
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-05",
+        "text": "Dividende je Aktie zuletzt 0,19 EUR (Zahlung 05/2026) nach 0,171 EUR (Zahlung 05/2025)."
+      }
+    },
+    {
+      "id": "eni",
+      "name": "Eni",
+      "isin": "IT0003132476",
+      "waehrung": "EUR",
+      "land": "Italien",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-25",
+          "betrag": 0.27,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        5,
+        9,
+        11
+      ],
+      "schaetzung_betrag": 0.27,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Dez-Betrag 0.46 laut Quelle ungeprüft (evtl. Sonderausschüttung).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "isin": "GB00BP6MXD84",
+      "waehrung": "USD",
+      "land": "Großbritannien",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-21",
+          "betrag": 0.3906,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.3906,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "hsbc",
+      "name": "HSBC",
+      "isin": "GB0005405286",
+      "waehrung": "USD",
+      "land": "Großbritannien",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.1,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "unilever",
+      "name": "Unilever",
+      "isin": "GB00BVZK7T90",
+      "waehrung": "GBP",
+      "land": "Großbritannien",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-18",
+          "betrag": 0.3907,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        4,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.3907,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Beträge in GBP umgerechnet (Zahlung in EUR).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ing",
+      "name": "ING Groep",
+      "isin": "NL0011821202",
+      "waehrung": "EUR",
+      "land": "Niederlande",
+      "qst": 15,
+      "rhythmus": "unregelmäßig",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        8
+      ],
+      "schaetzung_betrag": 0.4,
+      "schaetzung_nach_monat": {
+        "1": 0.172,
+        "8": 0.4,
+        "4": 0.736
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "royal-bank-of-canada",
+      "name": "Royal Bank of Canada",
+      "isin": "CA7800871021",
+      "waehrung": "CAD",
+      "land": "Kanada",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-24",
+          "betrag": 1.76,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.76,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-11",
+        "text": "Dividende je Aktie zuletzt 1,76 CAD (Zahlung 11/2026) nach 1,54 CAD (Zahlung 11/2025)."
+      }
+    },
+    {
+      "id": "toronto-dominion",
+      "name": "Toronto-Dominion Bank",
+      "isin": "CA8911605092",
+      "waehrung": "CAD",
+      "land": "Kanada",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.12,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "enbridge",
+      "name": "Enbridge",
+      "isin": "CA29250N1050",
+      "waehrung": "CAD",
+      "land": "Kanada",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.97,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "canadian-national-railway",
+      "name": "Canadian National Railway",
+      "isin": "CA1363751027",
+      "waehrung": "CAD",
+      "land": "Kanada",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.915,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "fortis",
+      "name": "Fortis",
+      "isin": "CA3495531079",
+      "waehrung": "CAD",
+      "land": "Kanada",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.64,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "brookfield-infrastructure-partners",
+      "name": "Brookfield Infrastructure Partners",
+      "isin": "BMG162521014",
+      "waehrung": "USD",
+      "land": "Kanada",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.455,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "mitsui",
+      "name": "Mitsui & Co.",
+      "isin": "JP3893600001",
+      "waehrung": "JPY",
+      "land": "Japan",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2026-12-02",
+          "betrag": 70.0,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        6,
+        12
+      ],
+      "schaetzung_betrag": 70.0,
+      "schaetzung_nach_monat": {
+        "6": 60.0,
+        "12": 70.0
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-12",
+        "text": "Dividende je Aktie zuletzt 70 JPY (Zahlung 12/2026) nach 55 JPY (Zahlung 12/2025)."
+      }
+    },
+    {
+      "id": "mitsubishi-corp",
+      "name": "Mitsubishi Corporation",
+      "isin": "JP3898400001",
+      "waehrung": "JPY",
+      "land": "Japan",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2026-12-01",
+          "betrag": 62.0,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        6,
+        12
+      ],
+      "schaetzung_betrag": 62.0,
+      "schaetzung_nach_monat": {
+        "6": 55.0,
+        "12": 62.0
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-12",
+        "text": "Dividende je Aktie zuletzt 62 JPY (Zahlung 12/2026) nach 55 JPY (Zahlung 12/2025)."
+      }
+    },
+    {
+      "id": "ntt",
+      "name": "Nippon Telegraph and Telephone",
+      "isin": "JP3735400008",
+      "waehrung": "JPY",
+      "land": "Japan",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2026-11-30",
+          "betrag": 2.7,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        6,
+        11
+      ],
+      "schaetzung_betrag": 2.7,
+      "schaetzung_nach_monat": {
+        "6": 2.65,
+        "11": 2.7
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "kddi",
+      "name": "KDDI",
+      "isin": "JP3496400007",
+      "waehrung": "JPY",
+      "land": "Japan",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2026-12-08",
+          "betrag": 42.0,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        6,
+        12
+      ],
+      "schaetzung_betrag": 42.0,
+      "schaetzung_nach_monat": {
+        "6": 40.0,
+        "12": 42.0
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "japan-tobacco",
+      "name": "Japan Tobacco",
+      "isin": "JP3726800000",
+      "waehrung": "JPY",
+      "land": "Japan",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2027-03-26",
+          "betrag": 136.0,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        9
+      ],
+      "schaetzung_betrag": 136.0,
+      "schaetzung_nach_monat": {
+        "9": 136.0,
+        "3": 130.0
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 136 JPY (Zahlung 09/2026) nach 104 JPY (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "commonwealth-bank",
+      "name": "Commonwealth Bank of Australia",
+      "isin": "AU000000CBA7",
+      "waehrung": "AUD",
+      "land": "Australien",
+      "qst": 0,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        9
+      ],
+      "schaetzung_betrag": 2.7,
+      "schaetzung_nach_monat": {
+        "3": 2.35,
+        "9": 2.7
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "national-australia-bank",
+      "name": "National Australia Bank",
+      "isin": "AU000000NAB4",
+      "waehrung": "AUD",
+      "land": "Australien",
+      "qst": 0,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        7,
+        12
+      ],
+      "schaetzung_betrag": 0.85,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "wesfarmers",
+      "name": "Wesfarmers",
+      "isin": "AU000000WES1",
+      "waehrung": "AUD",
+      "land": "Australien",
+      "qst": 0,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        10
+      ],
+      "schaetzung_betrag": 1.2,
+      "schaetzung_nach_monat": {
+        "10": 1.2,
+        "3": 1.02
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Quelle zeigt zusaetzlich 1.50 AUD (Dez 2025) - nicht übernommen (Sonderzahlung?).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "dbs",
+      "name": "DBS Group",
+      "isin": "SG1L01001701",
+      "waehrung": "SGD",
+      "land": "Singapur",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.81,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "singtel",
+      "name": "Singtel",
+      "isin": "SG1T75931496",
+      "waehrung": "SGD",
+      "land": "Singapur",
+      "qst": 0,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        8,
+        12
+      ],
+      "schaetzung_betrag": 0.103,
+      "schaetzung_nach_monat": {
+        "12": 0.082,
+        "8": 0.103
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "hkex",
+      "name": "Hong Kong Exchanges and Clearing",
+      "isin": "HK0388045442",
+      "waehrung": "HKD",
+      "land": "Hongkong",
+      "qst": 0,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        9
+      ],
+      "schaetzung_betrag": 7.43,
+      "schaetzung_nach_monat": {
+        "3": 6.52,
+        "9": 7.43
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 7,43 HKD (Zahlung 09/2026) nach 6 HKD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "bank-of-montreal",
+      "name": "Bank of Montreal",
+      "isin": "CA0636711016",
+      "waehrung": "CAD",
+      "land": "Kanada",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-26",
+          "betrag": 1.71,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 1.71,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "samsung-electronics",
+      "name": "Samsung Electronics",
+      "isin": "KR7005930003",
+      "waehrung": "KRW",
+      "land": "Südkorea",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 374.0,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Dez-Zahlung enthält Sonderanteil (566).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "woodside",
+      "name": "Woodside Energy",
+      "isin": "AU0000224040",
+      "waehrung": "AUD",
+      "land": "Australien",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        9
+      ],
+      "schaetzung_betrag": 0.7963,
+      "schaetzung_nach_monat": {
+        "9": 0.7963,
+        "3": 0.8349
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Beträge von Quelle in AUD umgerechnet (Zahlung in USD).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "toyota",
+      "name": "Toyota Motor",
+      "isin": "JP3633400001",
+      "waehrung": "JPY",
+      "land": "Japan",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2026-11-26",
+          "betrag": 50.0,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        5,
+        11
+      ],
+      "schaetzung_betrag": 50.0,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-11",
+        "text": "Dividende je Aktie zuletzt 50 JPY (Zahlung 11/2026) nach 45 JPY (Zahlung 11/2025)."
+      }
+    },
+    {
+      "id": "sony",
+      "name": "Sony Group",
+      "isin": "JP3435000009",
+      "waehrung": "JPY",
+      "land": "Japan",
+      "qst": 15,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [
+        {
+          "datum": "2026-12-07",
+          "betrag": 17.5,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        6,
+        12
+      ],
+      "schaetzung_betrag": 17.5,
+      "schaetzung_nach_monat": {
+        "6": 12.5,
+        "12": 17.5
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-12",
+        "text": "Dividende je Aktie zuletzt 17,5 JPY (Zahlung 12/2026) nach 12,5 JPY (Zahlung 12/2025)."
+      }
+    },
+    {
+      "id": "bhp",
+      "name": "BHP Group",
+      "isin": "AU000000BHP4",
+      "waehrung": "AUD",
+      "land": "Australien",
+      "qst": 0,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        9
+      ],
+      "schaetzung_betrag": 1.3799,
+      "schaetzung_nach_monat": {
+        "3": 1.0385,
+        "9": 1.3799
+      },
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Beträge von Quelle in AUD umgerechnet (Zahlung in USD).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "agree-realty",
+      "name": "Agree Realty",
+      "isin": "US0084921008",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "monatlich",
+      "zahlungen": [
+        {
+          "datum": "2026-11-13",
+          "betrag": 0.271,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "schaetzung_betrag": 0.271,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "nnn-reit",
+      "name": "NNN REIT",
+      "isin": "US6374171063",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.62,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "vici",
+      "name": "VICI Properties",
+      "isin": "US9256521090",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.46,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "kimco",
+      "name": "Kimco Realty",
+      "isin": "US49446R1095",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-12-18",
+          "betrag": 0.28,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.28,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "regency-centers",
+      "name": "Regency Centers",
+      "isin": "US7588491032",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.755,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "gaming-leisure",
+      "name": "Gaming and Leisure Properties",
+      "isin": "US36467J1088",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.82,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "stag-industrial",
+      "name": "STAG Industrial",
+      "isin": "US85254J1025",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.3875,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Umstellung von monatlicher auf quartalsweise Zahlung ab 2026 (Mitteilung STAG).",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "americold",
+      "name": "Americold Realty Trust",
+      "isin": "US03064D1081",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.23,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "cubesmart",
+      "name": "CubeSmart",
+      "isin": "US2296631094",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.53,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ventas",
+      "name": "Ventas",
+      "isin": "US92276F1003",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.52,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "healthpeak",
+      "name": "Healthpeak Properties",
+      "isin": "US42250P1030",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "monatlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "schaetzung_betrag": 0.1017,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "american-homes-4-rent",
+      "name": "American Homes 4 Rent",
+      "isin": "US02665T3068",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.33,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 0,33 USD (Zahlung 09/2026) nach 0,3 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "mid-america-apartment",
+      "name": "Mid-America Apartment Communities",
+      "isin": "US59522J1034",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.53,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "udr",
+      "name": "UDR",
+      "isin": "US9026531049",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "monatlich",
+      "zahlungen": [
+        {
+          "datum": "2026-11-02",
+          "betrag": 0.145,
+          "status": "bestaetigt"
+        },
+        {
+          "datum": "2026-11-30",
+          "betrag": 0.145,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "schaetzung_betrag": 0.145,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Wechsel auf monatliche Zahlung ab Jul 2026.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "invitation-homes",
+      "name": "Invitation Homes",
+      "isin": "US46187W1071",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.3,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "equinix",
+      "name": "Equinix",
+      "isin": "US29444U7000",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 5.16,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-09",
+        "text": "Dividende je Aktie zuletzt 5,16 USD (Zahlung 09/2026) nach 4,69 USD (Zahlung 09/2025)."
+      }
+    },
+    {
+      "id": "crown-castle",
+      "name": "Crown Castle",
+      "isin": "US22822V1017",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.0625,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "iron-mountain",
+      "name": "Iron Mountain",
+      "isin": "US46284V1017",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.864,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-10",
+        "text": "Dividende je Aktie zuletzt 0,864 USD (Zahlung 10/2026) nach 0,785 USD (Zahlung 10/2025)."
+      }
+    },
+    {
+      "id": "lamar-advertising",
+      "name": "Lamar Advertising",
+      "isin": "US5128161099",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.6,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Dez-Zahlung enthält evtl. Sonderanteil.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "rexford-industrial",
+      "name": "Rexford Industrial Realty",
+      "isin": "US76169C1009",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.435,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "simon-property",
+      "name": "Simon Property Group",
+      "isin": "US8288061091",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 2.25,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "brixmor",
+      "name": "Brixmor Property Group",
+      "isin": "US11120U1051",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2027-01-15",
+          "betrag": 0.33,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.3075,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "wp-carey",
+      "name": "W. P. Carey",
+      "isin": "US92936U1097",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.95,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "eastgroup",
+      "name": "EastGroup Properties",
+      "isin": "US2772761019",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.75,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-10",
+        "text": "Dividende je Aktie zuletzt 1,75 USD (Zahlung 10/2026) nach 1,55 USD (Zahlung 10/2025)."
+      }
+    },
+    {
+      "id": "extra-space-storage",
+      "name": "Extra Space Storage",
+      "isin": "US30225T1025",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 1.62,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "caretrust",
+      "name": "CareTrust REIT",
+      "isin": "US14174T1079",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.39,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "erhoehung",
+        "datum": "2026-10",
+        "text": "Dividende je Aktie zuletzt 0,39 USD (Zahlung 10/2026) nach 0,335 USD (Zahlung 10/2025)."
+      }
+    },
+    {
+      "id": "digital-realty",
+      "name": "Digital Realty Trust",
+      "isin": "US2538681030",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        3,
+        6,
+        9
+      ],
+      "schaetzung_betrag": 1.22,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "agnc",
+      "name": "AGNC Investment",
+      "isin": "US00123Q1040",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "monatlich",
+      "zahlungen": [
+        {
+          "datum": "2026-11-10",
+          "betrag": 0.12,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "schaetzung_betrag": 0.12,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "annaly",
+      "name": "Annaly Capital Management",
+      "isin": "US0357108390",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.75,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "dynex",
+      "name": "Dynex Capital",
+      "isin": "US26817Q8868",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "monatlich",
+      "zahlungen": [
+        {
+          "datum": "2026-11-02",
+          "betrag": 0.17,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "schaetzung_betrag": 0.17,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "starwood-property",
+      "name": "Starwood Property Trust",
+      "isin": "US85571B1052",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.48,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "blackstone-mortgage-trust",
+      "name": "Blackstone Mortgage Trust",
+      "isin": "US09257W1009",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2027-01-15",
+          "betrag": 0.3,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.47,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Dez-Betrag 0.30 laut Quelle (Kürzung?) ungeprüft.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ellington-financial",
+      "name": "Ellington Financial",
+      "isin": "US28852N1090",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "monatlich",
+      "zahlungen": [
+        {
+          "datum": "2026-11-30",
+          "betrag": 0.13,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "schaetzung_betrag": 0.13,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "mfa-financial",
+      "name": "MFA Financial",
+      "isin": "US55272X6076",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.36,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "arbor-realty",
+      "name": "Arbor Realty Trust",
+      "isin": "US0389231087",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.17,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "kuerzung",
+        "datum": "2026-08",
+        "text": "Dividende je Aktie zuletzt 0,17 USD (Zahlung 08/2026) nach 0,3 USD (Zahlung 08/2025)."
+      }
+    },
+    {
+      "id": "ivr",
+      "name": "Invesco Mortgage Capital",
+      "isin": "US46131B7047",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "monatlich",
+      "zahlungen": [
+        {
+          "datum": "2026-11-16",
+          "betrag": 0.12,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "schaetzung_betrag": 0.12,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ready-capital",
+      "name": "Ready Capital",
+      "isin": "US75574U1016",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.01,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02",
+      "aenderung": {
+        "art": "kuerzung",
+        "datum": "2026-10",
+        "text": "Dividende je Aktie zuletzt 0,01 USD (Zahlung 10/2026) nach 0,125 USD (Zahlung 10/2025)."
+      }
+    },
+    {
+      "id": "rithm-capital",
+      "name": "Rithm Capital",
+      "isin": "US64828T2015",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.25,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "federal-realty",
+      "name": "Federal Realty Investment Trust",
+      "isin": "US3137451015",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.16,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ladder-capital",
+      "name": "Ladder Capital",
+      "isin": "US5057431042",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.23,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "apollo-commercial-re",
+      "name": "Apollo Commercial Real Estate Finance",
+      "isin": "US03762U1051",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "keine Schätzung",
+      "zahlungen": [],
+      "schaetzung_monate": [],
+      "schaetzung_betrag": 3.75,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: Auflösung/Abwicklung geplant (Stand Jun 2026), keine Prognose und keine Schätzung.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "tsmc",
+      "name": "Taiwan Semiconductor (TSMC, ADR)",
+      "isin": "US8740391003",
+      "waehrung": "USD",
+      "land": "Taiwan",
+      "qst": 21,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2027-01-07",
+          "betrag": 1.0854,
+          "status": "geschaetzt"
+        }
+      ],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 1.0963,
+      "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: ADR in USD; Taiwan behaelt 21 % Quellensteuer ein (laut Praxis, ungeprüft).",
       "abgerufen": "2026-11-02"
     }
   ],
