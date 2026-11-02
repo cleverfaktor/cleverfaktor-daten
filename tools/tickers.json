@@ -273,7 +273,7 @@
   "t": "WM"
  },
  "marsh-mclennan": {
-  "t": "MMC"
+  "t": "MRSH"
  },
  "pnc": {
   "t": "PNC"
@@ -372,10 +372,12 @@
   "t": "NOVN.SW"
  },
  "roche": {
-  "t": "ROG.SW"
+  "t": null,
+  "grund": "Yahoo liefert keine Daten zu den Roche-Papieren"
  },
  "roche-inhaber": {
-  "t": "ROO.SW"
+  "t": null,
+  "grund": "Yahoo liefert keine Daten zu den Roche-Papieren"
  },
  "zurich-insurance": {
   "t": "ZURN.SW"
