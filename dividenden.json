@@ -980,5 +980,23 @@
       "quelle": "Pressemitteilung NIKE vom 06.08.2026 (0,41 $ je Quartal); Zahltage 1. Januar/April/Juli/Oktober (zuletzt 01.10.2026, laut stockevents.app, Sekundärquelle); nächste Zahlung im Januar 2027 mit diesem Betrag geschätzt",
       "abgerufen": "2026-11-02"
     }
+  ],
+  "keine_dividende": [
+    {
+      "isin": "US88160R1014",
+      "name": "Tesla"
+    },
+    {
+      "isin": "US84615Q1031",
+      "name": "Space Exploration Technologies (SpaceX)"
+    },
+    {
+      "isin": "US1725731079",
+      "name": "Circle Internet Group"
+    },
+    {
+      "isin": "US5949724083",
+      "name": "Strategy (MicroStrategy)"
+    }
   ]
 }
