@@ -9,10 +9,12 @@
   "t": "O"
  },
  "main-street-capital": {
-  "t": "MAIN"
+  "t": "MAIN",
+  "auto": false
  },
  "armour-residential": {
-  "t": "ARR"
+  "t": "ARR",
+  "auto": false
  },
  "epr-properties": {
   "t": "EPR"
@@ -21,10 +23,12 @@
   "t": "LTC"
  },
  "ares-capital": {
-  "t": "ARCC"
+  "t": "ARCC",
+  "auto": false
  },
  "hercules-capital": {
-  "t": "HTGC"
+  "t": "HTGC",
+  "auto": false
  },
  "omega-healthcare": {
   "t": "OHI"
@@ -75,7 +79,8 @@
   "t": "SIX3.DE"
  },
  "sl-green": {
-  "t": "SLG"
+  "t": "SLG",
+  "auto": false
  },
  "booking": {
   "t": "BKNG"
@@ -261,7 +266,8 @@
   "t": "AMT"
  },
  "blackstone": {
-  "t": "BX"
+  "t": "BX",
+  "auto": false
  },
  "waste-management": {
   "t": "WM"
@@ -294,7 +300,8 @@
   "t": "SPGI"
  },
  "honeywell": {
-  "t": "HON"
+  "t": "HON",
+  "auto": false
  },
  "deere": {
   "t": "DE"
@@ -306,7 +313,8 @@
   "t": "SO"
  },
  "duke-energy": {
-  "t": "DUK"
+  "t": "DUK",
+  "auto": false
  },
  "hannover-rueck": {
   "t": "HNR1.DE"
@@ -345,7 +353,8 @@
   "t": "VNA.DE"
  },
  "fresenius": {
-  "t": "FRE.DE"
+  "t": "FRE.DE",
+  "auto": false
  },
  "rwe": {
   "t": "RWE.DE"
@@ -417,10 +426,12 @@
   "t": "AD.AS"
  },
  "ing": {
-  "t": "INGA.AS"
+  "t": "INGA.AS",
+  "auto": false
  },
  "iberdrola": {
-  "t": "IBE.MC"
+  "t": "IBE.MC",
+  "auto": false
  },
  "santander": {
   "t": "SAN.MC"
@@ -432,7 +443,8 @@
   "t": "ISP.MI"
  },
  "eni": {
-  "t": "ENI.MI"
+  "t": "ENI.MI",
+  "auto": false
  },
  "shell": {
   "t": "SHEL",
@@ -494,7 +506,8 @@
   "t": "NAB.AX"
  },
  "wesfarmers": {
-  "t": "WES.AX"
+  "t": "WES.AX",
+  "auto": false
  },
  "bhp": {
   "t": "BHP.AX"
@@ -512,7 +525,8 @@
   "t": "0388.HK"
  },
  "samsung-electronics": {
-  "t": "005930.KS"
+  "t": "005930.KS",
+  "auto": false
  },
  "agree-realty": {
   "t": "ADC"
@@ -533,7 +547,8 @@
   "t": "GLPI"
  },
  "stag-industrial": {
-  "t": "STAG"
+  "t": "STAG",
+  "auto": false
  },
  "americold": {
   "t": "COLD"
@@ -554,7 +569,8 @@
   "t": "MAA"
  },
  "udr": {
-  "t": "UDR"
+  "t": "UDR",
+  "auto": false
  },
  "invitation-homes": {
   "t": "INVH"
@@ -569,7 +585,8 @@
   "t": "IRM"
  },
  "lamar-advertising": {
-  "t": "LAMR"
+  "t": "LAMR",
+  "auto": false
  },
  "rexford-industrial": {
   "t": "REXR"
@@ -611,7 +628,8 @@
   "t": "STWD"
  },
  "blackstone-mortgage-trust": {
-  "t": "BXMT"
+  "t": "BXMT",
+  "auto": false
  },
  "ellington-financial": {
   "t": "EFC"
@@ -635,7 +653,8 @@
   "t": "LADR"
  },
  "apollo-commercial-re": {
-  "t": "ARI"
+  "t": "ARI",
+  "auto": false
  },
  "diageo": {
   "t": null,

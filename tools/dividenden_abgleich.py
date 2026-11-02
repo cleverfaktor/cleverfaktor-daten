@@ -120,6 +120,11 @@ def main():
         if quell_cur and quell_cur != a['waehrung']:
             flags.append(('waehrung', a['id'], a['name'], 'Quelle liefert %s, Eintrag steht in %s - nicht automatisch geprueft' % (quell_cur, a['waehrung']))); continue
         ex, betrag, _ = h[-1]
+        # Eigene Daten neuer als die Quelle: liegt schon eine Zahlung NACH dem letzten Ex-Tag der Quelle vor
+        # (angekuendigte oder bestaetigte Dividende), bleibt der Eintrag unveraendert.
+        if any(z['datum'] > ex.isoformat() for z in a['zahlungen']):
+            a['abgerufen'] = HEUTE.isoformat()
+            continue
         # ausbleibende Zahlung
         if len(h) >= 3:
             abst = [(h[i][0] - h[i - 1][0]).days for i in range(max(1, len(h) - 4), len(h))]
@@ -138,7 +143,9 @@ def main():
         if (HEUTE - ex).days > 150:
             continue  # alter Ex-Tag: keine Aenderung der Schaetzung
         txt = '%s -> %s %s (Ex-Tag %s, %+.1f %%)' % (fmt(ref), fmt(betrag), a['waehrung'], ex.isoformat(), (quot - 1) * 100)
-        if abs(quot - 1) <= MAX_ABWEICHUNG:
+        if cfg.get('auto') is False:
+            flags.append(('abweichung', a['id'], a['name'], 'Sonderfall (nur melden, nicht automatisch geaendert): ' + txt))
+        elif abs(quot - 1) <= MAX_ABWEICHUNG:
             if str(pm) in nach:
                 nach[str(pm)] = round(betrag, 4); a['schaetzung_nach_monat'] = nach
             if str(pm) not in nach or a.get('rhythmus') in ('monatlich', 'quartalsweise'):
