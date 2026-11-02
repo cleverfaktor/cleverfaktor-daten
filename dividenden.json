@@ -1554,7 +1554,7 @@
       "isin": "IE00B8KQN827",
       "waehrung": "USD",
       "land": "Irland",
-      "qst": 15,
+      "qst": 25,
       "rhythmus": "quartalsweise",
       "zahlungen": [],
       "schaetzung_monate": [
@@ -1944,7 +1944,7 @@
       "isin": "IE00BTN1Y115",
       "waehrung": "USD",
       "land": "Irland",
-      "qst": 15,
+      "qst": 25,
       "rhythmus": "quartalsweise",
       "zahlungen": [],
       "schaetzung_monate": [
@@ -2287,7 +2287,7 @@
       "isin": "IE00BLP1HW54",
       "waehrung": "USD",
       "land": "Irland",
-      "qst": 15,
+      "qst": 25,
       "rhythmus": "quartalsweise",
       "zahlungen": [
         {
