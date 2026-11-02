@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T18:50:00+01:00",
+  "updated": "2026-11-02T18:52:06+01:00",
   "stand": "2026-11-02",
   "aktien": [
     {
@@ -11,19 +11,13 @@
       "land": "Deutschland",
       "qst": 0,
       "rhythmus": "jaehrlich",
-      "zahlungen": [
-        {
-          "datum": "2026-05-12",
-          "betrag": 17.1,
-          "status": "bestaetigt"
-        }
-      ],
+      "zahlungen": [],
       "schaetzung_monate": [
         5
       ],
       "schaetzung_betrag": 17.1,
       "quelle": "Hauptversammlung 07.05.2026 (Börsenportale); vor Livegang mit Allianz-IR abgleichen",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "muenchener-rueck",
@@ -33,19 +27,13 @@
       "land": "Deutschland",
       "qst": 0,
       "rhythmus": "jaehrlich",
-      "zahlungen": [
-        {
-          "datum": "2026-05-05",
-          "betrag": 24.0,
-          "status": "bestaetigt"
-        }
-      ],
+      "zahlungen": [],
       "schaetzung_monate": [
         5
       ],
       "schaetzung_betrag": 24.0,
       "quelle": "Hauptversammlung 29.04.2026 (Börsenportale); vor Livegang mit Munich-Re-IR abgleichen",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "realty-income",
@@ -55,13 +43,7 @@
       "land": "USA",
       "qst": 15,
       "rhythmus": "monatlich",
-      "zahlungen": [
-        {
-          "datum": "2026-10-15",
-          "betrag": 0.2715,
-          "status": "bestaetigt"
-        }
-      ],
+      "zahlungen": [],
       "schaetzung_monate": [
         1,
         2,
@@ -78,7 +60,7 @@
       ],
       "schaetzung_betrag": 0.2715,
       "quelle": "Pressemitteilung Realty Income vom 08.09.2026 (Zahlung 15.10.2026)",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "main-street-capital",
@@ -89,11 +71,6 @@
       "qst": 15,
       "rhythmus": "monatlich",
       "zahlungen": [
-        {
-          "datum": "2026-10",
-          "betrag": 0.265,
-          "status": "bestaetigt"
-        },
         {
           "datum": "2026-11",
           "betrag": 0.265,
@@ -128,7 +105,7 @@
       ],
       "zusatz_betrag": 0.3,
       "quelle": "Pressemitteilung Main Street vom 04.08.2026: regulär 0,265 $ je Monat (Okt–Dez 2026), Sonderdividende 0,30 $ im Sept. 2026. Sonderdividende wird je Quartal (März, Juni, Sept., Dez.) mit 0,30 $ geschätzt; genaue Zahltage nicht geprüft",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "armour-residential",
@@ -138,13 +115,7 @@
       "land": "USA",
       "qst": 15,
       "rhythmus": "monatlich",
-      "zahlungen": [
-        {
-          "datum": "2026-10-29",
-          "betrag": 0.24,
-          "status": "bestaetigt"
-        }
-      ],
+      "zahlungen": [],
       "schaetzung_monate": [
         1,
         2,
@@ -161,7 +132,7 @@
       ],
       "schaetzung_betrag": 0.24,
       "quelle": "8-K/Pressemitteilung Armour vom 01.10.2026 (Oktober 2026, Zahltag 29.10.); Höhe wird monatlich neu festgelegt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "epr-properties",
@@ -171,13 +142,7 @@
       "land": "USA",
       "qst": 15,
       "rhythmus": "monatlich",
-      "zahlungen": [
-        {
-          "datum": "2026-10-15",
-          "betrag": 0.31,
-          "status": "bestaetigt"
-        }
-      ],
+      "zahlungen": [],
       "schaetzung_monate": [
         1,
         2,
@@ -194,7 +159,7 @@
       ],
       "schaetzung_betrag": 0.31,
       "quelle": "Pressemitteilung EPR vom 15.09.2026 (Zahlung 15.10.2026); Nov./Dez. noch nicht angekündigt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "ltc-properties",
@@ -205,11 +170,6 @@
       "qst": 15,
       "rhythmus": "monatlich",
       "zahlungen": [
-        {
-          "datum": "2026-10-30",
-          "betrag": 0.19,
-          "status": "bestaetigt"
-        },
         {
           "datum": "2026-11-30",
           "betrag": 0.19,
@@ -237,7 +197,7 @@
       ],
       "schaetzung_betrag": 0.19,
       "quelle": "Pressemitteilung LTC vom 01.10.2026 (Q4 2026)",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "ares-capital",
@@ -256,7 +216,7 @@
       ],
       "schaetzung_betrag": 0.48,
       "quelle": "8-K Ares Capital vom 29.07.2026 (Q3 2026: 0,48 $, gezahlt 30.09.2026); Q4-Dividende noch nicht angekündigt, Zahlung üblicherweise Ende Dezember",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "hercules-capital",
@@ -281,7 +241,7 @@
       ],
       "schaetzung_betrag": 0.4,
       "quelle": "8-K Hercules vom 28.07.2026 (Q2 2026: 0,47 $ inkl. 0,07 $ Zusatz); Nov. 2026 geschätzt inkl. letzter Zusatz-Rate, danach nur Basis 0,40 $; Zahltage nicht geprüft",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "omega-healthcare",
@@ -300,7 +260,7 @@
       ],
       "schaetzung_betrag": 0.68,
       "quelle": "Pressemitteilung Omega vom 23.07.2026 (0,68 $, zahlbar 14.08.2026); nächste Ankündigung steht aus, Zahlung üblicherweise Mitte November",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "american-express",
@@ -330,7 +290,7 @@
         "datum": "2026-04",
         "text": "Quartalsdividende von 0,82 $ auf 0,95 $ erhöht (rund 16 % mehr)."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "rio-tinto",
@@ -355,7 +315,7 @@
         "datum": "2025-03",
         "text": "Gesamtdividende 2025 rund 15 % niedriger als 2024 (3,705 $ statt 4,34 $). 2026 wieder höher: Schlussdividende 2,52 $ im April, Zwischendividende 2,11 $ im September."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "barclays",
@@ -375,7 +335,7 @@
         "3": 0.056
       },
       "quelle": "Interim 5,9 Pence (Ex 06.08., Zahlung 15.09.2026; Sekundärquelle AJ Bell/Presse, Offizialquelle nicht geprüft), Schlussdividende zuletzt 5,6 Pence (31.03.2026); Beträge in Pfund, Zahlung im März/September geschätzt Schlussdividende (März) mit letztem Betrag 5,6 Pence geschätzt (Datenseite stockanalysis.com).",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "starbucks",
@@ -400,7 +360,7 @@
       ],
       "schaetzung_betrag": 0.63,
       "quelle": "Pressemitteilung Starbucks vom 07.10.2026 (0,63 $, zahlbar 27.11.2026); übrige Termine geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "coca-cola",
@@ -425,7 +385,7 @@
       ],
       "schaetzung_betrag": 0.53,
       "quelle": "Pressemitteilung Coca-Cola vom 15.10.2026 (0,53 $, zahlbar 15.12.2026); übrige Termine geschätzt (üblich 1. April/Juli/Oktober)",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "pepsico",
@@ -444,7 +404,7 @@
       ],
       "schaetzung_betrag": 1.48,
       "quelle": "Pressemitteilung PepsiCo vom 17.07.2026 (1,48 $, zahlbar 30.09.2026); nächste Ankündigung steht aus, Zahlmonate geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "cintas",
@@ -468,7 +428,7 @@
         "datum": "2026-08",
         "text": "Quartalsdividende von 0,45 $ auf 0,52 $ erhöht (rund 16 % mehr)."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "mcdonalds",
@@ -493,7 +453,7 @@
       ],
       "schaetzung_betrag": 1.93,
       "quelle": "Dividendenmitteilung McDonald's vom 17.09.2026 (1,93 $, zahlbar 15.12.2026); übrige Termine geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "deutsche-telekom",
@@ -509,7 +469,7 @@
       ],
       "schaetzung_betrag": 1.0,
       "quelle": "Dividende 2025: 1,00 € (Zahlung 08.04.2026; Sekundärquelle aktien.guide); Dividende für 2026 noch nicht beschlossen, daher mit letztem Betrag geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "walmart",
@@ -534,7 +494,7 @@
       ],
       "schaetzung_betrag": 0.2475,
       "quelle": "Walmart-Mitteilung vom 19.02.2026 (0,99 $ pro Jahr in 4 Raten à 0,2475 $; Zahltage 06.04., 26.05., 08.09.2026, 04.01.2027); Folgejahr geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "aviva",
@@ -544,13 +504,7 @@
       "land": "Großbritannien",
       "qst": 0,
       "rhythmus": "halbjährlich",
-      "zahlungen": [
-        {
-          "datum": "2026-10",
-          "betrag": 0.14,
-          "status": "bestaetigt"
-        }
-      ],
+      "zahlungen": [],
       "schaetzung_monate": [
         5,
         10
@@ -581,7 +535,7 @@
         "datum": "2026-08",
         "text": "Quartalsdividende von 0,74 $ auf 0,85 $ erhöht (rund 15 % mehr)."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "lagercrantz",
@@ -597,7 +551,7 @@
       ],
       "schaetzung_betrag": 2.5,
       "quelle": "Beschluss Hauptversammlung 25.08.2026: 2,50 SEK, Zahlung 01.09.2026; nächstes Jahr mit diesem Betrag geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "sixt",
@@ -618,7 +572,7 @@
         "datum": "2025-06",
         "text": "Zahlung im Juni 2025: 2,70 € je Stammaktie nach 3,90 € im Vorjahr (rund 31 % weniger). Im Juni 2026 wieder 3,20 €."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "sixt-vz",
@@ -663,7 +617,7 @@
         "datum": "2026-04",
         "text": "Umstellung von monatlich 0,2575 $ auf quartalsweise 0,6175 $ ab April 2026: rund 20 % weniger pro Jahr (3,09 $ statt 2,47 $)."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "booking",
@@ -682,7 +636,7 @@
       ],
       "schaetzung_betrag": 0.42,
       "quelle": "Q2-Bericht Booking vom Juli/August 2026 (0,42 $, zahlbar 30.09.2026); weitere Quartale geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "siemens-energy",
@@ -703,7 +657,7 @@
         "datum": "2026-03",
         "text": "Nach der Zahlung 2022 (0,10 €) gab es keine Dividende. 2026 wieder 0,70 € je Aktie."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "marriott",
@@ -722,7 +676,7 @@
       ],
       "schaetzung_betrag": 0.73,
       "quelle": "Pressemitteilung Marriott vom 06.08.2026 (0,73 $, zahlbar 30.09.2026); weitere Quartale geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "hilton",
@@ -741,7 +695,7 @@
       ],
       "schaetzung_betrag": 0.15,
       "quelle": "Q2-Bericht Hilton 2026 (0,15 $, zahlbar 30.09.2026); weitere Quartale geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "walt-disney",
@@ -763,7 +717,7 @@
         "datum": "2025-12",
         "text": "Halbjahresdividende von 0,50 $ auf 0,75 $ erhöht (50 % mehr), erste Zahlung zum neuen Betrag im Januar 2026."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "apple",
@@ -782,7 +736,7 @@
       ],
       "schaetzung_betrag": 0.27,
       "quelle": "Apple: 0,27 $ gezahlt am 13.08.2026 (Sekundärquelle); nächste Ankündigung steht aus, Zahlmonate geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "caterpillar",
@@ -801,7 +755,7 @@
       ],
       "schaetzung_betrag": 1.63,
       "quelle": "Caterpillar 8-K (1,63 $, zahlbar 19.08.2026); weitere Termine geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "ge-aerospace",
@@ -825,7 +779,7 @@
         "datum": "2026-03",
         "text": "Quartalsdividende von 0,36 $ auf 0,47 $ erhöht (rund 31 % mehr)."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "vistra",
@@ -844,7 +798,7 @@
       ],
       "schaetzung_betrag": 0.23,
       "quelle": "Pressemitteilung Vistra vom 29.07.2026 (0,23 $, zahlbar 30.09.2026); weitere Quartale geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "nvidia",
@@ -868,7 +822,7 @@
         "datum": "2026-06",
         "text": "Quartalsdividende von 0,01 $ auf 0,25 $ angehoben, erste Zahlung zum neuen Betrag im Juni 2026."
       },
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "meta",
@@ -887,7 +841,7 @@
       ],
       "schaetzung_betrag": 0.525,
       "quelle": "Pressemitteilung Meta vom 10.09.2026 (0,525 $, zahlbar 28.09.2026); weitere Quartale geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "microsoft",
@@ -912,7 +866,7 @@
       ],
       "schaetzung_betrag": 0.98,
       "quelle": "Pressemitteilung Microsoft vom 15.09.2026 (0,98 $, zahlbar 10.12.2026, Erhöhung um 8 %); übrige Quartale geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "alphabet",
@@ -931,7 +885,7 @@
       ],
       "schaetzung_betrag": 0.22,
       "quelle": "Alphabet 10-Q/Mitteilung Juli 2026 (0,22 $, zahlbar 14.09.2026; Sekundärquelle MarketBeat); weitere Quartale geschätzt",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "asml",
@@ -959,7 +913,7 @@
         "5": 2.7
       },
       "quelle": "ASML-Pressemitteilung vom 14.10.2026 (Interim 1,88 € je Aktie, Zahlung 04.11.2026); übrige Quartale mit diesem Betrag geschätzt, die Schlussdividende im Mai fällt meist höher aus Schlussdividende (Mai) mit letzter Schlussdividende 2,70 € geschätzt (Datenseite stockanalysis.com).",
-      "abgerufen": "2026-10-17"
+      "abgerufen": "2026-11-02"
     },
     {
       "id": "nike",
