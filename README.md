@@ -21,7 +21,11 @@ Keine Anlageberatung.
 ## dividenden.json
 
 Daten des Dividendenkalenders (https://cleverfaktor.de/dividendenkalender/).
-Monatlich am 20. automatisch geprüft. Schema je Aktie unverändert wie im
+Wöchentlich (sonntags) gleicht die GitHub Action „Dividenden-Abgleich“ (`.github/workflows/dividenden-abgleich.yml`,
+`tools/dividenden_abgleich.py`, Ticker in `tools/tickers.json`) die Schätzbeträge mit einer kostenlosen Datenquelle ab,
+entfernt vergangene Zahlungen und schreibt Auffälligkeiten nach `auffaelligkeiten.md` (und in ein GitHub-Ticket mit dem
+Label `dividenden-pruefung`). Termine, bestätigte Zahlungen und Dividendenhinweise prüft Claude quartalsweise anhand
+dieser Liste. Schema je Aktie unverändert wie im
 früheren PHP-Datenblock (id, name, isin, waehrung, land, qst, rhythmus,
 zahlungen, schaetzung_monate, schaetzung_betrag, optional schaetzung_nach_monat,
 zusatz_monate, zusatz_betrag, aenderung, quelle, abgerufen).

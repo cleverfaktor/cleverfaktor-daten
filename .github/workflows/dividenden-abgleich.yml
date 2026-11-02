@@ -1,0 +1,49 @@
+name: Dividenden-Abgleich
+
+# Laeuft woechentlich (sonntags) und per Hand ("Run workflow").
+on:
+  schedule:
+    - cron: '17 4 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: dividenden-abgleich
+  cancel-in-progress: false
+
+jobs:
+  abgleich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Bibliothek installieren
+        run: pip install yfinance
+      - name: Abgleich ausfuehren
+        id: lauf
+        run: python tools/dividenden_abgleich.py
+      - name: Aenderungen speichern
+        run: |
+          git config user.name "cleverfaktor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add dividenden.json auffaelligkeiten.md
+          if git diff --cached --quiet; then echo "Keine Aenderungen"; else
+            git commit -m "Dividenden-Abgleich $(date +%Y-%m-%d)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Pruef-Ticket anlegen oder aktualisieren
+        if: steps.lauf.outputs.kritisch != '0' && steps.lauf.outputs.kritisch != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create dividenden-pruefung --color FBCA04 2>/dev/null || true
+          N=$(gh issue list --label dividenden-pruefung --state open --json number --jq '.[0].number')
+          if [ -n "$N" ]; then gh issue comment "$N" --body-file auffaelligkeiten.md
+          else gh issue create --title "Dividenden: Auffaelligkeiten pruefen" --label dividenden-pruefung --body-file auffaelligkeiten.md; fi

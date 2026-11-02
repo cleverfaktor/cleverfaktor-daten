@@ -1,0 +1,667 @@
+{
+ "allianz": {
+  "t": "ALV.DE"
+ },
+ "muenchener-rueck": {
+  "t": "MUV2.DE"
+ },
+ "realty-income": {
+  "t": "O"
+ },
+ "main-street-capital": {
+  "t": "MAIN"
+ },
+ "armour-residential": {
+  "t": "ARR"
+ },
+ "epr-properties": {
+  "t": "EPR"
+ },
+ "ltc-properties": {
+  "t": "LTC"
+ },
+ "ares-capital": {
+  "t": "ARCC"
+ },
+ "hercules-capital": {
+  "t": "HTGC"
+ },
+ "omega-healthcare": {
+  "t": "OHI"
+ },
+ "american-express": {
+  "t": "AXP"
+ },
+ "rio-tinto": {
+  "t": "RIO"
+ },
+ "barclays": {
+  "t": "BARC.L"
+ },
+ "starbucks": {
+  "t": "SBUX"
+ },
+ "coca-cola": {
+  "t": "KO"
+ },
+ "pepsico": {
+  "t": "PEP"
+ },
+ "cintas": {
+  "t": "CTAS"
+ },
+ "mcdonalds": {
+  "t": "MCD"
+ },
+ "deutsche-telekom": {
+  "t": "DTE.DE"
+ },
+ "walmart": {
+  "t": "WMT"
+ },
+ "aviva": {
+  "t": "AV.L"
+ },
+ "welltower": {
+  "t": "WELL"
+ },
+ "lagercrantz": {
+  "t": "LAGR-B.ST"
+ },
+ "sixt": {
+  "t": "SIX2.DE"
+ },
+ "sixt-vz": {
+  "t": "SIX3.DE"
+ },
+ "sl-green": {
+  "t": "SLG"
+ },
+ "booking": {
+  "t": "BKNG"
+ },
+ "siemens-energy": {
+  "t": "ENR.DE"
+ },
+ "marriott": {
+  "t": "MAR"
+ },
+ "hilton": {
+  "t": "HLT"
+ },
+ "walt-disney": {
+  "t": "DIS"
+ },
+ "apple": {
+  "t": "AAPL"
+ },
+ "caterpillar": {
+  "t": "CAT"
+ },
+ "ge-aerospace": {
+  "t": "GE"
+ },
+ "vistra": {
+  "t": "VST"
+ },
+ "nvidia": {
+  "t": "NVDA"
+ },
+ "meta": {
+  "t": "META"
+ },
+ "microsoft": {
+  "t": "MSFT"
+ },
+ "alphabet": {
+  "t": "GOOGL"
+ },
+ "asml": {
+  "t": "ASML.AS"
+ },
+ "nike": {
+  "t": "NKE"
+ },
+ "broadcom": {
+  "t": "AVGO"
+ },
+ "cisco": {
+  "t": "CSCO"
+ },
+ "ibm": {
+  "t": "IBM"
+ },
+ "qualcomm": {
+  "t": "QCOM"
+ },
+ "texas-instruments": {
+  "t": "TXN"
+ },
+ "visa": {
+  "t": "V"
+ },
+ "mastercard": {
+  "t": "MA"
+ },
+ "morgan-stanley": {
+  "t": "MS"
+ },
+ "goldman-sachs": {
+  "t": "GS"
+ },
+ "blackrock": {
+  "t": "BLK"
+ },
+ "jpmorgan": {
+  "t": "JPM"
+ },
+ "adp": {
+  "t": "ADP"
+ },
+ "oracle": {
+  "t": "ORCL"
+ },
+ "bank-of-america": {
+  "t": "BAC"
+ },
+ "wells-fargo": {
+  "t": "WFC"
+ },
+ "travelers": {
+  "t": "TRV"
+ },
+ "chubb": {
+  "t": "CB"
+ },
+ "union-pacific": {
+  "t": "UNP"
+ },
+ "aflac": {
+  "t": "AFL"
+ },
+ "ups": {
+  "t": "UPS"
+ },
+ "rtx": {
+  "t": "RTX"
+ },
+ "general-dynamics": {
+  "t": "GD"
+ },
+ "lockheed-martin": {
+  "t": "LMT"
+ },
+ "eaton": {
+  "t": "ETN"
+ },
+ "home-depot": {
+  "t": "HD"
+ },
+ "emerson-electric": {
+  "t": "EMR"
+ },
+ "procter-gamble": {
+  "t": "PG"
+ },
+ "lowes": {
+  "t": "LOW"
+ },
+ "clorox": {
+  "t": "CLX"
+ },
+ "colgate-palmolive": {
+  "t": "CL"
+ },
+ "kimberly-clark": {
+  "t": "KMB"
+ },
+ "kraft-heinz": {
+  "t": "KHC"
+ },
+ "johnson-johnson": {
+  "t": "JNJ"
+ },
+ "abbvie": {
+  "t": "ABBV"
+ },
+ "abbott": {
+  "t": "ABT"
+ },
+ "pfizer": {
+  "t": "PFE"
+ },
+ "amgen": {
+  "t": "AMGN"
+ },
+ "eli-lilly": {
+  "t": "LLY"
+ },
+ "exxon-mobil": {
+  "t": "XOM"
+ },
+ "medtronic": {
+  "t": "MDT"
+ },
+ "nextera-energy": {
+  "t": "NEE"
+ },
+ "conocophillips": {
+  "t": "COP"
+ },
+ "williams": {
+  "t": "WMB"
+ },
+ "prologis": {
+  "t": "PLD"
+ },
+ "fedex": {
+  "t": "FDX"
+ },
+ "american-tower": {
+  "t": "AMT"
+ },
+ "blackstone": {
+  "t": "BX"
+ },
+ "waste-management": {
+  "t": "WM"
+ },
+ "marsh-mclennan": {
+  "t": "MMC"
+ },
+ "pnc": {
+  "t": "PNC"
+ },
+ "3m": {
+  "t": "MMM"
+ },
+ "general-mills": {
+  "t": "GIS"
+ },
+ "merck": {
+  "t": "MRK"
+ },
+ "chevron": {
+  "t": "CVX"
+ },
+ "public-storage": {
+  "t": "PSA"
+ },
+ "aon": {
+  "t": "AON"
+ },
+ "sp-global": {
+  "t": "SPGI"
+ },
+ "honeywell": {
+  "t": "HON"
+ },
+ "deere": {
+  "t": "DE"
+ },
+ "target": {
+  "t": "TGT"
+ },
+ "southern": {
+  "t": "SO"
+ },
+ "duke-energy": {
+  "t": "DUK"
+ },
+ "hannover-rueck": {
+  "t": "HNR1.DE"
+ },
+ "siemens": {
+  "t": "SIE.DE"
+ },
+ "sap": {
+  "t": "SAP.DE"
+ },
+ "mercedes-benz": {
+  "t": "MBG.DE"
+ },
+ "deutsche-boerse": {
+  "t": "DB1.DE"
+ },
+ "dhl-group": {
+  "t": "DHL.DE"
+ },
+ "basf": {
+  "t": "BAS.DE"
+ },
+ "henkel": {
+  "t": "HEN3.DE"
+ },
+ "volkswagen": {
+  "t": "VOW3.DE"
+ },
+ "heidelberg-materials": {
+  "t": "HEI.DE"
+ },
+ "beiersdorf": {
+  "t": "BEI.DE"
+ },
+ "vonovia": {
+  "t": "VNA.DE"
+ },
+ "fresenius": {
+  "t": "FRE.DE"
+ },
+ "rwe": {
+  "t": "RWE.DE"
+ },
+ "mtu-aero-engines": {
+  "t": "MTX.DE"
+ },
+ "eon": {
+  "t": "EOAN.DE"
+ },
+ "nestle": {
+  "t": "NESN.SW"
+ },
+ "novartis": {
+  "t": "NOVN.SW"
+ },
+ "roche": {
+  "t": "ROG.SW"
+ },
+ "roche-inhaber": {
+  "t": "ROO.SW"
+ },
+ "zurich-insurance": {
+  "t": "ZURN.SW"
+ },
+ "abb": {
+  "t": "ABBN.SW"
+ },
+ "swiss-re": {
+  "t": "SREN.SW"
+ },
+ "givaudan": {
+  "t": "GIVN.SW"
+ },
+ "geberit": {
+  "t": "GEBN.SW"
+ },
+ "gsk": {
+  "t": "GSK.L"
+ },
+ "british-american-tobacco": {
+  "t": "BATS.L"
+ },
+ "national-grid": {
+  "t": "NG.L"
+ },
+ "lvmh": {
+  "t": "MC.PA"
+ },
+ "air-liquide": {
+  "t": "AI.PA"
+ },
+ "sanofi": {
+  "t": "SAN.PA"
+ },
+ "schneider-electric": {
+  "t": "SU.PA"
+ },
+ "totalenergies": {
+  "t": "TTE.PA"
+ },
+ "axa": {
+  "t": "CS.PA"
+ },
+ "danone": {
+  "t": "BN.PA"
+ },
+ "ahold-delhaize": {
+  "t": "AD.AS"
+ },
+ "ing": {
+  "t": "INGA.AS"
+ },
+ "iberdrola": {
+  "t": "IBE.MC"
+ },
+ "santander": {
+  "t": "SAN.MC"
+ },
+ "enel": {
+  "t": "ENEL.MI"
+ },
+ "intesa-sanpaolo": {
+  "t": "ISP.MI"
+ },
+ "eni": {
+  "t": "ENI.MI"
+ },
+ "shell": {
+  "t": "SHEL",
+  "f": 0.5
+ },
+ "hsbc": {
+  "t": "HSBC",
+  "f": 0.2
+ },
+ "royal-bank-of-canada": {
+  "t": "RY.TO"
+ },
+ "toronto-dominion": {
+  "t": "TD.TO"
+ },
+ "enbridge": {
+  "t": "ENB.TO"
+ },
+ "canadian-national-railway": {
+  "t": "CNR.TO"
+ },
+ "fortis": {
+  "t": "FTS.TO"
+ },
+ "bank-of-montreal": {
+  "t": "BMO.TO"
+ },
+ "brookfield-infrastructure-partners": {
+  "t": "BIP"
+ },
+ "tsmc": {
+  "t": "TSM"
+ },
+ "mitsui": {
+  "t": "8031.T"
+ },
+ "mitsubishi-corp": {
+  "t": "8058.T"
+ },
+ "ntt": {
+  "t": "9432.T"
+ },
+ "kddi": {
+  "t": "9433.T"
+ },
+ "japan-tobacco": {
+  "t": "2914.T"
+ },
+ "toyota": {
+  "t": "7203.T"
+ },
+ "sony": {
+  "t": "6758.T"
+ },
+ "commonwealth-bank": {
+  "t": "CBA.AX"
+ },
+ "national-australia-bank": {
+  "t": "NAB.AX"
+ },
+ "wesfarmers": {
+  "t": "WES.AX"
+ },
+ "bhp": {
+  "t": "BHP.AX"
+ },
+ "woodside": {
+  "t": "WDS.AX"
+ },
+ "dbs": {
+  "t": "D05.SI"
+ },
+ "singtel": {
+  "t": "Z74.SI"
+ },
+ "hkex": {
+  "t": "0388.HK"
+ },
+ "samsung-electronics": {
+  "t": "005930.KS"
+ },
+ "agree-realty": {
+  "t": "ADC"
+ },
+ "nnn-reit": {
+  "t": "NNN"
+ },
+ "vici": {
+  "t": "VICI"
+ },
+ "kimco": {
+  "t": "KIM"
+ },
+ "regency-centers": {
+  "t": "REG"
+ },
+ "gaming-leisure": {
+  "t": "GLPI"
+ },
+ "stag-industrial": {
+  "t": "STAG"
+ },
+ "americold": {
+  "t": "COLD"
+ },
+ "cubesmart": {
+  "t": "CUBE"
+ },
+ "ventas": {
+  "t": "VTR"
+ },
+ "healthpeak": {
+  "t": "DOC"
+ },
+ "american-homes-4-rent": {
+  "t": "AMH"
+ },
+ "mid-america-apartment": {
+  "t": "MAA"
+ },
+ "udr": {
+  "t": "UDR"
+ },
+ "invitation-homes": {
+  "t": "INVH"
+ },
+ "equinix": {
+  "t": "EQIX"
+ },
+ "crown-castle": {
+  "t": "CCI"
+ },
+ "iron-mountain": {
+  "t": "IRM"
+ },
+ "lamar-advertising": {
+  "t": "LAMR"
+ },
+ "rexford-industrial": {
+  "t": "REXR"
+ },
+ "simon-property": {
+  "t": "SPG"
+ },
+ "brixmor": {
+  "t": "BRX"
+ },
+ "wp-carey": {
+  "t": "WPC"
+ },
+ "eastgroup": {
+  "t": "EGP"
+ },
+ "extra-space-storage": {
+  "t": "EXR"
+ },
+ "caretrust": {
+  "t": "CTRE"
+ },
+ "digital-realty": {
+  "t": "DLR"
+ },
+ "federal-realty": {
+  "t": "FRT"
+ },
+ "agnc": {
+  "t": "AGNC"
+ },
+ "annaly": {
+  "t": "NLY"
+ },
+ "dynex": {
+  "t": "DX"
+ },
+ "starwood-property": {
+  "t": "STWD"
+ },
+ "blackstone-mortgage-trust": {
+  "t": "BXMT"
+ },
+ "ellington-financial": {
+  "t": "EFC"
+ },
+ "mfa-financial": {
+  "t": "MFA"
+ },
+ "arbor-realty": {
+  "t": "ABR"
+ },
+ "ivr": {
+  "t": "IVR"
+ },
+ "ready-capital": {
+  "t": "RC"
+ },
+ "rithm-capital": {
+  "t": "RITM"
+ },
+ "ladder-capital": {
+  "t": "LADR"
+ },
+ "apollo-commercial-re": {
+  "t": "ARI"
+ },
+ "diageo": {
+  "t": null,
+  "grund": "Zahlung in USD-Cent, Eintrag in GBP umgerechnet"
+ },
+ "bp": {
+  "t": null,
+  "grund": "Zahlung in USD, Eintrag in GBP umgerechnet"
+ },
+ "unilever": {
+  "t": null,
+  "grund": "Zahlung in EUR, Eintrag in GBP umgerechnet"
+ },
+ "ishares-msci-world-dist": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "vanguard-ftse-all-world-hdy": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-stoxx-global-select-dividend-100": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "mondelez": {
+  "t": "MDLZ"
+ }
+}
