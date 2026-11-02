@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T14:50:00+01:00",
+  "updated": "2026-11-02T15:10:00+01:00",
   "stand": "2026-11-02",
   "aktien": [
     {
@@ -978,6 +978,84 @@
       ],
       "schaetzung_betrag": 0.41,
       "quelle": "Pressemitteilung NIKE vom 06.08.2026 (0,41 $ je Quartal); Zahltage 1. Januar/April/Juli/Oktober (zuletzt 01.10.2026, laut stockevents.app, Sekundärquelle); nächste Zahlung im Januar 2027 mit diesem Betrag geschätzt",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-msci-world-dist",
+      "name": "iShares MSCI World UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE00B0M62Q58",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.1543,
+      "schaetzung_nach_monat": {
+        "3": 0.131,
+        "6": 0.4274,
+        "9": 0.1543,
+        "12": 0.19
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 31.03., 30.06., 30.09.2026 und 24.12.2025: 0,1310 $, 0,4274 $, 0,1543 $, 0,1900 $); Ausschüttungsrhythmus vierteljährlich laut iShares-Produktseite (ishares.com). Nicht zu verwechseln mit dem thesaurierenden iShares Core MSCI World (Acc). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "vanguard-ftse-all-world-hdy",
+      "name": "Vanguard FTSE All-World High Dividend Yield UCITS ETF (USD Dist)",
+      "art": "etf",
+      "isin": "IE00B8GKDB10",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.46,
+      "schaetzung_nach_monat": {
+        "4": 0.429,
+        "7": 0.9263,
+        "9": 0.5191,
+        "12": 0.46
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 01.04., 01.07., 30.09.2026 und 31.12.2025: 0,4290 $, 0,9263 $, 0,5191 $, 0,4600 $); Dezember-Betrag mit Vorjahr geschätzt, Zahltage verschieben sich je nach Jahr um wenige Tage über Monatsgrenzen (zum Beispiel 01.10.2025 statt 30.09.). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-stoxx-global-select-dividend-100",
+      "name": "iShares STOXX Global Select Dividend 100 UCITS ETF (DE) (Dist)",
+      "art": "etf",
+      "isin": "DE000A0F5UH1",
+      "waehrung": "EUR",
+      "land": "Deutschland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.4172,
+      "schaetzung_nach_monat": {
+        "1": 0.2515,
+        "4": 0.187,
+        "7": 0.6748,
+        "10": 0.4172
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com und onvista.de (jeweils 15.01., 15.04., 15.07., 15.10.2026: 0,2515 €, 0,1870 €, 0,6748 €, 0,4172 €); Quelle nennt Ex-Tag und Zahltag am selben Tag, der tatsächliche Zahltag kann wenige Tage später liegen. Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
       "abgerufen": "2026-11-02"
     }
   ],
