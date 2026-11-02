@@ -88,7 +88,7 @@ def main():
     d, T = lade()
     vorher = json.dumps(d, ensure_ascii=False, sort_keys=True)
     n0 = len(d['aktien'])
-    flags, geaendert, ok, fehler = [], [], 0, []
+    flags, geaendert, ok, fehler, n_etf = [], [], 0, [], 0
     ersten = HEUTE.replace(day=1)
     for a in d['aktien']:
         # 1) vergangene Zahlungen entfernen (Zahltag vor dem laufenden Monat)
@@ -102,6 +102,9 @@ def main():
                 neu.append(z)
         a['zahlungen'] = neu
         cfg = T.get(a['id'])
+        if cfg and not cfg.get('t') and cfg.get('grund') == 'ETF':
+            n_etf += 1   # ausschuettende ETFs: Ausschuettungen laut Anbieter, Pruefung vierteljaehrlich von Hand
+            continue
         if not cfg or not cfg.get('t'):
             flags.append(('manuell', a['id'], a['name'], (cfg or {}).get('grund', 'kein Ticker hinterlegt') + ' - nicht automatisch geprueft'))
             continue
@@ -171,7 +174,7 @@ def main():
             json.dump(d, fh, ensure_ascii=False, indent=2); fh.write('\n')
     # Bericht
     zeilen = ['# Auffaelligkeiten Dividendenabgleich %s' % HEUTE.strftime('%d.%m.%Y'), '',
-              'Geprueft: %d von %d Aktien automatisch. Automatisch angepasste Schaetzbetraege: %d.' % (ok, n_ges, len(geaendert)), '']
+              'Geprueft: %d von %d Eintraegen automatisch. Automatisch angepasste Schaetzbetraege: %d. Ausschuettende ETFs (%d) werden vierteljaehrlich von Hand geprueft.' % (ok, n_ges, len(geaendert), n_etf), '']
     titel = {'hinweis': 'Erhoehung/Kuerzung ab 10 % (Hinweis pruefen)', 'abweichung': 'Starke Abweichung (nicht uebernommen)', 'ausgeblieben': 'Zahlung ausgeblieben?', 'waehrung': 'Waehrung weicht ab', 'abruf': 'Nicht abrufbar', 'manuell': 'Nicht automatisch geprueft'}
     for art in ('abweichung', 'ausgeblieben', 'hinweis', 'waehrung', 'abruf', 'manuell'):
         z = [x for x in flags if x[0] == art]

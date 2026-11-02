@@ -684,5 +684,65 @@
  },
  "mondelez": {
   "t": "MDLZ"
+ },
+ "ishares-core-sp500-dist": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "vanguard-sp500-dist": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "vanguard-ftse-all-world-dist": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "spdr-global-dividend-aristocrats": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-euro-dividend": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-core-dax-dist": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-stoxx-europe-600-dist": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-euro-stoxx-select-dividend-30": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-stoxx-europe-select-dividend-30": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-asia-pacific-dividend": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-uk-dividend": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-developed-markets-property-yield": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "spdr-us-dividend-aristocrats": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "vanguard-ftse-emerging-markets-dist": {
+  "t": null,
+  "grund": "ETF"
+ },
+ "ishares-core-ftse-100-dist": {
+  "t": null,
+  "grund": "ETF"
  }
 }

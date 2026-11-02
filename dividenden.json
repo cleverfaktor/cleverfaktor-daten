@@ -4865,6 +4865,398 @@
       "schaetzung_betrag": 1.0963,
       "quelle": "Dividendenhistorie und Termine laut divvydiary.com (Abruf 02.11.2026), Sekundärquelle, nicht mit der Unternehmensmitteilung abgeglichen. Zahlungen gelten als bestätigt, wenn der Ex-Tag bereits verstrichen ist; sonst geschätzt. Hinweis: ADR in USD; Taiwan behaelt 21 % Quellensteuer ein (laut Praxis, ungeprüft).",
       "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-core-sp500-dist",
+      "name": "iShares Core S&P 500 UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE0031442068",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.1598,
+      "schaetzung_nach_monat": {
+        "3": 0.1679,
+        "6": 0.1654,
+        "9": 0.1646,
+        "12": 0.1598
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 24.12.2025, 31.03., 30.06., 30.09.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "vanguard-sp500-dist",
+      "name": "Vanguard S&P 500 UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE00B3XXRP09",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.2991,
+      "schaetzung_nach_monat": {
+        "4": 0.3296,
+        "7": 0.3236,
+        "9": 0.3096,
+        "12": 0.2991
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 31.12.2025, 01.04., 01.07., 30.09.2026; Zahltage driften teils über die Monatsgrenze). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "vanguard-ftse-all-world-dist",
+      "name": "Vanguard FTSE All-World UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE00B3RBWM25",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.5459,
+      "schaetzung_nach_monat": {
+        "4": 0.4576,
+        "7": 0.9055,
+        "9": 0.5434,
+        "12": 0.5459
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 31.12.2025, 01.04., 01.07., 30.09.2026; Zahltage driften teils über die Monatsgrenze). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "spdr-global-dividend-aristocrats",
+      "name": "SPDR S&P Global Dividend Aristocrats UCITS ETF",
+      "art": "etf",
+      "isin": "IE00B9CQXS71",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [
+        {
+          "datum": "2026-11-16",
+          "betrag": 0.3498,
+          "status": "bestaetigt"
+        }
+      ],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.3498,
+      "schaetzung_nach_monat": {
+        "2": 0.2676,
+        "5": 0.36,
+        "8": 0.5726,
+        "11": 0.3498
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 17.02., 20.05., 17.08., 16.11.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-euro-dividend",
+      "name": "iShares Euro Dividend UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE00B0M62S72",
+      "waehrung": "EUR",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.0546,
+      "schaetzung_nach_monat": {
+        "3": 0.058,
+        "6": 0.706,
+        "9": 0.3323,
+        "12": 0.0546
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 24.12.2025, 31.03., 30.06., 30.09.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-core-dax-dist",
+      "name": "iShares Core DAX UCITS ETF (DE) (Dist)",
+      "art": "etf",
+      "isin": "DE000A2QP331",
+      "waehrung": "EUR",
+      "land": "Deutschland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "halbjährlich",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        6,
+        9
+      ],
+      "schaetzung_betrag": 0.0803,
+      "schaetzung_nach_monat": {
+        "6": 0.0475,
+        "9": 0.0803
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 15.06. und 15.09.2026; nur zwei Ausschüttungen pro Jahr laut Quelle. Nicht zu verwechseln mit dem thesaurierenden iShares Core DAX (DE0005933931)). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-stoxx-europe-600-dist",
+      "name": "iShares STOXX Europe 600 UCITS ETF (DE) (Dist)",
+      "art": "etf",
+      "isin": "DE0002635307",
+      "waehrung": "EUR",
+      "land": "Deutschland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.194,
+      "schaetzung_nach_monat": {
+        "3": 0.1431,
+        "6": 0.7028,
+        "9": 0.5953,
+        "12": 0.194
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 15.12.2025, 16.03., 15.06., 15.09.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-euro-stoxx-select-dividend-30",
+      "name": "iShares EURO STOXX Select Dividend 30 UCITS ETF (DE)",
+      "art": "etf",
+      "isin": "DE0002635281",
+      "waehrung": "EUR",
+      "land": "Deutschland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.2942,
+      "schaetzung_nach_monat": {
+        "1": 0.0539,
+        "4": 0.0524,
+        "7": 0.6426,
+        "10": 0.2942
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 15.01., 15.04., 15.07., 15.10.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-stoxx-europe-select-dividend-30",
+      "name": "iShares STOXX Europe Select Dividend 30 UCITS ETF (DE)",
+      "art": "etf",
+      "isin": "DE0002635299",
+      "waehrung": "EUR",
+      "land": "Deutschland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.4186,
+      "schaetzung_nach_monat": {
+        "1": 0.1124,
+        "4": 0.0927,
+        "7": 0.7409,
+        "10": 0.4186
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 15.01., 15.04., 15.07., 15.10.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-asia-pacific-dividend",
+      "name": "iShares Asia Pacific Dividend UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE00B14X4T88",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.3943,
+      "schaetzung_nach_monat": {
+        "3": 0.01,
+        "6": 0.6982,
+        "9": 0.228,
+        "12": 0.3943
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 24.12.2025, 31.03., 30.06., 30.09.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-uk-dividend",
+      "name": "iShares UK Dividend UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE00B0M63060",
+      "waehrung": "GBP",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.0906,
+      "schaetzung_nach_monat": {
+        "3": 0.0402,
+        "6": 0.2114,
+        "9": 0.1266,
+        "12": 0.0906
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 24.12.2025, 31.03., 30.06., 30.09.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-developed-markets-property-yield",
+      "name": "iShares Developed Markets Property Yield UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE00B1FZS350",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "schaetzung_betrag": 0.1738,
+      "schaetzung_nach_monat": {
+        "2": 0.1727,
+        "5": 0.2087,
+        "8": 0.2188,
+        "11": 0.1738
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 26.11.2025, 27.02., 29.05., 31.08.2026. Immobilienfonds (REITs), Ausschüttungen teils als Kapitalrückzahlung möglich). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "spdr-us-dividend-aristocrats",
+      "name": "SPDR S&P US Dividend Aristocrats UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE00B6YX5D40",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.4297,
+      "schaetzung_nach_monat": {
+        "3": 0.4275,
+        "6": 0.4599,
+        "9": 0.4264,
+        "12": 0.4297
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 31.12.2025, 31.03., 30.06., 29.09.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "vanguard-ftse-emerging-markets-dist",
+      "name": "Vanguard FTSE Emerging Markets UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE00B3VVMM84",
+      "waehrung": "USD",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        4,
+        7,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.3273,
+      "schaetzung_nach_monat": {
+        "4": 0.2624,
+        "7": 0.571,
+        "9": 0.5835,
+        "12": 0.3273
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 31.12.2025, 01.04., 01.07., 30.09.2026; Zahltage driften teils über die Monatsgrenze). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
+    },
+    {
+      "id": "ishares-core-ftse-100-dist",
+      "name": "iShares Core FTSE 100 UCITS ETF (Dist)",
+      "art": "etf",
+      "isin": "IE0005042456",
+      "waehrung": "GBP",
+      "land": "Irland (Fondsdomizil)",
+      "qst": 0,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        3,
+        6,
+        9,
+        12
+      ],
+      "schaetzung_betrag": 0.0528,
+      "schaetzung_nach_monat": {
+        "3": 0.0492,
+        "6": 0.1288,
+        "9": 0.0865,
+        "12": 0.0528
+      },
+      "quelle": "Ausschüttungen laut divvydiary.com (Zahltage 24.12.2025, 31.03., 30.06., 30.09.2026). Ausschüttender ETF: Beträge vor deutscher Steuer (Teilfreistellung und Abgeltungsteuer sind nicht berücksichtigt); Quellensteuer wirkt auf Fondsebene und steckt bereits im Betrag. Ausschüttungen schwanken, Folgebeträge sind Schätzungen auf Basis der letzten Ausschüttung desselben Quartals.",
+      "abgerufen": "2026-11-02"
     }
   ],
   "keine_dividende": [
