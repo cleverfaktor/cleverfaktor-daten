@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02T14:40:00+01:00",
+  "updated": "2026-11-02T14:50:00+01:00",
   "stand": "2026-11-02",
   "aktien": [
     {
@@ -960,6 +960,25 @@
       },
       "quelle": "ASML-Pressemitteilung vom 14.10.2026 (Interim 1,88 € je Aktie, Zahlung 04.11.2026); übrige Quartale mit diesem Betrag geschätzt, die Schlussdividende im Mai fällt meist höher aus Schlussdividende (Mai) mit letzter Schlussdividende 2,70 € geschätzt (Datenseite stockanalysis.com).",
       "abgerufen": "2026-10-17"
+    },
+    {
+      "id": "nike",
+      "name": "Nike",
+      "isin": "US6541061031",
+      "waehrung": "USD",
+      "land": "USA",
+      "qst": 15,
+      "rhythmus": "quartalsweise",
+      "zahlungen": [],
+      "schaetzung_monate": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "schaetzung_betrag": 0.41,
+      "quelle": "Pressemitteilung NIKE vom 06.08.2026 (0,41 $ je Quartal); Zahltage 1. Januar/April/Juli/Oktober (zuletzt 01.10.2026, laut stockevents.app, Sekundärquelle); nächste Zahlung im Januar 2027 mit diesem Betrag geschätzt",
+      "abgerufen": "2026-11-02"
     }
   ]
 }
