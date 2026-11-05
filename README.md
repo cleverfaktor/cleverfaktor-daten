@@ -48,7 +48,7 @@ damit Tabelle und Finder nie auseinanderlaufen). Monatlich am 10. automatisch ge
 - `rows`: Abschnitte (`{"section": "..."}`) und Zeilen (`label`, optional `hint`,
   optional `highlight` für die Aktionszeile). Immer genau 11 Zellen in fester
   Reihenfolge: Trade Republic, Traders Place, SMARTBROKER+, comdirect,
-  Consorsbank, finanzen.net ZERO, S Broker, tradegate.direct, XTB, justTRADE, eToro.
+  Consorsbank, Finanzen invest (ehemals finanzen.net ZERO), S Broker, tradegate.direct, XTB, justTRADE, eToro.
 - Zelle = Liste von Teilen `{"t": Typ, "v": Text}`; Zeilenumbruch mit `\n`.
   Typen: `main`, `best` (günstigster Wert, grün), `sub`, `offer`, `nooffer`,
   `check`, `neutral`, `text`, `chips` (mit `items`).

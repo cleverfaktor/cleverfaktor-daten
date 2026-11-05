@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-01T07:14:09+01:00",
+ "updated": "2026-11-05T16:35:00+01:00",
  "stand": "2026-10-19",
  "anbieter": [
   "tr",
@@ -1729,7 +1729,7 @@
     "copy": false
    },
    "fz": {
-    "name": "finanzen.net ZERO",
+    "name": "Finanzen invest",
     "kosten1000": 0,
     "sparplanMin": 1,
     "sparplan": 3,
