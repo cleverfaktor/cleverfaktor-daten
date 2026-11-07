@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-11-06T06:55:00+01:00",
-  "week_start": "2026-11-02",
-  "week_end": "2026-11-06",
+  "updated": "2026-11-07T07:05:00+01:00",
+  "week_start": "2026-11-09",
+  "week_end": "2026-11-13",
   "rates": [
     {
       "id": "ecb",
@@ -34,58 +34,27 @@
   ],
   "events": [
     {
-      "date": "2026-11-02",
-      "time": "16:00",
-      "type": "konjunktur",
-      "region": "US",
-      "title": "ISM-Index Industrie Oktober",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921742-wochenvorschau-2-bis-8-november-45-kw-015.htm"
-    },
-    {
-      "date": "2026-11-03",
-      "time": "",
-      "type": "politik",
-      "region": "US",
-      "title": "US-Zwischenwahlen (Midterms)",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-10/69921742-wochenvorschau-2-bis-8-november-45-kw-015.htm"
-    },
-    {
-      "date": "2026-11-04",
-      "time": "11:00",
-      "type": "inflation",
-      "region": "EU",
-      "title": "Inflation Eurozone Oktober (Schnellschätzung)",
-      "source": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-12-november-2026-16019971"
-    },
-    {
-      "date": "2026-11-05",
-      "time": "13:00",
-      "type": "notenbank",
-      "region": "UK",
-      "title": "Bank-of-England-Zinsentscheid",
-      "source": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-12-november-2026-16019971"
-    },
-    {
-      "date": "2026-11-06",
+      "date": "2026-11-10",
       "time": "14:30",
-      "type": "arbeitsmarkt",
+      "type": "inflation",
       "region": "US",
-      "title": "US-Arbeitsmarktbericht Oktober",
-      "source": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+      "title": "US-Verbraucherpreise Oktober",
+      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-20-november-2026-12198499"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "11:00",
+      "type": "konjunktur",
+      "region": "EU",
+      "title": "BIP Eurozone Q3 (2. Schätzung)",
+      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-20-november-2026-12198499"
     }
   ],
   "earnings": [
-    { "date": "2026-11-02", "company": "Apple" },
-    { "date": "2026-11-02", "company": "Palantir" },
-    { "date": "2026-11-03", "company": "Zalando" },
-    { "date": "2026-11-03", "company": "Bayer" },
-    { "date": "2026-11-03", "company": "AMD" },
-    { "date": "2026-11-04", "company": "Novo Nordisk" },
-    { "date": "2026-11-04", "company": "BMW" },
-    { "date": "2026-11-04", "company": "McDonald's" },
-    { "date": "2026-11-05", "company": "Deutsche Telekom" },
-    { "date": "2026-11-05", "company": "Commerzbank" },
-    { "date": "2026-11-05", "company": "DHL Group" },
-    { "date": "2026-11-05", "company": "Rheinmetall" }
+    { "date": "2026-11-10", "company": "Infineon" },
+    { "date": "2026-11-11", "company": "Siemens Energy" },
+    { "date": "2026-11-12", "company": "Siemens" },
+    { "date": "2026-11-12", "company": "Allianz" },
+    { "date": "2026-11-12", "company": "Münchener Rück" }
   ]
 }
