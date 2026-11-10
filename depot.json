@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-05T16:35:00+01:00",
- "stand": "2026-10-19",
+ "updated": "2026-11-10T02:45:20+01:00",
+ "stand": "2026-11-10",
  "anbieter": [
   "tr",
   "tp",
@@ -124,11 +124,11 @@
     [
      {
       "t": "offer",
-      "v": "Bis zu 150 € Prämie\n+ 36 Monate 3,90 € je Trade"
+      "v": "Bis zu 150 € Prämie"
      },
      {
       "t": "sub",
-      "v": "Eröffnung bis 01.11.2026"
+      "v": "100 € für Depoteröffnung mit Werbe-Einwilligung + 50 € für einen in 3 Monaten ausgeführten Sparplan · Eröffnung 02.11.2026–28.02.2027"
      }
     ],
     [
@@ -143,8 +143,12 @@
     ],
     [
      {
-      "t": "nooffer",
-      "v": "Keine allgemeine Neukundenprämie"
+      "t": "offer",
+      "v": "100 € Investmentbonus\n+ tägliche Verlosung Mag-7-Aktienpaket"
+     },
+     {
+      "t": "sub",
+      "v": "mind. 1.000 € Einzahlung und 3 Trades in 30 Tagen · Depoteröffnung bis 30.11.2026"
      }
     ],
     [
@@ -338,7 +342,7 @@
      },
      {
       "t": "sub",
-      "v": "gettex · darunter 1 € Mindermengenzuschlag"
+      "v": "gettex · darunter 1 € Mindermengenzuschlag · Tradegate 2 €"
      }
     ],
     [
@@ -569,7 +573,7 @@
      },
      {
       "t": "sub",
-      "v": "nur gettex"
+      "v": "nur gettex und Tradegate"
      }
     ],
     [
@@ -794,7 +798,7 @@
      },
      {
       "t": "sub",
-      "v": "Aktion: Tagesgeld, Neukunden 5 Monate · danach 1,00 %"
+      "v": "Aktion: Tagesgeld, Neukunden 5 Monate, Eröffnung bis 30.11.2026 · danach 1,00 %"
      }
     ],
     [
@@ -1280,11 +1284,11 @@
     [
      {
       "t": "main",
-      "v": "nur gettex"
+      "v": "gettex und Tradegate"
      },
      {
       "t": "sub",
-      "v": "Mo–Fr 7:30–23 Uhr, Sa 14–19 Uhr · Krypto rund um die Uhr"
+      "v": "gettex Mo–Fr 7:30–23 Uhr, Sa 14–19 Uhr · Tradegate seit 31.10.2026 · Krypto rund um die Uhr"
      }
     ],
     [
@@ -1741,7 +1745,7 @@
     "ausland": -1,
     "telefon": 0,
     "zins": 0,
-    "minus": "Nur gettex, kein Guthabenzins",
+    "minus": "Nur deutsche Handelsplätze (gettex, Tradegate), kein Guthabenzins",
     "typ": "neo",
     "steuer": true,
     "giro": false,
