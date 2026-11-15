@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-10-30T19:10:00+01:00",
- "stand": "2026-10-19",
+ "updated": "2026-11-15T02:59:40+01:00",
+ "stand": "2026-11-15",
  "boersen": [
   "okx",
   "bitvavo",
@@ -20,11 +20,11 @@
     [
      {
       "t": "main",
-      "v": "0,35 %"
+      "v": "0,10 %"
      },
      {
       "t": "sub",
-      "v": "im Exchange-Modus"
+      "v": "Maker, Taker 0,20 % (Spot, EWR)"
      }
     ],
     [
@@ -112,7 +112,7 @@
     [
      {
       "t": "offer",
-      "v": "1,80 €"
+      "v": "0,55 €"
      }
     ],
     [
@@ -1271,7 +1271,7 @@
   {
    "mark": "¹",
    "title": "Kosten pro 500 €",
-   "text": "Gesamtkosten für einen Kauf von Bitcoin im Wert von 500 € per SEPA-Einzahlung, einschließlich Gebühr und Spread, laut Praxistest des Kryptobörsen-Vergleichs von Finanzfluss (Stand 10/2026). Der Spread schwankt je nach Marktlage, die Werte sind daher Richtwerte. OKX hat zum 25.09.2026 die Gebühren für reine Spot-Konten im EWR gesenkt (Regular: 0,10 % Maker, 0,20 % Taker); die tatsächlichen Kosten können dort niedriger ausfallen. Bei Kraken Pro gilt der Wert für Limit-Orders (Maker); Marktorders kosten im untersten Tier 0,80 %. eToro ist im Praxistest nicht enthalten; der Wert ist eine Schätzung aus 1 % Gebühr und ca. 0,75 % Spread laut kryptovergleich.de, zzgl. Umtausch bei Einzahlung in Euro."
+   "text": "Gesamtkosten für einen Kauf von Bitcoin im Wert von 500 € per SEPA-Einzahlung, einschließlich Gebühr und Spread, laut Praxistest des Kryptobörsen-Vergleichs von Finanzfluss (Stand 11/2026). Crypto.com und 21bitcoin sind dort aktuell nicht aufgeführt; für sie gelten die Werte aus Stand 10/2026. Der Spread schwankt je nach Marktlage, die Werte sind daher Richtwerte. Bei OKX gilt der Wert für den Handel im Exchange-Modus (Spot-Gebühren im EWR seit 25.09.2026: 0,10 % Maker, 0,20 % Taker). Bei Kraken Pro gilt der Wert für Limit-Orders (Maker); Marktorders kosten im untersten Tier 0,80 %. eToro ist im Praxistest nicht enthalten; der Wert ist eine Schätzung aus 1 % Gebühr und ca. 0,75 % Spread laut kryptovergleich.de, zzgl. Umtausch bei Einzahlung in Euro."
   },
   {
    "mark": "²",
@@ -1293,8 +1293,8 @@
   "ex": {
    "okx": {
     "name": "OKX",
-    "kosten500": 1.8,
-    "kostenText": "ca. 1,80 € pro 500 € Kauf",
+    "kosten500": 0.55,
+    "kostenText": "ca. 0,55 € pro 500 € Kauf",
     "pay": [
      "sepa",
      "card",
@@ -1679,7 +1679,7 @@
     "cost": {
      "bitvavo": [
       4,
-      "Der günstigste Anbieter im Vergleich"
+      "Niedrige Kosten auch beim einfachen Kauf"
      ],
      "okx": [
       3,
