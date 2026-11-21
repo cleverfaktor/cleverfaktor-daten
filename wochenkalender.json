@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-11-20T06:50:00+01:00",
-  "week_start": "2026-11-16",
-  "week_end": "2026-11-20",
+  "updated": "2026-11-21T06:55:00+01:00",
+  "week_start": "2026-11-23",
+  "week_end": "2026-11-27",
   "rates": [
     {
       "id": "ecb",
@@ -34,81 +34,85 @@
   ],
   "events": [
     {
-      "date": "2026-11-16",
-      "time": "00:50",
+      "date": "2026-11-23",
+      "time": "10:00",
       "type": "konjunktur",
-      "region": "JP",
-      "title": "BIP Japan Q3 (vorläufig)",
-      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-27-november-2026-12206972"
+      "region": "EU",
+      "title": "Einkaufsmanagerindizes Eurozone November (vorläufig)",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
     },
     {
-      "date": "2026-11-16",
-      "time": "03:00",
+      "date": "2026-11-23",
+      "time": "15:45",
       "type": "konjunktur",
-      "region": "CN",
-      "title": "China: Industrieproduktion und Einzelhandel Oktober",
-      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-27-november-2026-12206972"
+      "region": "US",
+      "title": "Einkaufsmanagerindizes USA November (vorläufig)",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
     },
     {
-      "date": "2026-11-17",
-      "time": "11:00",
+      "date": "2026-11-24",
+      "time": "10:00",
       "type": "konjunktur",
       "region": "DE",
-      "title": "ZEW-Konjunkturerwartungen November",
-      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-27-november-2026-12206972"
+      "title": "ifo-Geschäftsklima November",
+      "source": "https://www.ifo.de/umfrage/ifo-geschaeftsklimaindex"
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-24",
+      "time": "16:00",
+      "type": "konjunktur",
+      "region": "US",
+      "title": "US-Verbrauchervertrauen November",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "08:00",
+      "type": "konjunktur",
+      "region": "DE",
+      "title": "BIP Deutschland Q3 (Detailergebnisse)",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
+    },
+    {
+      "date": "2026-11-25",
       "time": "14:30",
       "type": "konjunktur",
       "region": "US",
-      "title": "US-Einzelhandelsumsatz Oktober",
-      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-27-november-2026-12206972"
+      "title": "BIP USA Q3 (2. Schätzung)",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
     },
     {
-      "date": "2026-11-18",
-      "time": "11:00",
+      "date": "2026-11-25",
+      "time": "14:30",
       "type": "inflation",
-      "region": "EU",
-      "title": "Verbraucherpreise Eurozone Oktober (endgültig)",
-      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-27-november-2026-12206972"
+      "region": "US",
+      "title": "PCE-Preisindex Oktober",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-25",
       "time": "20:00",
       "type": "notenbank",
       "region": "US",
-      "title": "Fed: Protokoll der Zinssitzung vom 28. Oktober",
-      "source": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      "title": "Fed: Konjunkturbericht Beige Book",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
     },
     {
-      "date": "2026-11-19",
-      "time": "14:30",
+      "date": "2026-11-27",
+      "time": "09:55",
       "type": "arbeitsmarkt",
-      "region": "US",
-      "title": "US-Erstanträge auf Arbeitslosenhilfe",
-      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-27-november-2026-12206972"
+      "region": "DE",
+      "title": "Arbeitsmarktdaten Deutschland November",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
     },
     {
-      "date": "2026-11-20",
-      "time": "00:30",
-      "type": "inflation",
-      "region": "JP",
-      "title": "Verbraucherpreise Japan Oktober",
-      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-27-november-2026-12206972"
-    },
-    {
-      "date": "2026-11-20",
-      "time": "",
-      "type": "notenbank",
+      "date": "2026-11-27",
+      "time": "11:00",
+      "type": "konjunktur",
       "region": "EU",
-      "title": "Rede von EZB-Präsidentin Lagarde (European Banking Congress)",
-      "source": "https://www.ariva.de/news/wochenvorschau-termine-bis-27-november-2026-12206972"
+      "title": "Wirtschaftsvertrauen Eurozone November",
+      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
     }
   ],
-  "earnings": [
-    { "date": "2026-11-17", "company": "Disney" },
-    { "date": "2026-11-17", "company": "Nvidia" },
-    { "date": "2026-11-19", "company": "Walmart" }
-  ]
+  "earnings": []
 }
