@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-26T18:45:00+01:00",
+ "updated": "2026-11-26T18:25:00+01:00",
  "stand": "2026-11-26",
  "anbieter": [
   "tr",
@@ -187,213 +187,6 @@
      {
       "t": "nooffer",
       "v": "Keine bestätigte Neukundenaktion"
-     }
-    ]
-   ]
-  },
-  {
-   "section": "Altersvorsorge mit staatlicher Förderung"
-  },
-  {
-   "label": "Altersvorsorgedepot",
-   "hint": "staatlich gefördert, Start 01.01.2027",
-   "cells": [
-    [
-     {
-      "t": "check",
-      "v": "✓ ab 01.01.2027"
-     },
-     {
-      "t": "sub",
-      "v": "Standarddepot und Depot für Selbstentscheider · 0 € Depot und Sparplan · Fondskosten bei Dutzenden ETFs von BlackRock, DWS und Vanguard erstattet"
-     }
-    ],
-    [
-     {
-      "t": "check",
-      "v": "✓ ab 01.01.2027"
-     },
-     {
-      "t": "sub",
-      "v": "Standarddepot (3 Modelle) und freies Depot · 0 € Depot und Sparplan · ETF-Kosten im Standarddepot bis Ende 2028 erstattet (bis 20.000 €)"
-     }
-    ],
-    [
-     {
-      "t": "check",
-      "v": "✓ ab 01.01.2027"
-     },
-     {
-      "t": "sub",
-      "v": "Standarddepot und freies Depot · 0 € Depot und Sparplan · ETF-Kosten im Standarddepot 3 Jahre erstattet (bis 25.000 €)"
-     }
-    ],
-    [
-     {
-      "t": "text",
-      "v": "Angekündigt (Januar 2027)"
-     },
-     {
-      "t": "sub",
-      "v": "Standard und Flexibel · Kosten noch nicht veröffentlicht"
-     }
-    ],
-    [
-     {
-      "t": "check",
-      "v": "✓ Anfang 2027"
-     },
-     {
-      "t": "sub",
-      "v": "Standarddepot, Standarddepot Fokus und flexibles Depot · ohne Depotgebühr · ETF-Kosten im Standard 2027–2030 erstattet"
-     }
-    ],
-    [
-     {
-      "t": "text",
-      "v": "Angekündigt (Januar 2027)"
-     },
-     {
-      "t": "sub",
-      "v": "Vormerkung möglich · Standarddepot mit Xtrackers-ETFs · Kosten noch nicht veröffentlicht"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Kein eigenes Angebot angekündigt"
-     },
-     {
-      "t": "sub",
-      "v": "Sparkassen bieten das Altersvorsorgedepot über die Deka an"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Nicht angekündigt"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Nicht angekündigt"
-     }
-    ],
-    [
-     {
-      "t": "text",
-      "v": "Angekündigt"
-     },
-     {
-      "t": "sub",
-      "v": "Konditionen noch nicht veröffentlicht"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Nicht angekündigt"
-     },
-     {
-      "t": "sub",
-      "v": "kein Angebot veröffentlicht"
-     }
-    ]
-   ]
-  },
-  {
-   "label": "Frühstart-Rente für Kinder",
-   "hint": "10 € pro Monat vom Staat, 6. bis 18. Geburtstag, ab Jahrgang 2020",
-   "cells": [
-    [
-     {
-      "t": "check",
-      "v": "✓ ab 01.01.2027"
-     },
-     {
-      "t": "sub",
-      "v": "kostenlos: 0 € Depot und Sparplan, keine Produktkosten bei ETFs von BlackRock, Vanguard und DWS · Eröffnung in der App über das Kinderdepot"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Nicht angekündigt"
-     },
-     {
-      "t": "sub",
-      "v": "Kinderdepot vorhanden"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Nicht angekündigt"
-     }
-    ],
-    [
-     {
-      "t": "text",
-      "v": "Angekündigt (Januar 2027)"
-     },
-     {
-      "t": "sub",
-      "v": "eigenes Modell neben Standard und Flexibel · Kosten noch nicht veröffentlicht"
-     }
-    ],
-    [
-     {
-      "t": "text",
-      "v": "Angekündigt (2027)"
-     },
-     {
-      "t": "sub",
-      "v": "Startzeitpunkt laut Bank noch offen · Kosten noch nicht veröffentlicht"
-     }
-    ],
-    [
-     {
-      "t": "text",
-      "v": "Geplant"
-     },
-     {
-      "t": "sub",
-      "v": "Kinderdepot soll mit Frühstart-Rente angeboten werden · Konditionen noch offen"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Kein eigenes Angebot angekündigt"
-     },
-     {
-      "t": "sub",
-      "v": "Sparkassen bieten die Frühstart-Rente über die Deka an"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Nicht angekündigt"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Nicht angekündigt"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Nicht angekündigt"
-     }
-    ],
-    [
-     {
-      "t": "neutral",
-      "v": "Nicht angekündigt"
      }
     ]
    ]
@@ -947,6 +740,213 @@
      {
       "t": "sub",
       "v": "rund 700 ETFs und 6.000 Aktien sparplanfähig"
+     }
+    ]
+   ]
+  },
+  {
+   "section": "Altersvorsorge mit staatlicher Förderung"
+  },
+  {
+   "label": "Altersvorsorgedepot",
+   "hint": "staatlich gefördert, Start 01.01.2027",
+   "cells": [
+    [
+     {
+      "t": "check",
+      "v": "✓ ab 01.01.2027"
+     },
+     {
+      "t": "sub",
+      "v": "Standarddepot und Depot für Selbstentscheider · 0 € Depot und Sparplan · Fondskosten bei Dutzenden ETFs von BlackRock, DWS und Vanguard erstattet"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ ab 01.01.2027"
+     },
+     {
+      "t": "sub",
+      "v": "Standarddepot (3 Modelle) und freies Depot · 0 € Depot und Sparplan · ETF-Kosten im Standarddepot bis Ende 2028 erstattet (bis 20.000 €)"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ ab 01.01.2027"
+     },
+     {
+      "t": "sub",
+      "v": "Standarddepot und freies Depot · 0 € Depot und Sparplan · ETF-Kosten im Standarddepot 3 Jahre erstattet (bis 25.000 €)"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Angekündigt (Januar 2027)"
+     },
+     {
+      "t": "sub",
+      "v": "Standard und Flexibel · Kosten noch nicht veröffentlicht"
+     }
+    ],
+    [
+     {
+      "t": "check",
+      "v": "✓ Anfang 2027"
+     },
+     {
+      "t": "sub",
+      "v": "Standarddepot, Standarddepot Fokus und flexibles Depot · ohne Depotgebühr · ETF-Kosten im Standard 2027–2030 erstattet"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Angekündigt (Januar 2027)"
+     },
+     {
+      "t": "sub",
+      "v": "Vormerkung möglich · Standarddepot mit Xtrackers-ETFs · Kosten noch nicht veröffentlicht"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Kein eigenes Angebot angekündigt"
+     },
+     {
+      "t": "sub",
+      "v": "Sparkassen bieten das Altersvorsorgedepot über die Deka an"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Nicht angekündigt"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Nicht angekündigt"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Angekündigt"
+     },
+     {
+      "t": "sub",
+      "v": "Konditionen noch nicht veröffentlicht"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Nicht angekündigt"
+     },
+     {
+      "t": "sub",
+      "v": "kein Angebot veröffentlicht"
+     }
+    ]
+   ]
+  },
+  {
+   "label": "Frühstart-Rente für Kinder",
+   "hint": "10 € pro Monat vom Staat, 6. bis 18. Geburtstag, ab Jahrgang 2020",
+   "cells": [
+    [
+     {
+      "t": "check",
+      "v": "✓ ab 01.01.2027"
+     },
+     {
+      "t": "sub",
+      "v": "kostenlos: 0 € Depot und Sparplan, keine Produktkosten bei ETFs von BlackRock, Vanguard und DWS · Eröffnung in der App über das Kinderdepot"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Nicht angekündigt"
+     },
+     {
+      "t": "sub",
+      "v": "Kinderdepot vorhanden"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Nicht angekündigt"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Angekündigt (Januar 2027)"
+     },
+     {
+      "t": "sub",
+      "v": "eigenes Modell neben Standard und Flexibel · Kosten noch nicht veröffentlicht"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Angekündigt (2027)"
+     },
+     {
+      "t": "sub",
+      "v": "Startzeitpunkt laut Bank noch offen · Kosten noch nicht veröffentlicht"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Geplant"
+     },
+     {
+      "t": "sub",
+      "v": "Kinderdepot soll mit Frühstart-Rente angeboten werden · Konditionen noch offen"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Kein eigenes Angebot angekündigt"
+     },
+     {
+      "t": "sub",
+      "v": "Sparkassen bieten die Frühstart-Rente über die Deka an"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Nicht angekündigt"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Nicht angekündigt"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Nicht angekündigt"
+     }
+    ],
+    [
+     {
+      "t": "neutral",
+      "v": "Nicht angekündigt"
      }
     ]
    ]
