@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updated": "2026-11-27T06:48:00+01:00",
-  "week_start": "2026-11-23",
-  "week_end": "2026-11-27",
+  "updated": "2026-11-28T07:05:00+01:00",
+  "week_start": "2026-11-30",
+  "week_end": "2026-12-04",
   "rates": [
     {
       "id": "ecb",
@@ -34,84 +34,44 @@
   ],
   "events": [
     {
-      "date": "2026-11-23",
-      "time": "10:00",
-      "type": "konjunktur",
-      "region": "EU",
-      "title": "Einkaufsmanagerindizes Eurozone November (vorläufig)",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
-    },
-    {
-      "date": "2026-11-23",
-      "time": "15:45",
-      "type": "konjunktur",
-      "region": "US",
-      "title": "Einkaufsmanagerindizes USA November (vorläufig)",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
-    },
-    {
-      "date": "2026-11-24",
-      "time": "10:00",
-      "type": "konjunktur",
+      "date": "2026-11-30",
+      "time": "",
+      "type": "inflation",
       "region": "DE",
-      "title": "ifo-Geschäftsklima November",
-      "source": "https://www.ifo.de/umfrage/ifo-geschaeftsklimaindex"
+      "title": "Verbraucherpreise Deutschland November (vorläufig)",
+      "source": "https://www.presseportal.de/pm/32102/6399042"
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-12-01",
+      "time": "11:00",
+      "type": "inflation",
+      "region": "EU",
+      "title": "Inflation Eurozone November (HVPI-Schnellschätzung)",
+      "source": "https://forexfundamentals.com/economic-calendar/eur-cpi/2026-12-01"
+    },
+    {
+      "date": "2026-12-01",
       "time": "16:00",
       "type": "konjunktur",
       "region": "US",
-      "title": "US-Verbrauchervertrauen November",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
+      "title": "ISM-Einkaufsmanagerindex Industrie November",
+      "source": "https://www.financecalendar.com/event/us-ism-manufacturing-pmi-december-2026/"
     },
     {
-      "date": "2026-11-25",
-      "time": "08:00",
-      "type": "konjunktur",
-      "region": "DE",
-      "title": "BIP Deutschland Q3 (Detailergebnisse)",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
-    },
-    {
-      "date": "2026-11-25",
-      "time": "14:30",
-      "type": "konjunktur",
-      "region": "US",
-      "title": "BIP USA Q3 (2. Schätzung)",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
-    },
-    {
-      "date": "2026-11-25",
-      "time": "14:30",
-      "type": "inflation",
-      "region": "US",
-      "title": "PCE-Preisindex Oktober",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
-    },
-    {
-      "date": "2026-11-25",
-      "time": "20:00",
-      "type": "notenbank",
-      "region": "US",
-      "title": "Fed: Konjunkturbericht Beige Book",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
-    },
-    {
-      "date": "2026-11-27",
-      "time": "09:55",
+      "date": "2026-12-01",
+      "time": "16:00",
       "type": "arbeitsmarkt",
-      "region": "DE",
-      "title": "Arbeitsmarktdaten Deutschland November",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
+      "region": "US",
+      "title": "US-Stellenangebote JOLTS Oktober",
+      "source": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
     },
     {
-      "date": "2026-11-27",
-      "time": "11:00",
-      "type": "konjunktur",
-      "region": "EU",
-      "title": "Wirtschaftsvertrauen Eurozone November",
-      "source": "https://www.finanznachrichten.de/nachrichten-2026-11/70192119-wochenvorschau-termine-bis-4-dezember-2026-016.htm"
+      "date": "2026-12-04",
+      "time": "14:30",
+      "type": "arbeitsmarkt",
+      "region": "US",
+      "title": "US-Arbeitsmarktbericht November",
+      "source": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
     }
   ],
   "earnings": []
